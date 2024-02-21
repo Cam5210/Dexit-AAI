@@ -77,7 +77,3 @@ def main(input_file_path, output_file_path, deleted_content_file_path):
 
 # Example Usage of Main
 # main('page1.html', 'output.txt', 'deleted_output.txt')
-
-
-if __name__ == '__main__':
-    main()
