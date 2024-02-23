@@ -1,0 +1,41 @@
+Text: General conditions of carriage, legal information | Air France
+Text: -
+Text: Air France uses cookies
+Text: Air France uses functional and analytical cookies to make sure our website works properly and to offer you the best possible user experience. By using this website, functional and analytical cookies will be installed on your browser.
+Text: With your consent, we also use marketing cookies to analyze our marketing performance and personalize our offers. By using these cookies, Air France and third parties can track your behavior online to make our content and advertisements more relevant to your interests.
+Text: By clicking on "Accept," you consent to the placing of all marketing cookies. If you click on "Reject," we will not place any marketing cookies. You can change your cookie preferences or withdraw your consent at any given time.
+Text: Change cookie settings
+Link: https://wwws.airfrance.fr/exchange/deeplink?country=fr&language=en&target=/information/legal/edito-cookies
+Text: Read Air France's cookie policy
+Link: https://img.static-af.com/m/2c5d03e39a1d1969/original/List-of-Air-France-s-cookies-and-partners.pdf
+Text: Check the full list of cookies used on our website
+Text: Reject
+Text: Accept
+Text: Cookie settings
+Text: Functional and analytical cookies
+Text: By selecting this option, you give us permission to use only functional and analytical cookies.
+Text: Functional and analytical cookies
+Text: Are necessary for our site to properly function
+Text: Enable you to securely book a flight and access your account
+Text: Are used to remember your language preferences and settings
+Text: Allow you to share your feedback
+Text: Help us detect bugs and improve our site
+Text: Collect information on how visitors use our site
+Text: Are used for A/B testing
+Text: Marketing cookies for performance
+Text: By selecting this option, you give us permission to use functional and analytical cookies as described above, as well as cookies to measure our marketing performance.
+Text: By selecting this option, you are authorizing us to use functional and analytical cookies as described above, as well as cookies to measure our marketing performance. These cookies:
+Text: Are used to measure the effectiveness of our marketing campaigns
+Text: Are used to compare the performance of our marketing campaigns
+Text: Are never used to send you targeted ads
+Text: Marketing cookies for performance, advertisements, and social media
+Text: By selecting this option, you give us permission to use functional and analytical cookies as described above, as well as cookies to measure our marketing performance, and cookies for advertisements and social media.
+Text: By selecting this option, you authorize us to use the functional and analytical cookies as described above, as well as cookies to measure our marketing performance and cookies for advertisements and social media. These cookies:
+Text: Are used to collect information about your visit, clicks on our website, and third-party websites and apps
+Text: Are used to show you relevant, personalized advertisements or offers on our website and outside our website
+Text: Measure the effectiveness of our advertising campaigns by tracking the number of clicks
+Text: Limit the number of times you see an advertisement
+Text: Allow you to like or share content on social media platforms such as Facebook and Twitter. These social networks can then use your cookies at their leisure.
+Text: Can be used by social media platforms such as Facebook and Twitter for their own purposes
+Text: Accept selected cookies
+Text: Accept all cookies

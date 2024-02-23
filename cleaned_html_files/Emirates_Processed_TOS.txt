@@ -1,0 +1,1702 @@
+Text: Emirates | Fly Better
+Text: Important:
+Link: /english/help/travel-updates/#5064
+Text: Suspension of flights to/from Tel Aviv
+Text: Show more
+Text: Show less
+Text: Skip to the main content
+Link: /english/information/accessibility/
+Text: Accessibility information
+Link: /english/
+Text: BOOK
+Text: MANAGE
+Text: EXPERIENCE
+Text: WHERE WE FLY
+Text: LOYALTY
+Text: HELP
+Text: GLOBAL
+Text: Search
+Text: Search
+Text: Search
+Text: clear input
+Text: Search
+Text: Close
+Link: /english/sso/login-redirect?state=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWxsYmFja1VybCI6Ii9lbmdsaXNoLyIsInB1YiI6Ii9lbmdsaXNoIiwibm9Qcm9maWxlIjoxfQ.lIbcrEcNgfIMXQQXvOmuhFyYwemAoD0q4mjOqV8pfU4
+Text: Log in
+Text: Menu
+Text: BOOK
+Link: /english/book/
+Text: Book
+Link: /english/book/
+Text: Book flights
+Link: /english/book/
+Text: Search for a flight
+Link: /english/book/
+Text: Search for a flight
+Link: /english/book/flight-schedules/
+Text: Flight schedules
+Link: /english/book/featured-fares/
+Text: Featured fares
+Link: /english/special-offers/
+Text: Special offers
+Link: /english/book/best-fare-finder/
+Text: Best Fare Finder
+Link: /english/book/planning-your-trip/
+Text: Planning your trip
+Link: /english/book/planning-your-trip/
+Text: Planning your trip
+Link: /english/book/planning-your-trip/hotels/
+Text: Book a hotel
+Link: /english/book/planning-your-trip/tours-and-activities/
+Text: Tours and activities
+Link: /english/book/travel-services/
+Text: Travel services
+Link: /english/book/travel-services/
+Text: Travel services
+Link: http://www.marhabaservices.com/
+Text: Meet & Greet
+Link: /english/before-you-fly/dubai-international-airport/dubai-connect/
+Text: Dubai Connect
+Link: /english/book/transportation/
+Text: Transportation
+Link: /english/book/transportation/
+Text: Transportation
+Link: /english/book/transportation/book-an-airport-transfer/
+Text: Airport transfer
+Link: /english/book/transportation/car-rental/
+Text: Book a car
+Link: /english/travel-partners/
+Text: Airline partners
+Link: https://emirates.eurail.com/en
+Text: Eurail
+Link: /english/book/about-booking-online/emirates-app/
+Text: About booking online
+Link: /english/book/about-booking-online/emirates-app/
+Text: The Emirates App
+Link: /english/book/about-booking-online/emirates-best-price-guarantee/
+Text: Emirates Best Price guarantee
+Link: /english/book/about-booking-online/emirates-best-price-guarantee/
+Text: Emirates Best Price guarantee
+Link: /english/book/about-booking-online/emirates-seat-selection/
+Text: Seat selection
+Link: /english/book/about-booking-online/emirates-app/
+Text: The Emirates App
+Link: /english/book/about-booking-online/emirates-app/
+Text: The Emirates App
+Text: MANAGE
+Link: /english/manage-booking/
+Text: Manage
+Link: /english/manage-booking/
+Text: Manage your booking
+Link: /english/manage-booking/
+Text: Retrieve your booking
+Link: /english/manage-booking/
+Text: Retrieve your booking
+Link: /english/help/faq-topics/cancelling-or-changing-a-booking/faq/can-i-cancel-my-booking-online/
+Text: Cancel your booking
+Link: /english/manage-booking/change-flight/
+Text: Change your booking
+Link: /english/manage-booking/
+Text: Choose your seat
+Link: /english/manage-booking/upgrade-flight/
+Text: Upgrade your flight
+Link: /english/manage-booking/
+Text: Manage chauffeur-drive
+Link: /english/before-you-fly/health/accessible-travel/
+Text: Book accessible travel
+Link: /english/manage-booking/online-check-in/
+Text: Check in online
+Link: /english/manage-booking/online-check-in/
+Text: Check in online
+Link: /english/manage-booking/check-in-options/
+Text: Check-in options
+Link: /english/manage-booking/flight-status/
+Text: Flight status
+Link: /english/manage-booking/flight-status/
+Text: Flight status
+Link: /english/before-you-fly/
+Text: Before you fly
+Link: /english/before-you-fly/
+Text: Before you fly
+Link: /english/before-you-fly/travel/
+Text: Travel information
+Link: /english/before-you-fly/travel/
+Text: Travel information
+Link: /english/before-you-fly/travel/dangerous-goods-policy/
+Text: Guide to dangerous goods
+Link: /english/before-you-fly/travel/rules-and-notices/
+Text: Rules and notices
+Link: /english/before-you-fly/health/
+Text: Health
+Link: /english/before-you-fly/health/
+Text: Health
+Link: /english/before-you-fly/health/medical-information-form/
+Text: Medical information form (MEDIF)
+Link: /english/before-you-fly/travel/dietary-requirements/
+Text: Dietary information
+Link: /english/before-you-fly/travel/dangerous-goods-policy/
+Text: Banned substances in the UAE
+Link: /english/before-you-fly/dubai-international-airport/
+Text: Dubai International
+Link: /english/before-you-fly/dubai-international-airport/
+Text: Dubai International
+Link: /english/before-you-fly/dubai-international-airport/shuttle-service-dubai/
+Text: Shuttle service in Dubai
+Link: /english/before-you-fly/dubai-international-airport/emirates-terminal-3/
+Text: Emirates Terminal 3
+Link: /english/book/transportation/
+Text: To and from the airport
+Link: /english/before-you-fly/baggage/
+Text: Baggage
+Link: /english/before-you-fly/baggage/
+Text: Baggage information
+Link: /english/before-you-fly/baggage/
+Text: Baggage information
+Link: /english/before-you-fly/baggage/
+Text: Baggage information
+Link: /english/before-you-fly/baggage/checked-baggage/
+Text: Checked baggage
+Link: /english/before-you-fly/baggage/cabin-baggage-rules/
+Text: Cabin baggage
+Link: /english/before-you-fly/baggage/purchase-additional-baggage-allowance/
+Text: Purchase more baggage
+Link: /english/before-you-fly/baggage/unusual-baggage-and-special-allowances/
+Text: Extra checked baggage allowances
+Link: /english/before-you-fly/baggage/baggage-services-dubai/
+Text: Baggage services in Dubai
+Link: /english/before-you-fly/baggage/delayed-damaged-baggage/
+Text: Delayed or damaged baggage
+Link: /english/before-you-fly/baggage/delayed-damaged-baggage/
+Text: Delayed or damaged baggage
+Link: /english/before-you-fly/visa-passport-information/find-uae-visa-requirements/
+Text: Visa and passport
+Link: /english/before-you-fly/visa-passport-information/find-uae-visa-requirements/
+Text: Find your visa requirements
+Link: /english/before-you-fly/visa-passport-information/
+Text: Visa and passport information
+Link: /english/before-you-fly/visa-passport-information/
+Text: Visa and passport information
+Link: /english/before-you-fly/visa-passport-information/travelling-to-and-from-the-united-states/
+Text: USA travel authorisation
+Link: /english/before-you-fly/visa-passport-information/uae-visa-information/
+Text: UAE visas
+Link: /english/before-you-fly/visa-passport-information/uae-visa-information/
+Text: UAE visas
+Text: EXPERIENCE
+Link: /english/experience/woyf/
+Text: Inflight experience
+Link: /english/experience/woyf/
+Text: What's on your flight
+Link: /english/experience/cabin-features/
+Text: Cabin features
+Link: /english/experience/cabin-features/
+Text: Cabin features
+Link: /english/experience/cabin-features/first-class/
+Text: First Class
+Link: /english/experience/cabin-features/business-class/
+Text: Business Class
+Link: /english/experience/cabin-features/premium-economy-class/
+Text: Premium Economy
+Link: /english/experience/cabin-features/economy-class/
+Text: Economy Class
+Link: /english/experience/inflight-entertainment/
+Text: Inflight entertainment
+Link: /english/experience/inflight-entertainment/
+Text: Inflight entertainment
+Link: /english/experience/inflight-entertainment/ice/
+Text: What's on ice
+Link: /english/experience/inflight-entertainment/ice-tv-live/
+Text: ice TV Live
+Link: /english/experience/inflight-entertainment/onboard-wifi/
+Text: Onboard Wi-Fi
+Link: /english/experience/inflight-entertainment/children-entertainment/
+Text: Children's entertainment
+Link: /english/experience/inflight-entertainment/podcasts/
+Text: Emirates World Interviews
+Link: /english/experience/dining/
+Text: Dining
+Link: /english/experience/dining/
+Text: Dining
+Link: /english/experience/dining/first-class/
+Text: First Class dining
+Link: /english/experience/dining/business-class/
+Text: Business Class dining
+Link: /english/experience/dining/premium-economy/
+Text: Premium Economy dining
+Link: /english/experience/dining/economy-class/
+Text: Economy Class dining
+Link: /english/experience/drinks/
+Text: Drinks
+Link: /english/experience/our-fleet/
+Text: Our fleet
+Link: /english/experience/our-fleet/
+Text: Our fleet
+Link: /english/experience/our-fleet/boeing-777/
+Text: Boeing 777
+Link: /english/experience/our-fleet/a380/
+Text: Emirates A380
+Link: /english/experience/our-fleet/emirates-executive/
+Text: Emirates Executive
+Link: /english/experience/our-fleet/photo-gallery/
+Text: Emirates Photo Gallery
+Link: /english/experience/seating-charts/
+Text: Seating charts
+Link: /english/experience/
+Text: The Emirates Experience
+Link: /english/experience/
+Text: Your journey starts here
+Link: /english/experience/
+Text: The Emirates Experience
+Link: /english/experience/
+Text: The Emirates Experience
+Link: /english/experience/chauffeur-drive/
+Text: Chauffeur-drive
+Link: /english/experience/the-emirates-service/
+Text: The Emirates Service
+Link: /english/experience/seasonal-occasions/
+Text: Seasonal occasions
+Link: /english/experience/review/
+Text: Ratings & Reviews
+Link: /english/experience/contactless-journey/
+Text: Contactless journey
+Link: /english/experience/our-lounges/
+Text: Our lounges
+Link: /english/experience/our-lounges/
+Text: Our lounges
+Link: /english/experience/our-lounges/first-class/
+Text: First Class lounge
+Link: /english/experience/our-lounges/business-class/
+Text: Business Class lounge
+Link: /english/experience/our-lounges/worldwide/
+Text: Worldwide lounges
+Link: /english/experience/our-lounges/partners/
+Text: Partner lounges
+Link: /english/experience/our-lounges/paid-lounge-access/
+Text: Paid lounge access
+Link: /english/experience/our-lounges/marhaba/
+Text: marhaba lounge
+Link: /english/experience/shop-emirates/
+Text: Shop Emirates
+Link: /english/experience/shop-emirates/
+Text: Shop Emirates
+Link: /english/experience/shop-emirates/duty-free/
+Text: Emirates duty free collection
+Link: /english/experience/shop-emirates/official-store/
+Text: Emirates Official Store
+Link: /english/family/
+Text: Family travel
+Link: /english/family/
+Text: Travelling with your family
+Link: /english/family/planning-your-family-trip/
+Text: Planning your family trip
+Link: /english/family/planning-your-family-trip/
+Text: Planning your family trip
+Link: /english/family/planning-your-family-trip/unaccompanied-minors/
+Text: Unaccompanied minors
+Link: /english/before-you-fly/health/before-you-leave/
+Text: Pregnancy
+Link: /english/before-you-fly/baggage/unusual-baggage-and-special-allowances/
+Text: Baggage allowances
+Link: /english/help/faq-topics/special-assistance-and-requests/faq/what-are-the-ticketing-rules-for-child-and-infant-passengers-on-emirates/
+Text: Child and infant fare rules
+Link: /english/help/faq-topics/special-assistance-and-requests/faq/are-there-special-services-if-i-m-travelling-with-young-children-or-infants/
+Text: Car seats and bassinets
+Link: /english/family/at-the-airport/
+Text: At the airport
+Link: /english/family/at-the-airport/
+Text: At the airport
+Link: /english/family/on-board/
+Text: On board
+Link: /english/family/on-board/
+Text: On board
+Link: /english/family/on-board/travelling-with-children/
+Text: Travelling with children
+Link: /english/family/on-board/travelling-with-infants/
+Text: Travelling with infants
+Link: /english/help/faq-topics/baggage-and-lost-property/faq/are-there-additional-baggage-allowances-if-i-m-travelling-with-an-infant/
+Text: Infant baggage allowance
+Link: /english/experience/dining/children/
+Text: Child and infant meals
+Link: /english/family/fun-for-kids/
+Text: Fun for kids
+Link: /english/family/fun-for-kids/
+Text: Fun for kids
+Link: /english/experience/inflight-entertainment/children-entertainment/
+Text: Children’s entertainment
+Link: /english/family/fun-for-kids/toys/
+Text: Kids’ toys
+Link: /english/family/fun-for-kids/activities-for-kids/
+Text: Activities for kids
+Link: /english/experience/fly-better/
+Text: Fly Better
+Link: /english/experience/fly-better/
+Text: Fly Better
+Link: /english/experience/fly-better/reasons-to-fly-better/
+Text: Reasons to fly better
+Link: /english/experience/fly-better/reasons-to-fly-better/
+Text: Reasons to fly better
+Link: /english/about-us/
+Text: About us
+Link: /english/about-us/
+Text: About us
+Link: /english/about-us/timeline/
+Text: Our story
+Link: /english/about-us/timeline/
+Text: Our story
+Link: https://www.emirates.com/media-centre/
+Text: Media centre
+Link: /english/about-us/group-companies/
+Text: Group companies
+Link: /english/about-us/safety/
+Text: Safety
+Link: /english/about-us/financial-transparency/
+Text: Financial transparency
+Link: /english/about-us/business-policies-and-practices/
+Text: Responsible business
+Link: /english/about-us/our-people/
+Text: Our people
+Link: /english/about-us/our-people/
+Text: Our people
+Link: /english/about-us/our-people/leadership-team/
+Text: Our Leadership team
+Link: https://www.emiratesgroupcareers.com/
+Text: Careers
+Link: /english/about-us/our-planet/
+Text: Our planet
+Link: /english/about-us/our-planet/
+Text: Our planet
+Link: /english/about-us/our-planet/sustainability-in-operations/
+Text: Sustainability in operations
+Link: /english/about-us/our-planet/environmental-policy/
+Text: Environmental policy
+Link: /english/about-us/our-planet/environmental-reports/
+Text: Environmental reports
+Link: /english/about-us/our-communities/
+Text: Our communities
+Link: /english/about-us/our-communities/
+Text: Our communities
+Link: https://www.emiratesairlinefoundation.org/
+Text: The Emirates Airline Foundation
+Link: /english/about-us/our-communities/sponsorship/
+Text: Sponsorships
+Link: /english/about-us/our-communities/open-sky/
+Text: Government affairs
+Text: WHERE WE FLY
+Link: /english/destinations/
+Text: Our destinations
+Link: /english/destinations/
+Text: Destinations
+Link: /english/destinations/
+Text: Destinations
+Link: /english/destinations/
+Text: Destinations
+Link: /english/destinations/flights-to-asia-pacific/
+Text: Asia and Pacific
+Link: /english/destinations/flights-to-north-south-america/
+Text: Americas
+Link: /english/destinations/flights-to-africa/
+Text: Africa
+Link: /english/destinations/flights-to-europe/
+Text: Europe
+Link: /english/destinations/flights-to-middle-east/
+Text: Middle East
+Link: /english/discover-dubai/
+Text: Discover Dubai
+Link: /english/discover-dubai/
+Text: Discover Dubai
+Link: /english/travel-partners/
+Text: Our travel partners
+Link: /english/travel-partners/
+Text: Air and ground partners
+Link: /english/travel-partners/
+Text: Our travel partners
+Link: /english/travel-partners/
+Text: Our travel partners
+Link: /english/travel-partners/qantas/
+Text: Qantas
+Link: /english/travel-partners/flydubai/
+Text: flydubai
+Link: /english/skywards/partners/
+Text: Emirates Skywards partners
+Link: /english/skywards/partners/
+Text: Emirates Skywards partners
+Link: /english/destinations/
+Text: Explore
+Link: /english/destinations/
+Text: Explore Emirates destinations
+Link: /english/destinations/route-map/
+Text: Route map
+Link: /english/destinations/route-map/
+Text: Route map
+Link: /english/destinations/holiday-inspiration/
+Text: Holiday inspiration
+Link: /english/destinations/holiday-inspiration/
+Text: Holiday inspiration
+Link: /english/destinations/holiday-inspiration/beach/
+Text: Beach destinations
+Link: /english/destinations/holiday-inspiration/nature/
+Text: Wildlife holidays
+Link: /english/destinations/holiday-inspiration/history/
+Text: History and culture holidays
+Link: /english/destinations/holiday-inspiration/shop/
+Text: City breaks
+Link: /english/destinations/holiday-inspiration/backpacking/
+Text: Backpacking and hiking holidays
+Text: LOYALTY
+Link: /english/skywards/registration/
+Text: Emirates Skywards
+Link: /english/skywards/registration/
+Text: Join Emirates Skywards
+Link: /english/skywards/
+Text: About Emirates Skywards
+Link: /english/skywards/
+Text: About Emirates Skywards
+Link: /english/skywards/membership-tiers/
+Text: Membership tiers
+Link: /english/skywards/flydubai/
+Text: flydubai
+Link: /english/skywards/cash-plus-miles/
+Text: Cash+Miles
+Link: /english/skywards/digital-membership-card/
+Text: Digital membership card
+Link: /english/skywards/my-family/
+Text: My family
+Link: /english/skywards/spend-miles/
+Text: Spend Miles
+Link: /english/skywards/account/my-statement/claim-miles/
+Text: Claim Miles
+Link: /english/skywards/do-more-with-your-miles/
+Text: Buy Miles
+Link: /english/skywards/earn-miles/
+Text: Earn Miles
+Link: /english/skywards/skysurfers/
+Text: Skywards Skysurfers
+Link: https://exclusives.skywards.com/
+Text: Skywards Exclusives
+Link: /english/skywards/partners/
+Text: Our Partners
+Link: /english/skywards/partners/skywards-miles-mall/
+Text: Skywards Miles @mall
+Link: /english/skywards/miles-calculator/
+Text: Miles Calculator
+Link: /english/login/account-recovery-page/
+Text: Log in to Emirates Skywards
+Link: /english/skywards/skywards-plus/subscription/
+Text: Skywards+
+Link: /english/business-rewards/registration.aspx
+Text: Business Rewards
+Link: /english/business-rewards/registration.aspx
+Text: Register your company
+Link: /english/business-rewards/
+Text: Business Rewards
+Link: /english/business-rewards/
+Text: Business Rewards
+Link: /english/business-rewards/registration.aspx
+Text: Register your company
+Link: /english/login/login-central-page/
+Text: Log in to Business Rewards
+Link: /english/business-rewards/benefits/
+Text: Benefits
+Link: /english/business-rewards/how-the-programme-works/
+Text: How the programme works
+Link: /english/help/faq-topics/emirates-business-rewards/
+Text: Help
+Text: HELP
+Link: /english/help/
+Text: Help and contacts
+Link: /english/help/
+Text: Help and contacts
+Link: /english/help/
+Text: Help and contacts
+Link: /english/help/
+Text: Help and contacts
+Link: /english/manage-booking/change-flight/
+Text: Changing or cancelling
+Link: /english/before-you-fly/visa-passport-information/
+Text: Visa and passport help
+Link: /english/help/forms/complaint/
+Text: Feedback and complaints
+Link: /english/help/covid-19/travel-requirements-by-destination/
+Text: Checking your travel requirements
+Link: /english/help/covid-19/ticket-options/
+Text: Keeping your ticket or refunds
+Link: /english/before-you-fly/baggage/delayed-damaged-baggage/
+Text: Delayed or damage baggage support
+Link: /english/help/forms/lost-property/
+Text: Lost property
+Link: /english/before-you-fly/dubai-international-airport/dubai-connect/
+Text: Dubai Connect
+Link: /english/help/travel-updates/
+Text: Changes to our operations
+Link: /english/help/travel-updates/
+Text: Changes to our operations
+Link: /english/help/travel-updates/
+Text: Recent travel updates
+Link: /english/manage-booking/flight-status/
+Text: Check your flight status
+Link: /english/before-you-fly/health/
+Text: Special assistance
+Link: /english/before-you-fly/health/
+Text: Special assistance
+Link: /english/before-you-fly/health/accessible-travel/
+Text: Accessible travel with Emirates
+Link: /english/help/faq-topics/special-assistance-and-requests/
+Text: Special assistance and requests
+Link: /english/help/covid-19/
+Text: COVID-19 travel support
+Link: /english/help/covid-19/
+Text: COVID-19 information hub
+Link: /english/help/covid-19/
+Text: COVID-19 information hub
+Link: /english/help/covid-19/
+Text: COVID-19 information hub
+Link: /english/help/covid-19/dubai-travel-requirements/
+Text: Travel requirements for Dubai
+Link: /english/help/covid-19/travel-requirements-by-destination/
+Text: Travel requirements by destination
+Link: /english/help/covid-19/ticket-options/
+Text: Your ticket options
+Link: /english/help/forms/refund-request/
+Text: Request a refund
+Link: /english/help/covid-19/safety/
+Text: Travel safety during COVID-19
+Link: /english/help/faqs/
+Text: Your questions
+Link: /english/help/faqs/
+Text: FAQs
+Link: /english/help/faqs/
+Text: Frequently asked questions
+Link: /english/help/faqs/
+Text: Frequently asked questions
+Link: /english/help/faq-topics/booking-with-emirates/
+Text: Booking with Emirates
+Link: /english/help/faq-topics/our-network-and-codeshares/
+Text: Our network and codeshares
+Link: /english/help/faq-topics/our-other-products/
+Text: Our other products
+Link: /english/help/faq-topics/special-assistance-and-requests/
+Text: Special assistance and requests
+Link: /english/help/faq-topics/baggage-and-lost-property/
+Text: Baggage and lost property
+Link: /english/help/faq-topics/preparing-to-travel/
+Text: Preparing to travel
+Link: /english/help/faq-topics/at-the-airport/
+Text: At the airport
+Link: /english/help/faq-topics/emirates-skywards/
+Text: Emirates Skywards
+Link: /english/help/faq-topics/emirates-business-rewards/
+Text: Emirates Business Rewards
+Link: /english/help/faq-topics/your-on-board-experience/
+Text: Your on-board experience
+Link: /english/help/faq-topics/tools-and-resources/
+Text: Tools and resources
+Link: /english/help/faq-topics/mobile-and-the-emirates-app/
+Text: Mobile and The Emirates App
+Link: /english/help/faq-topics/cancelling-or-changing-a-booking/
+Text: Cancelling or changing a booking
+Link: /english/help/faq-topics/covid-19-information-and-disrupted-travel/
+Text: COVID-19 information and disrupted travel
+Link: /english/help/faq-topics/about-emirates/
+Text: About Emirates
+Link: /sessionhandler.aspx?pageurl=/IBE.aspx&pub=/english&j=f&section=IBE
+Text: Search flights
+Text: It’s arrived, the
+Text: PREMIUM ECONOMY
+Text: you’ve been waiting for
+Link: /english/experience/cabin-features/premium-economy-class/
+Text: Learn more It’s arrived, the  PREMIUM ECONOMY you’ve been waiting for
+Text: Learn more
+Link: /english/experience/fly-better/
+Text: Search flights
+Text: Manage booking / Check in
+Text: What's on your flight
+Text: Flight status
+Text: Search flights
+Link: /transfer.aspx?pageurl=/account/english/light-registration/&section=MYA&th=ec6cfba112ac9ecc6bf2912b0461aa72c23ddf9b
+Text: MISSING RESOURCE BookManage/search-flight/join-now__text
+Link: /english/sso/login-redirect?state=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWxsYmFja1VybCI6Ii9lbmdsaXNoLyIsInB1YiI6Ii9lbmdsaXNoIiwibm9Qcm9maWxlIjoxfQ.lIbcrEcNgfIMXQQXvOmuhFyYwemAoD0q4mjOqV8pfU4
+Text: Log in to earn and spend Skywards Miles
+Link: /sessionhandler.aspx?pageurl=/IBE.aspx&pub=/english&j=f&section=IBE
+Text: Advanced search: multi-city, promo codes, partner airlines
+Text: There are errors on this page
+Text: Please choose a departure airport
+Text: Please choose an arrival airport
+Text: Please choose a departure date
+Text: Please choose a return date
+Text: Back
+Text: Departure airport
+Text: All locations
+Text: Back
+Text: Arrival airport
+Text: All locations
+Text: Departing
+Text: Please choose your departure date Use the page up key to select the next month and the page down key to select the previous month. Use arrow keys to select the dates. After selecting the dates, use tab key to select one way or flexible dates options.
+Text: -
+Text: Returning
+Text: Add Return
+Text: Choose your return date  Use the page up key to select the next month and the page down key to select the previous month. Use arrow keys to select the dates. After selecting the dates, use tab key to select one way or flexible dates options.
+Text: My dates are flexible (-/+ 3 days)
+Text: One way
+Text: February
+Text: 2024
+Text: Previous Month
+Text: Mon
+Text: Tue
+Text: Wed
+Text: Thu
+Text: Fri
+Text: Sat
+Text: Sun
+Text: 1
+Text: 2
+Text: 3
+Text: 4
+Text: 5
+Text: 6
+Text: 7
+Text: 8
+Text: 9
+Text: 10
+Text: 11
+Text: 12
+Text: 13
+Text: 14
+Text: 15
+Text: 16
+Text: 17
+Text: 18
+Text: 19
+Text: 20
+Text: 21
+Text: 22
+Text: 23
+Text: 24
+Text: 25
+Text: 26
+Text: 27
+Text: 28
+Text: 29
+Text: March
+Text: 2024
+Text: Next Month
+Text: Mon
+Text: Tue
+Text: Wed
+Text: Thu
+Text: Fri
+Text: Sat
+Text: Sun
+Text: 1
+Text: 2
+Text: 3
+Text: 4
+Text: 5
+Text: 6
+Text: 7
+Text: 8
+Text: 9
+Text: 10
+Text: 11
+Text: 12
+Text: 13
+Text: 14
+Text: 15
+Text: 16
+Text: 17
+Text: 18
+Text: 19
+Text: 20
+Text: 21
+Text: 22
+Text: 23
+Text: 24
+Text: 25
+Text: 26
+Text: 27
+Text: 28
+Text: 29
+Text: 30
+Text: 31
+Text: Continue
+Text: Back
+Text: Passengers
+Text: This section is to increase and decrease all passenger categories. Use only tab key to navigate between increase and decrease buttons of each passenger type. Use buttons by pressing Enter key. Please note: You can book a maximum of nine passengers per booking.
+Text: Please enter between one and six characters.
+Link: javascript:void(0)
+Text: Passengers
+Text: Error message
+Text: Increase number of Adult passengers
+Text: 1
+Text: Adult
+Text: Ages 12+
+Text: Decrease number of Adult passengers
+Text: increment accessibility
+Text: Increase number of OFW passengers
+Text: 0
+Text: OFW
+Text: Overseas Filipino Workers
+Text: Decrease number of OFW passengers
+Text: increment accessibility
+Text: Increase number of Teenager passengers
+Text: 0
+Text: Teenager
+Text: Ages 12-15
+Text: Decrease number of Teenager passengers
+Text: increment accessibility
+Text: Increase number of Child passengers
+Text: 0
+Text: Child
+Text: Ages 2-11
+Text: Decrease number of Child passengers
+Text: increment accessibility
+Text: Increase number of Infant passengers
+Text: 0
+Text: Infant
+Text: Age under 2, on lap
+Text: Decrease number of Infant passengers
+Text: increment accessibility
+Text: Please note: You can book for a maximum of nine passengers.
+Text: You can book up to nine passengers per booking, including adults, children and infants.
+Text: Each adult passenger can bring one infant.
+Text: Children travelling alone, or in a different cabin class to their parents, are considered Unaccompanied Minors and pay the full adult fare. Please get in touch with us to book this service.
+Text: You can book up to nine passengers per booking, including adults, children and infants.
+Text: Each adult passenger can bring one infant.
+Text: Children travelling alone, or in a different cabin class to their parents, are considered Unaccompanied Minors and pay the full adult fare. Please get in touch with us to book this service.
+Text: You can book up to nine passengers per booking, including adults, teenagers, children and infants.
+Text: Each adult passenger can bring one infant.
+Text: Children travelling alone, or in a different cabin class to their parents, are considered Unaccompanied Minors and pay the full adult fare. Please
+Link: /english/help/
+Text: get in touch with us
+Text: to book this service.
+Text: You can book up to nine passengers per booking, including adults, children and infants.
+Text: Each adult & OFW passenger can bring one infant.
+Text: All OFWs must submit the required documents to avail the tax exemption.
+Text: Children travelling alone, or in a different cabin class to their parents, are considered Unaccompanied Minors and pay the full adult fare. Please
+Link: /english/help/
+Text: get in touch with us
+Text: to book this service.
+Text: You can book up to nine passengers per booking, including adults, Overseas Filippino Workers (OFW), teenagers, children and infants.
+Text: Each adult & OFW passenger can bring one infant.
+Text: All OFWs must submit the required documents to avail the tax exemption.
+Text: Children travelling alone, or in a different cabin class to their parents, are considered Unaccompanied Minors and pay the full adult fare. Please
+Link: /english/help/
+Text: get in touch with us
+Text: to book this service.
+Text: Back
+Text: Class
+Link: javascript:void(0)
+Text: All Classes
+Text: Economy Class
+Text: Premium Economy
+Text: Business Class
+Text: First Class
+Text: Search flights
+Text: Manage booking / Check in
+Text: What's on your flight
+Link: /english/sso/login-redirect?state=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWxsYmFja1VybCI6Ii9lbmdsaXNoLyIsInB1YiI6Ii9lbmdsaXNoIiwibm9Qcm9maWxlIjoxfQ.lIbcrEcNgfIMXQQXvOmuhFyYwemAoD0q4mjOqV8pfU4
+Text: Log in to see what's on your flight
+Text: Route or Flight Number
+Text: Route
+Text: Flight number
+Text: There are errors on this page
+Text: Please choose an origin
+Text: Please choose a destination
+Text: Please choose a departure date
+Text: Please enter a flight number
+Text: Please choose a departure date
+Text: Back
+Text: Departure airport
+Text: All locations
+Text: Back
+Text: Arrival airport
+Text: All locations
+Text: Departing
+Text: When would you like to leave? Use the page up key to select the next month and the page down key to select the previous month. Use arrow keys to select the dates.
+Text: February
+Text: 2024
+Text: Previous Month
+Text: Mon
+Text: Tue
+Text: Wed
+Text: Thu
+Text: Fri
+Text: Sat
+Text: Sun
+Text: 1
+Text: 2
+Text: 3
+Text: 4
+Text: 5
+Text: 6
+Text: 7
+Text: 8
+Text: 9
+Text: 10
+Text: 11
+Text: 12
+Text: 13
+Text: 14
+Text: 15
+Text: 16
+Text: 17
+Text: 18
+Text: 19
+Text: 20
+Text: 21
+Text: 22
+Text: 23
+Text: 24
+Text: 25
+Text: 26
+Text: 27
+Text: 28
+Text: 29
+Text: March
+Text: 2024
+Text: Next Month
+Text: Mon
+Text: Tue
+Text: Wed
+Text: Thu
+Text: Fri
+Text: Sat
+Text: Sun
+Text: 1
+Text: 2
+Text: 3
+Text: 4
+Text: 5
+Text: 6
+Text: 7
+Text: 8
+Text: 9
+Text: 10
+Text: 11
+Text: 12
+Text: 13
+Text: 14
+Text: 15
+Text: 16
+Text: 17
+Text: 18
+Text: 19
+Text: 20
+Text: 21
+Text: 22
+Text: 23
+Text: 24
+Text: 25
+Text: 26
+Text: 27
+Text: 28
+Text: 29
+Text: 30
+Text: 31
+Text: See what's on
+Text: Flight number error
+Text: Flight number
+Text: EK-
+Text: Please enter between one and six characters.
+Text: Departing
+Text: When would you like to leave? Use the page up key to select the next month and the page down key to select the previous month. Use arrow keys to select the dates.
+Text: February
+Text: 2024
+Text: Previous Month
+Text: Mon
+Text: Tue
+Text: Wed
+Text: Thu
+Text: Fri
+Text: Sat
+Text: Sun
+Text: 1
+Text: 2
+Text: 3
+Text: 4
+Text: 5
+Text: 6
+Text: 7
+Text: 8
+Text: 9
+Text: 10
+Text: 11
+Text: 12
+Text: 13
+Text: 14
+Text: 15
+Text: 16
+Text: 17
+Text: 18
+Text: 19
+Text: 20
+Text: 21
+Text: 22
+Text: 23
+Text: 24
+Text: 25
+Text: 26
+Text: 27
+Text: 28
+Text: 29
+Text: March
+Text: 2024
+Text: Next Month
+Text: Mon
+Text: Tue
+Text: Wed
+Text: Thu
+Text: Fri
+Text: Sat
+Text: Sun
+Text: 1
+Text: 2
+Text: 3
+Text: 4
+Text: 5
+Text: 6
+Text: 7
+Text: 8
+Text: 9
+Text: 10
+Text: 11
+Text: 12
+Text: 13
+Text: 14
+Text: 15
+Text: 16
+Text: 17
+Text: 18
+Text: 19
+Text: 20
+Text: 21
+Text: 22
+Text: 23
+Text: 24
+Text: 25
+Text: 26
+Text: 27
+Text: 28
+Text: 29
+Text: 30
+Text: 31
+Text: See what's on
+Text: See what's on
+Text: Flight status
+Link: /english/sso/login-redirect?state=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWxsYmFja1VybCI6Ii9lbmdsaXNoLyIsInB1YiI6Ii9lbmdsaXNoIiwibm9Qcm9maWxlIjoxfQ.lIbcrEcNgfIMXQQXvOmuhFyYwemAoD0q4mjOqV8pfU4
+Text: Log in to see your trips
+Text: Route or Flight Number
+Text: Route
+Text: Flight number
+Text: Departure or arrival time
+Text: Departure day
+Text: Arrival day
+Text: There are errors on this page
+Text: Please choose an origin
+Text: Please choose a destination
+Text: Please choose a departure date
+Text: Please enter a flight number
+Text: Please choose a departure date
+Text: Back
+Text: Departure airport
+Text: All locations
+Text: Back
+Text: Arrival airport
+Text: All locations
+Text: Departure day
+Text: Arrival day
+Text: Back
+Text: Date
+Link: javascript:void(0)
+Text: Flight dates
+Text: Yesterday, 21 Feb 24
+Text: Today, 22 Feb 24
+Text: Tomorrow, 23 Feb 24
+Text: yesterday
+Text: today
+Text: tomorrow
+Text: Check status
+Text: Flight number error
+Text: Flight number
+Text: EK-
+Text: Please enter between one and six characters.
+Text: Back
+Text: Date
+Link: javascript:void(0)
+Text: Flight dates
+Text: Yesterday, 21 Feb 24
+Text: Today, 22 Feb 24
+Text: Tomorrow, 23 Feb 24
+Text: yesterday
+Text: today
+Text: tomorrow
+Text: Check status
+Text: Check status
+Link: /english/book/planning-your-trip/hotels/
+Text: Hotels
+Link: https://cars.cartrawler.com/emirates/en/?clientID=606868#/searchcars
+Text: Car rentals
+Text: Opens an external link in a new tab
+Link: https://www.getyourguide.com/?cmp=HomePage&partner_id=0DAB4&utm_medium=booking_partner
+Text: Tours & activities
+Text: Opens an external link in a new tab
+Link: /english/experience/chauffeur-drive/
+Text: Chauffeur-drive
+Link: https://www.marhabaservices.com/
+Text: Meet & Greet
+Text: Opens an external link in a new tab
+Link: https://cars.cartrawler.com/emirates/en-us/transfers?clientId=659585#/search
+Text: Airport transfers
+Text: Opens an external link in a new tab
+Link: https://emirates.eurail.com/en
+Text: Eurail
+Text: Opens an external link in a new tab
+Text: Featured destinations from
+Link: javascript:void(0)
+Text: New York
+Text: All locations
+Text: Boston
+Text: BOS
+Text: Chicago
+Text: ORD
+Text: Dallas
+Text: DFW
+Text: Houston
+Text: IAH
+Text: Los Angeles
+Text: LAX
+Text: Miami
+Text: MIA
+Text: New York
+Text: JFK
+Text: Newark
+Text: EWR
+Text: Orlando (near Jacksonville, Tampa)
+Text: MCO
+Text: San Francisco
+Text: SFO
+Text: Seattle
+Text: SEA
+Text: Washington, DC
+Text: IAD
+Text: BOS
+Text: ORD
+Text: DFW
+Text: IAH
+Text: LAX
+Text: MIA
+Text: JFK
+Text: EWR
+Text: MCO
+Text: SFO
+Text: SEA
+Text: IAD
+Link: /us/english/book/featured-fares/?filter1=airport&airport=BOS&filter2=airports&airports=DXB&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:BOS-DXB:USD%20841*&intc_creative=link&intc_location=home
+Text: United Arab Emirates
+Text: Dubai
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 841*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=BOS&filter2=airports&airports=BOM&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:BOS-BOM:USD%20930*&intc_creative=link&intc_location=home
+Text: India
+Text: Mumbai (Bombay)
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 930*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=BOS&filter2=airports&airports=LHE&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:BOS-LHE:USD%201059*&intc_creative=link&intc_location=home
+Text: Pakistan
+Text: Lahore
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 1059*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=BOS&filter2=airports&airports=BLR&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:BOS-BLR:USD%201145*&intc_creative=link&intc_location=home
+Text: India
+Text: Bengaluru (Bangalore)
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 1145*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=BOS&filter2=airports&airports=DAC&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:BOS-DAC:USD%201332*&intc_creative=link&intc_location=home
+Text: Bangladesh
+Text: Dhaka
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 1332*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=BOS&filter2=airports&airports=DPS&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:BOS-DPS:USD%201569*&intc_creative=link&intc_location=home
+Text: Indonesia
+Text: Bali
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 1569*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=DFW&filter2=airports&airports=DXB&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:DFW-DXB:USD%20841*&intc_creative=link&intc_location=home
+Text: United Arab Emirates
+Text: Dubai
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 841*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=DFW&filter2=airports&airports=BLR&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:DFW-BLR:USD%201011*&intc_creative=link&intc_location=home
+Text: India
+Text: Bengaluru (Bangalore)
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 1011*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=DFW&filter2=airports&airports=DAC&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:DFW-DAC:USD%201250*&intc_creative=link&intc_location=home
+Text: Bangladesh
+Text: Dhaka
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 1250*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=DFW&filter2=airports&airports=HYD&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:DFW-HYD:USD%201350*&intc_creative=link&intc_location=home
+Text: India
+Text: Hyderabad
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 1350*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=DFW&filter2=airports&airports=JNB&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:DFW-JNB:USD%201387*&intc_creative=link&intc_location=home
+Text: South Africa
+Text: Johannesburg
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 1387*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=DFW&filter2=airports&airports=MRU&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:DFW-MRU:USD%202615*&intc_creative=link&intc_location=home
+Text: Mauritius
+Text: Mauritius
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 2615*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=EWR&filter2=airports&airports=ATH&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:EWR-ATH:USD%20681*&intc_creative=link&intc_location=home
+Text: Greece
+Text: Athens
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 681*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=EWR&filter2=airports&airports=DXB&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:EWR-DXB:USD%20841*&intc_creative=link&intc_location=home
+Text: United Arab Emirates
+Text: Dubai
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 841*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=EWR&filter2=airports&airports=TIA&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:EWR-TIA:USD%20917*&intc_creative=link&intc_location=home
+Text: Albania
+Text: Tirana
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 917*
+Text: Partially operated by Aegean Airlines
+Link: /us/english/book/featured-fares/?filter1=airport&airport=EWR&filter2=airports&airports=BLR&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:EWR-BLR:USD%20939*&intc_creative=link&intc_location=home
+Text: India
+Text: Bengaluru (Bangalore)
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 939*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=EWR&filter2=airports&airports=MAA&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:EWR-MAA:USD%20997*&intc_creative=link&intc_location=home
+Text: India
+Text: Chennai (Madras)
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 997*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=EWR&filter2=airports&airports=ISB&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:EWR-ISB:USD%20998*&intc_creative=link&intc_location=home
+Text: Pakistan
+Text: Islamabad
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 998*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=IAD&filter2=airports&airports=DXB&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:IAD-DXB:USD%20841*&intc_creative=link&intc_location=home
+Text: United Arab Emirates
+Text: Dubai
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 841*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=IAD&filter2=airports&airports=HYD&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:IAD-HYD:USD%20938*&intc_creative=link&intc_location=home
+Text: India
+Text: Hyderabad
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 938*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=IAD&filter2=airports&airports=BLR&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:IAD-BLR:USD%20960*&intc_creative=link&intc_location=home
+Text: India
+Text: Bengaluru (Bangalore)
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 960*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=IAD&filter2=airports&airports=DAC&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:IAD-DAC:USD%201096*&intc_creative=link&intc_location=home
+Text: Bangladesh
+Text: Dhaka
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 1096*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=IAD&filter2=airports&airports=HKT&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:IAD-HKT:USD%201315*&intc_creative=link&intc_location=home
+Text: Thailand
+Text: Phuket
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 1315*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=IAD&filter2=airports&airports=MNL&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:IAD-MNL:USD%201473*&intc_creative=link&intc_location=home
+Text: Philippines
+Text: Manila
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 1473*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=IAH&filter2=airports&airports=DXB&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:IAH-DXB:USD%20895*&intc_creative=link&intc_location=home
+Text: United Arab Emirates
+Text: Dubai
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 895*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=IAH&filter2=airports&airports=LHE&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:IAH-LHE:USD%20967*&intc_creative=link&intc_location=home
+Text: Pakistan
+Text: Lahore
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 967*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=IAH&filter2=airports&airports=BOM&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:IAH-BOM:USD%20968*&intc_creative=link&intc_location=home
+Text: India
+Text: Mumbai (Bombay)
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 968*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=IAH&filter2=airports&airports=DMM&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:IAH-DMM:USD%201193*&intc_creative=link&intc_location=home
+Text: Saudi Arabia
+Text: Dammam
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 1193*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=IAH&filter2=airports&airports=MLE&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:IAH-MLE:USD%201399*&intc_creative=link&intc_location=home
+Text: Maldives
+Text: Malé
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 1399*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=IAH&filter2=airports&airports=MAA&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:IAH-MAA:USD%201734*&intc_creative=link&intc_location=home
+Text: India
+Text: Chennai (Madras)
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 1734*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=JFK&filter2=airports&airports=MXP&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:JFK-MXP:USD%20621*&intc_creative=link&intc_location=home
+Text: Italy
+Text: Milan
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 621*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=JFK&filter2=airports&airports=DXB&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:JFK-DXB:USD%20841*&intc_creative=link&intc_location=home
+Text: United Arab Emirates
+Text: Dubai
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 841*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=JFK&filter2=airports&airports=BLR&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:JFK-BLR:USD%20939*&intc_creative=link&intc_location=home
+Text: India
+Text: Bengaluru (Bangalore)
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 939*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=JFK&filter2=airports&airports=HYD&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:JFK-HYD:USD%20959*&intc_creative=link&intc_location=home
+Text: India
+Text: Hyderabad
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 959*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=JFK&filter2=airports&airports=DAC&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:JFK-DAC:USD%201106*&intc_creative=link&intc_location=home
+Text: Bangladesh
+Text: Dhaka
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 1106*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=JFK&filter2=airports&airports=DPS&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:JFK-DPS:USD%201398*&intc_creative=link&intc_location=home
+Text: Indonesia
+Text: Bali
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 1398*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=LAX&filter2=airports&airports=DXB&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:LAX-DXB:USD%20950*&intc_creative=link&intc_location=home
+Text: United Arab Emirates
+Text: Dubai
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 950*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=LAX&filter2=airports&airports=ISB&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:LAX-ISB:USD%201019*&intc_creative=link&intc_location=home
+Text: Pakistan
+Text: Islamabad
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 1019*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=LAX&filter2=airports&airports=MAA&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:LAX-MAA:USD%201153*&intc_creative=link&intc_location=home
+Text: India
+Text: Chennai (Madras)
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 1153*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=LAX&filter2=airports&airports=COK&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:LAX-COK:USD%201174*&intc_creative=link&intc_location=home
+Text: India
+Text: Kochi (Cochin)
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 1174*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=LAX&filter2=airports&airports=EVN&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:LAX-EVN:USD%201382*&intc_creative=link&intc_location=home
+Text: Armenia
+Text: Yerevan
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 1382*
+Text: Partially operated by flydubai
+Link: /us/english/book/featured-fares/?filter1=airport&airport=LAX&filter2=airports&airports=CMB&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:LAX-CMB:USD%201740*&intc_creative=link&intc_location=home
+Text: Sri Lanka
+Text: Colombo
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 1740*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=MCO&filter2=airports&airports=DXB&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:MCO-DXB:USD%20843*&intc_creative=link&intc_location=home
+Text: United Arab Emirates
+Text: Dubai
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 843*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=MCO&filter2=airports&airports=RUH&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:MCO-RUH:USD%201238*&intc_creative=link&intc_location=home
+Text: Saudi Arabia
+Text: Riyadh
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 1238*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=MCO&filter2=airports&airports=KHI&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:MCO-KHI:USD%201647*&intc_creative=link&intc_location=home
+Text: Pakistan
+Text: Karachi
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 1647*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=MCO&filter2=airports&airports=BLR&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:MCO-BLR:USD%201659*&intc_creative=link&intc_location=home
+Text: India
+Text: Bengaluru (Bangalore)
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 1659*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=MCO&filter2=airports&airports=TRV&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:MCO-TRV:USD%202020*&intc_creative=link&intc_location=home
+Text: India
+Text: Thiruvananthapuram
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 2020*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=MCO&filter2=airports&airports=DPS&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:MCO-DPS:USD%202322*&intc_creative=link&intc_location=home
+Text: Indonesia
+Text: Bali
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 2322*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=MIA&filter2=airports&airports=DXB&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:MIA-DXB:USD%20843*&intc_creative=link&intc_location=home
+Text: United Arab Emirates
+Text: Dubai
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 843*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=MIA&filter2=airports&airports=BOM&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:MIA-BOM:USD%201018*&intc_creative=link&intc_location=home
+Text: India
+Text: Mumbai (Bombay)
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 1018*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=MIA&filter2=airports&airports=ISB&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:MIA-ISB:USD%201049*&intc_creative=link&intc_location=home
+Text: Pakistan
+Text: Islamabad
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 1049*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=MIA&filter2=airports&airports=BLR&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:MIA-BLR:USD%201272*&intc_creative=link&intc_location=home
+Text: India
+Text: Bengaluru (Bangalore)
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 1272*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=MIA&filter2=airports&airports=DAC&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:MIA-DAC:USD%201391*&intc_creative=link&intc_location=home
+Text: Bangladesh
+Text: Dhaka
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 1391*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=MIA&filter2=airports&airports=SEZ&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:MIA-SEZ:USD%201588*&intc_creative=link&intc_location=home
+Text: Seychelles
+Text: Seychelles
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 1588*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=ORD&filter2=airports&airports=DXB&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:ORD-DXB:USD%20841*&intc_creative=link&intc_location=home
+Text: United Arab Emirates
+Text: Dubai
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 841*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=ORD&filter2=airports&airports=HYD&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:ORD-HYD:USD%20938*&intc_creative=link&intc_location=home
+Text: India
+Text: Hyderabad
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 938*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=ORD&filter2=airports&airports=BLR&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:ORD-BLR:USD%20939*&intc_creative=link&intc_location=home
+Text: India
+Text: Bengaluru (Bangalore)
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 939*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=ORD&filter2=airports&airports=LHE&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:ORD-LHE:USD%201019*&intc_creative=link&intc_location=home
+Text: Pakistan
+Text: Lahore
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 1019*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=ORD&filter2=airports&airports=DAC&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:ORD-DAC:USD%201147*&intc_creative=link&intc_location=home
+Text: Bangladesh
+Text: Dhaka
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 1147*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=ORD&filter2=airports&airports=MLE&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:ORD-MLE:USD%201214*&intc_creative=link&intc_location=home
+Text: Maldives
+Text: Malé
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 1214*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=SEA&filter2=airports&airports=DXB&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:SEA-DXB:USD%20895*&intc_creative=link&intc_location=home
+Text: United Arab Emirates
+Text: Dubai
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 895*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=SEA&filter2=airports&airports=BOM&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:SEA-BOM:USD%201078*&intc_creative=link&intc_location=home
+Text: India
+Text: Mumbai (Bombay)
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 1078*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=SEA&filter2=airports&airports=LHE&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:SEA-LHE:USD%201091*&intc_creative=link&intc_location=home
+Text: Pakistan
+Text: Lahore
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 1091*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=SEA&filter2=airports&airports=IKA&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:SEA-IKA:USD%201125*&intc_creative=link&intc_location=home
+Text: Iran
+Text: Tehran
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 1125*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=SEA&filter2=airports&airports=EBB&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:SEA-EBB:USD%201401*&intc_creative=link&intc_location=home
+Text: Uganda
+Text: Entebbe
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 1401*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=SEA&filter2=airports&airports=TRV&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:SEA-TRV:USD%201468*&intc_creative=link&intc_location=home
+Text: India
+Text: Thiruvananthapuram
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 1468*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=SFO&filter2=airports&airports=DXB&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:SFO-DXB:USD%20950*&intc_creative=link&intc_location=home
+Text: United Arab Emirates
+Text: Dubai
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 950*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=SFO&filter2=airports&airports=LHE&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:SFO-LHE:USD%20967*&intc_creative=link&intc_location=home
+Text: Pakistan
+Text: Lahore
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 967*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=SFO&filter2=airports&airports=NBO&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:SFO-NBO:USD%201227*&intc_creative=link&intc_location=home
+Text: Kenya
+Text: Nairobi
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 1227*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=SFO&filter2=airports&airports=MLE&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:SFO-MLE:USD%201291*&intc_creative=link&intc_location=home
+Text: Maldives
+Text: Malé
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 1291*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=SFO&filter2=airports&airports=TRV&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:SFO-TRV:USD%201321*&intc_creative=link&intc_location=home
+Text: India
+Text: Thiruvananthapuram
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 1321*
+Link: /us/english/book/featured-fares/?filter1=airport&airport=SFO&filter2=airports&airports=HYD&filter3=class&class=Y&intc_type=featured-fares&intc_name=Y:SFO-HYD:USD%201494*&intc_creative=link&intc_location=home
+Text: India
+Text: Hyderabad
+Text: Book Economy Class Return until 29 Feb 24
+Text: from USD 1494*
+Link: /english/book/featured-fares/
+Text: See more fares
+Text: *Terms and conditions apply
+Link: /english/destinations/route-map/
+Text: Be inspired by our route map
+Text: EMIRATES SKYWARDS PARTNERS
+Text: Enjoy 25% bonus Skywards Miles
+Text: Convert your reward points into Miles and earn more Miles with participating partners
+Link: /english/special-offers/earn-up-to-25-bonus-skywards-miles/
+Text: Learn more
+Text: Learn more:Enjoy 25% bonus Skywards Miles
+Text: Flying with Emirates
+Text: Make it an incredible journey
+Text: Explore the Emirates experience and plan an unforgettable trip beyond your flight.
+Link: /english/discover-dubai/
+Text: DUBAI AND THE UAE
+Text: Discover Dubai
+Text: Learn more
+Link: /english/experience/cabin-features/first-class/
+Text: CABIN FEATURES
+Text: First Class
+Text: Learn more
+Link: /english/experience/cabin-features/business-class/
+Text: CABIN FEATURES
+Text: Business Class
+Text: Learn more
+Link: /english/experience/cabin-features/premium-economy-class/
+Text: CABIN FEATURES
+Text: Premium Economy
+Text: Learn more
+Link: /english/experience/cabin-features/economy-class/
+Text: CABIN FEATURES
+Text: Economy Class
+Text: Learn more
+Link: /english/discover-dubai/
+Text: DUBAI AND THE UAE
+Text: Discover Dubai
+Text: Learn more
+Link: /english/experience/cabin-features/first-class/
+Text: CABIN FEATURES
+Text: First Class
+Text: Learn more
+Link: /english/experience/cabin-features/business-class/
+Text: CABIN FEATURES
+Text: Business Class
+Text: Learn more
+Link: /english/experience/cabin-features/premium-economy-class/
+Text: CABIN FEATURES
+Text: Premium Economy
+Text: Learn more
+Link: /english/experience/cabin-features/economy-class/
+Text: CABIN FEATURES
+Text: Economy Class
+Text: Learn more
+Text: About us
+Text: Learn more about our history, our business and sustainability initiatives
+Link: /english/about-us/our-business/
+Text: Our business
+Link: /english/about-us/our-planet/
+Text: Our planet
+Link: /english/about-us/our-people/
+Text: Our people
+Link: /english/about-us/our-communities/
+Text: Our communities
+Text: return CTA block is removed EKWEB-2894
+Text: About us
+Text: About us
+Text: About us
+Text: About us
+Link: /english/about-us/
+Text: About us
+Link: https://www.emiratesgroupcareers.com/
+Text: Careers
+Text: Opens an external link in a new tab
+Link: https://www.emirates.com/media-centre/
+Text: Media Centre
+Text: Opens an external link in a new tab
+Link: /english/about-us/our-planet/
+Text: Our planet
+Link: /english/about-us/our-people/
+Text: Our people
+Link: /english/about-us/our-communities/
+Text: Our communities
+Text: Help
+Text: Help
+Text: Help
+Text: Help
+Link: /english/help/
+Text: Help and Contact
+Link: /english/help/travel-updates/
+Text: Travel Updates
+Link: /english/before-you-fly/health/
+Text: Special Assistance
+Link: /english/help/faqs/
+Text: Frequently asked questions
+Text: Book
+Text: Book
+Text: Book
+Text: Book
+Link: /english/book/
+Text: Book flights
+Link: /english/book/travel-services/
+Text: Travel services
+Link: /english/book/transportation/
+Text: Transportation
+Link: /english/book/planning-your-trip/
+Text: Planning your trip
+Link: /sessionhandler.aspx?pageurl=/IBE.aspx&pub=/english&j=f&section=IBE
+Text: Search for flights
+Text: Manage
+Text: Manage
+Text: Manage
+Text: Manage
+Link: /english/manage-booking/online-check-in/
+Text: Check-in
+Link: /english/manage-booking/
+Text: Manage your booking
+Link: /english/experience/chauffeur-drive/
+Text: Chauffeur drive
+Link: /english/manage-booking/flight-status/
+Text: Flight status
+Text: Before you fly
+Text: Before you fly
+Text: Before you fly
+Text: Before you fly
+Link: /english/before-you-fly/baggage/
+Text: Baggage
+Link: /english/before-you-fly/visa-passport-information/
+Text: Visa and passport information
+Link: /english/before-you-fly/health/
+Text: Health
+Link: /english/before-you-fly/travel/
+Text: Travel information
+Link: /english/before-you-fly/dubai-international-airport/
+Text: Dubai International
+Link: /english/travel-partners/
+Text: To and from the airport
+Link: /english/before-you-fly/travel/rules-and-notices/
+Text: Rules and notices
+Text: Where we fly
+Text: Where we fly
+Text: Where we fly
+Text: Where we fly
+Link: /english/destinations/route-map/
+Text: Route map
+Link: /english/destinations/flights-to-africa/
+Text: Africa
+Link: /english/destinations/flights-to-asia-pacific/
+Text: Asia and Pacific
+Link: /english/destinations/flights-to-europe/
+Text: Europe
+Link: /english/destinations/flights-to-north-south-america/
+Text: The Americas
+Link: /english/destinations/flights-to-middle-east/
+Text: The Middle East
+Link: /english/destinations/flights-to-all-countries-and-territories/
+Text: Flights to all countries/territories
+Text: Experience
+Text: Experience
+Text: Experience
+Text: Experience
+Link: /english/experience/cabin-features/
+Text: Cabin features
+Link: /english/experience/shop-emirates/
+Text: Shop Emirates
+Link: /english/experience/woyf/
+Text: What's on your flight
+Link: /english/experience/inflight-entertainment/
+Text: Inflight entertainment
+Link: /english/experience/dining/
+Text: Dining
+Link: /english/experience/our-lounges/
+Text: Our lounges
+Link: /english/discover-dubai/dubai-stopover/
+Text: Dubai Stopover
+Text: Loyalty
+Text: Loyalty
+Text: Loyalty
+Text: Loyalty
+Link: /english/sso/login-redirect?state=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWxsYmFja1VybCI6Ii9lbmdsaXNoLyIsInB1YiI6Ii9lbmdsaXNoIiwibm9Qcm9maWxlIjoxfQ.lIbcrEcNgfIMXQQXvOmuhFyYwemAoD0q4mjOqV8pfU4
+Text: Log in to Emirates Skywards
+Link: /english/skywards/registration/
+Text: Join Emirates Skywards
+Link: /english/skywards/partners/
+Text: Our partners
+Link: /english/business-rewards/benefits/
+Text: Business Rewards benefits
+Link: /english/business-rewards/registration.aspx
+Text: Register your company
+Link: /english/skywards/emirates-skywards-programme-rules/
+Text: Emirates Skywards Programme Rules
+Text: Subscribe to our special offers
+Text: Save with our latest fares and offers.
+Link: /english/special-offers/unsubscribe/
+Text: Unsubscribe or change your preferences
+Text: Email address
+Link: /english/special-offers/subscribe-to-offers/
+Text: Subscribe
+Text: privacy policy section begin
+Text: For details on how we use your information, please see our
+Link: /english/information/privacy-policy/
+Text: privacy policy
+Text: .
+Text: privacy policy section ends
+Text: Emirates App
+Text: Book and manage your flights on the go.
+Text: The Emirates App
+Text: iOS
+Link: https://itunes.apple.com/gb/app/the-emirates-app/id935307149
+Text: The Emirates App
+Text: ANDROID
+Link: https://play.google.com/store/apps/details?id=com.emirates.ek.android
+Text: Connect with us
+Text: Share your Emirates experience.
+Link: https://facebook.com/emirates
+Text: Connect with us on Facebook - Opens an external link in a new tab
+Link: https://twitter.com/emirates
+Text: Connect with us on X-social - Opens an external link in a new tab
+Link: https://linkedin.com/company/emirates
+Text: Connect with us on LinkedIn - Opens an external link in a new tab
+Link: https://www.youtube.com/user/EMIRATES/
+Text: Connect with us on Youtube - Opens an external link in a new tab
+Link: https://www.instagram.com/emirates/
+Text: Connect with us on Instagram - Opens an external link in a new tab
+Link: https://www.emirates.com/media-centre/emirates-crowned-world-class-airline-at-the-apex-official-airline-ratings/
+Text: Opens an external link in a new tab
+Text: Opens an external link in a new tab
+Text: Opens an external link in a new tab
+Link: /english/information/accessibility/
+Text: Accessibility statement
+Link: /english/help/
+Text: Contact us
+Link: /english/information/privacy-policy/
+Text: Privacy policy
+Link: /english/information/terms-and-conditions/
+Text: Terms and conditions
+Link: /english/information/cookie-policy/
+Text: Cookie Policy
+Link: /english/information/cybersecurity/
+Text: Cybersecurity
+Link: /english/before-you-fly/travel/rules-and-notices/
+Text: Modern Slavery Act transparency statement
+Link: /english/information/sitemap/
+Text: Sitemap
+Text: © 2024 The Emirates Group. All Rights Reserved.
+Link: /english/
+Text: Google Tag Manager
+Text: End Google Tag Manager
