@@ -2,19 +2,24 @@ Text: Terms of Use | Digital Resources | Chase.com
 Text: Skip to main content
 Text: googleoff: index
 Text: Please update your browser.
-Text: We don't support this browser version anymore. Using an updated version will help protect your accounts and provide a better experience.
+Text: We don't support this browser version anymore. Using an updated version will help protect your
+                    accounts and provide a better experience.
 Link: /digital/resources/privacy-security/security/system-requirements
-Text: Update your browser
+Text: Update your
+                      browser
 Text: Please update your browser.
-Text: We don't support this browser version anymore. Using an updated version will help protect your accounts and provide a better experience.
+Text: We don't support this browser version anymore. Using an updated version will help protect your
+                    accounts and provide a better experience.
 Link: /digital/resources/privacy-security/security/system-requirements
-Text: Update your browser
+Text: Update your
+                      browser
 Text: Close
 Text: googleon: index
 Text: googleoff: index
 Text: We’ve signed you out of your account.
 Text: You’ve successfully signed out
-Text: We’ve enhanced our platform for chase.com. For a better experience, download the Chase app for your iPhone or Android. Or, go to System Requirements from your laptop or desktop.
+Text: We’ve enhanced our platform for chase.com. For a better experience, download the Chase app for your
+                    iPhone or Android. Or, go to System Requirements from your laptop or desktop.
 Text: Close this message
 Text: googleon: index
 Text: Start of side menu
@@ -170,21 +175,27 @@ Text: (Opens Overlay)
 Link: https://www.pinterest.com/chase/
 Text: Pinterest
 Text: (Opens Overlay)
-Text: We're here to help you manage your money today and tomorrow
+Text: We're here to help you manage your money today
+                  and tomorrow
 Text: Footer 6-12 Column Layout
 Text: Checking Accounts
 Text: Choose the
 Link: https://personal.chase.com/personal/checking
 Text: checking account
-Text: that works best for you. See our
+Text: that works best for
+                            you. See our
 Link: https://account.chase.com/consumer/banking/seo
-Text: Chase Total Checking
-Text: offer for new customers. Make purchases with your debit card, and bank from almost anywhere by phone, tablet or computer and more than 15,000 ATMs and more than 4,700 branches.
+Text: Chase Total
+                              Checking
+Text: offer for new customers. Make purchases with your debit
+                            card, and bank from almost anywhere by phone, tablet or computer and more than 15,000 ATMs
+                            and more than 4,700 branches.
 Text: Savings Accounts & CDs
 Text: It’s never too early to begin saving.
 Link: https://personal.chase.com/personal/savings
 Text: Open a savings account
-Text: or open a Certificate of Deposit (
+Text: or open a Certificate of
+                            Deposit (
 Link: /personal/savings/bank-cd
 Text: see interest rates
 Text: ) and start saving your money.
@@ -192,7 +203,8 @@ Text: Credit Cards
 Text: Chase
 Link: https://creditcards.chase.com/
 Text: credit cards
-Text: can help you buy the things you need. Many of our cards
+Text: can help you buy the things
+                            you need. Many of our cards
 Link: https://creditcards.chase.com/rewards-credit-cards
 Text: offer rewards
 Text: that can be redeemed for
@@ -201,9 +213,12 @@ Text: cash back
 Text: or
 Link: https://creditcards.chase.com/travel-credit-cards
 Text: travel-related
-Text: perks. With so many options, it can be easy to find a card that matches your lifestyle. Plus, with Credit Journey you can get a
+Text: perks. With so many options,
+                            it can be easy to find a card that matches your lifestyle. Plus, with Credit
+                            Journey you can get a
 Link: /personal/credit-cards/free-credit-score
-Text: free credit score
+Text: free
+                              credit score
 Text: !
 Text: Mortgages
 Text: Apply for a
@@ -212,31 +227,41 @@ Text: mortgage
 Text: or
 Link: /personal/mortgage/mortgage-refinance
 Text: refinance your mortgage
-Text: with Chase. View today’s
+Text: with Chase. View
+                            today’s
 Link: /personal/mortgage/mortgage-rates
 Text: mortgage rates
-Text: or calculate what you can afford with our
+Text: or calculate what you can
+                            afford with our
 Link: /personal/mortgage/calculators-resources/mortgage-calculator
-Text: mortgage calculator
+Text: mortgage
+                              calculator
 Text: . Visit our
 Link: /personal/mortgage/education
-Text: Education Center
+Text: Education
+                              Center
 Text: for homebuying tips and more.
 Text: Auto
 Link: https://autofinance.chase.com/?offercode=WDXDPXXX02
 Text: Chase Auto
-Text: is here to help you get the right car. Apply for
+Text: is here to help
+                            you get the right car. Apply for
 Link: https://autofinance.chase.com/auto-finance/auto-loans?offercode=WDXDPXXX02
-Text: auto financing
+Text: auto
+                              financing
 Text: for a new or used car with Chase. Use the
 Link: https://autopreferred.chase.com/garage/auto-loan-calculator?offercode=WDXDPXXX02
-Text: payment calculator
+Text: payment
+                              calculator
 Text: to estimate monthly payments. Check out the
 Link: /personal/auto/education?offercode=WDXDPXXX02
 Text: Chase Auto Education Center
-Text: to get car guidance from a trusted source.
+Text: to
+                            get car guidance from a trusted source.
 Text: Chase for Business
-Text: With Chase for Business you’ll receive guidance from a team of business professionals who specialize in helping improve cash flow, providing credit solutions, and managing payroll. Choose from
+Text: With Chase for Business you’ll receive guidance from a team of business professionals who
+                            specialize in helping improve cash flow, providing credit solutions, and managing payroll.
+                            Choose from
 Link: /business/banking/checking
 Text: business checking
 Text: ,
@@ -255,39 +280,48 @@ Text: .
 Text: Investing by J.P. Morgan
 Text: Whether you choose to work with a
 Link: /personal/investments/advisor-services
-Text: financial advisor
+Text: financial
+                              advisor
 Text: and develop a financial strategy or
 Link: /personal/investments/online-investing
 Text: invest online
 Text: , J.P. Morgan offers
 Link: /personal/investments/learning-and-insights
 Text: investment education
-Text: , expertise and a range of tools to help you reach your goals. Visit a J.P. Morgan
+Text: , expertise and
+                            a range of tools to help you reach your goals. Visit a J.P. Morgan
 Link: https://jpmorganwealthmanagement.chase.com/advisor
 Text: Wealth Management Branch
-Text: or check out our latest online investing
+Text: or
+                            check out our latest online investing
 Link: https://account.chase.com/consumer/investing/self-directedoffer
-Text: offers, promotions, and coupons
+Text: offers, promotions,
+                              and coupons
 Text: .
 Text: INVESTMENT AND INSURANCE PRODUCTS ARE:
 Text: NOT FDIC INSURED
 Text: NOT INSURED BY ANY FEDERAL GOVERNMENT AGENCY
-Text: NOT A DEPOSIT OR OTHER OBLIGATION OF, OR GUARANTEED BY, JPMORGAN CHASE BANK, N.A. OR ANY OF ITS AFFILIATES
-Text: SUBJECT TO INVESTMENT RISKS, INCLUDING POSSIBLE LOSS OF THE PRINCIPAL AMOUNT INVESTED
+Text: NOT A DEPOSIT OR OTHER OBLIGATION OF, OR GUARANTEED BY, JPMORGAN CHASE BANK,
+                                N.A. OR ANY OF ITS AFFILIATES
+Text: SUBJECT TO INVESTMENT RISKS, INCLUDING POSSIBLE LOSS OF THE PRINCIPAL AMOUNT
+                                INVESTED
 Text: Chase Private Client
 Text: Get more from a personalized relationship offering
 Link: /personal/checking/private-client#personalized-financial-relationship
-Text: no everyday banking fees
+Text: no everyday
+                              banking fees
 Text: , priority service from a
 Link: /personal/checking/private-client/team
 Text: dedicated team
 Text: and
 Link: /personal/checking/private-client/perks
 Text: special perks and benefits
-Text: . Connect with a Chase Private Client Banker at your nearest
+Text: . Connect
+                            with a Chase Private Client Banker at your nearest
 Link: https://locator.chase.com/?locale=en_US
 Text: Chase branch
-Text: to learn about eligibility requirements and all available benefits.
+Text: to learn about eligibility
+                            requirements and all available benefits.
 Text: INVESTMENT AND INSURANCE PRODUCTS ARE:
 Text: NOT A DEPOSIT
 Text: NOT FDIC INSURED
@@ -298,12 +332,16 @@ Text: About Chase
 Text: Chase serves millions of people with a broad range of products.
 Link: https://www.chase.com
 Text: Chase online
-Text: lets you manage your Chase accounts, view statements, monitor activity, pay bills or transfer funds securely from one central place. To learn more, visit the
+Text: lets you manage your Chase accounts, view
+                            statements, monitor activity, pay bills or transfer funds securely from one central place.
+                            To learn more, visit the
 Link: /personal/banking/education
 Text: Banking Education Center
-Text: . For questions or concerns, please contact
+Text: . For questions or
+                            concerns, please contact
 Link: /digital/customer-service
-Text: Chase customer service
+Text: Chase customer
+                              service
 Text: or let us know about
 Link: /digital/resources/complaints-feedback
 Text: Chase complaints and feedback
@@ -312,12 +350,15 @@ Text: Sports & Entertainment
 Text: Chase gives you access to unique sports, entertainment and culinary events through
 Link: /personal/events/experiences
 Text: Chase Experiences
-Text: and our exclusive partnerships such as the
+Text: and our exclusive
+                            partnerships such as the
 Link: /personal/events/us-open
-Text: US Open
+Text: US
+                              Open
 Text: ,
 Link: https://www.msg.com/madison-square-garden
-Text: Madison Square Garden
+Text: Madison
+                              Square Garden
 Text: (Opens Overlay)
 Text: and
 Link: /personal/events/chase-center
@@ -329,17 +370,22 @@ Link: /digital/resources/privacy-security
 Text: suite of security features
 Text: can
 Link: /digital/resources/privacy-security/security/how-you-can-protect
-Text: help you protect
-Text: your info, money and give you peace of mind. See how we're dedicated to helping
+Text: help you
+                              protect
+Text: your info, money and give you peace of mind. See how we're dedicated to
+                            helping
 Link: /digital/resources/privacy-security/security/how-we-protect-you
 Text: protect you
-Text: , your accounts and your loved ones from
+Text: ,
+                            your accounts and your loved ones from
 Link: /digital/resources/privacy-security/financial-abuse
 Text: financial abuse
 Text: . Also,
 Link: /digital/resources/privacy-security/security/how-to-spot-scams
-Text: learn about the common tricks scammers are using
-Text: to help you stay one step ahead of them.  If you see unauthorized charges or believe your account was compromised contact us right away to
+Text: learn about the
+                              common tricks scammers are using
+Text: to help you stay one step ahead of them.  If you
+                            see unauthorized charges or believe your account was compromised contact us right away to
 Link: /digital/resources/privacy-security/security/report-fraud
 Text: report fraud
 Text: .
@@ -354,12 +400,18 @@ Link: /personal/financial-goals/life-moments
 Text: Student Center
 Link: /personal/zelle
 Text: Zelle
-Text: “Chase,” “JPMorgan,” “JPMorgan Chase,” the JPMorgan Chase logo and the Octagon Symbol are trademarks of JPMorgan Chase Bank, N.A.  JPMorgan Chase Bank, N.A. is a wholly-owned subsidiary of JPMorgan Chase & Co.
-Text: "Chase Private Client" is the brand name for a banking and investment product and service offering, requiring a Chase Private Client Checking℠ account.
-Text: Investing involves market risk, including possible loss of principal, and there is no guarantee that investment objectives will be achieved. Past performance is not a guarantee of future results.
-Text: J.P. Morgan Wealth Management is a business of JPMorgan Chase & Co., which offers investment products and services through
+Text: “Chase,” “JPMorgan,” “JPMorgan Chase,” the JPMorgan Chase logo and the Octagon Symbol are
+                    trademarks of JPMorgan Chase Bank, N.A.  JPMorgan Chase Bank, N.A. is a wholly-owned subsidiary
+                    of JPMorgan Chase & Co.
+Text: "Chase Private Client" is the brand name for a banking and investment product and service offering,
+                    requiring a Chase Private Client Checking℠ account.
+Text: Investing involves market risk, including possible loss of principal, and there is no guarantee
+                    that investment objectives will be achieved. Past performance is not a guarantee of future results.
+Text: J.P. Morgan Wealth Management is a business of JPMorgan Chase & Co., which offers investment
+                    products and services through
 Text: J.P. Morgan Securities LLC
-Text: (JPMS), a registered broker-dealer and investment adviser, member
+Text: (JPMS), a registered
+                    broker-dealer and investment adviser, member
 Link: https://www.finra.org/#/
 Text: FINRA
 Text: (Opens Overlay)
@@ -367,8 +419,14 @@ Text: and
 Link: https://www.sipc.org/
 Text: SIPC
 Text: (Opens Overlay)
-Text: . Insurance products are made available through Chase Insurance Agency, Inc. (CIA), a licensed insurance agency, doing business as Chase Insurance Agency Services, Inc. in Florida. Certain custody and other services are provided by JPMorgan Chase Bank, N.A. (JPMCB). JPMS, CIA and JPMCB are affiliated companies under the common control of JPMorgan Chase & Co. Products not available in all states.
-Text: Bank deposit accounts, such as checking and savings, may be subject to approval. Deposit products and related services are offered by JPMorgan Chase Bank, N.A. Member FDIC.
+Text: .
+                    Insurance products are made available through Chase Insurance Agency, Inc. (CIA), a licensed
+                    insurance agency, doing business as Chase Insurance Agency Services, Inc. in Florida. Certain
+                    custody and other services are provided by JPMorgan Chase Bank, N.A. (JPMCB). JPMS, CIA and JPMCB
+                    are affiliated companies under the common control of JPMorgan Chase & Co. Products not available
+                    in all states.
+Text: Bank deposit accounts, such as checking and savings, may be subject to approval. Deposit products
+                    and related services are offered by JPMorgan Chase Bank, N.A. Member FDIC.
 Link: /digital/resources/about-chase
 Text: About Chase
 Link: https://www.jpmorgan.com/global
@@ -410,7 +468,10 @@ Text: End of overlay
 Text: googleoff: index
 Text: Start of overlay
 Text: You're now leaving Chase
-Text: Chase's website and/or mobile terms, privacy and security policies don't apply to the site or app you're about to visit. Please review its terms, privacy and security policies to see how they apply to you. Chase isn’t responsible for (and doesn't provide) any products, services or content at this third-party site or app, except for products and services that explicitly carry the Chase name.
+Text: Chase's website and/or mobile terms, privacy and security policies don't apply to the site or app you're
+              about to visit. Please review its terms, privacy and security policies to see how they apply to you. Chase
+              isn’t responsible for (and doesn't provide) any products, services or content at this third-party site or
+              app, except for products and services that explicitly carry the Chase name.
 Text: Cancel
 Text: Proceed
 Text: End of overlay

@@ -1,0 +1,1751 @@
+Deleted Tag: <link href="" rel="canonical"/>
+Deleted Tag: <link href="/assets/css/global/resp/main.css" rel="stylesheet"/>
+Deleted Tag: <link as="script" href="https://s.go-mpulse.net/boomerang/93U6S-JS5E3-HQLJ8-98G8C-NNRXF" rel="preload"/>
+Deleted Tag: <style id="ensOriginalCookie" type="text/css">
+        .cookie-banner,
+        #cookieToast,
+        .fancybox-overlay {
+            display: none !important
+        }
+    </style>
+Deleted Tag: <style id="alloy-prehiding">
+        .body {
+            opacity: 0 !important
+        }
+    </style>
+Deleted Tag: <style type="text/css">
+        /*Modal 1 CSS start*/
+        /*Nexus workaround for fast loading page content*/
+        .privacy-loading {
+            opacity: 0 !important;
+            visibility: hidden !important;
+        }
+
+        #overlay {
+            position: fixed;
+            display: none;
+            width: 101%;
+            height: 100%;
+            top: 0;
+            left: 0;
+            background-color: rgb(255, 255, 255);
+            background-color: rgba(255, 255, 255, 0.75);
+            -webkit-backdrop-filter: blur(10px);
+            backdrop-filter: blur(10px);
+            z-index: 9999;
+        }
+
+        .baNexus.privacy-targetGroup-3 #overlay {
+            -webkit-backdrop-filter: blur(3px);
+            backdrop-filter: blur(3px);
+        }
+
+        .privacy-loading #ensNotifyBanner {
+            display: none !important;
+        }
+
+        #ensNotifyBanner {
+            z-index: 99999;
+            background-color: #ffffff;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            color: #021B41;
+            border-radius: 0;
+            opacity: 1;
+            width: 90%;
+            top: 50% !important;
+            bottom: auto;
+            margin: 0 5%;
+            -webkit-transform: translateY(-50%);
+            -ms-transform: translateY(-50%);
+            -o-transform: translateY(-50%);
+            -moz-transform: translateY(-50%);
+            transform: translateY(-50%);
+            left: 0 !important;
+            padding: 32px;
+        }
+
+        .baNexus.privacy-targetGroup-3 #ensNotifyBanner {
+            width: 100%;
+            margin: 0;
+            transform: none;
+            top: unset !important;
+            bottom: 0;
+            padding: 20px 30px;
+        }
+
+        #ensNotifyBanner .modalHeader {
+            font-family: 'mylius-modern-extlig', 'MyliusModernExtLight', 'Mylius Modern Extra Light', 'Mylius Modern';
+            font-style: normal;
+            font-weight: 200;
+            font-size: 24px;
+            line-height: 34px;
+            text-align: justify;
+            letter-spacing: 0.8px;
+            color: #021B41;
+            margin-top: 0;
+            margin-bottom: 16px;
+        }
+
+        #ensNotifyBanner .modalContent p {
+            font-family: 'open-sans-v15-latin-300', 'OpenSansLight', 'Open Sans Light', 'Open Sans';
+            font-style: normal;
+            font-weight: 300;
+            font-size: 16px;
+            line-height: 24px;
+            text-align: justify;
+            letter-spacing: 0.4px;
+            color: #021B41;
+            margin-bottom: 22px;
+        }
+
+        .baNexus.privacy-targetGroup-3 #ensNotifyBanner .modalContent p {
+            text-align: left;
+        }
+
+        #ensNotifyBanner .ensBAModalLink {
+            color: #2671d3;
+            text-decoration: none;
+            border-bottom: 1px solid #2671d3;
+        }
+
+        #ensNotifyBanner .ensBAModalLink:focus {
+            outline: 1.5px solid #ffffff;
+            outline-offset: 4px;
+        }
+
+        #ensNotifyBanner .ensButtons #ensCloseBanner,
+        #ensNotifyBanner .ensButtons #ensAcceptAll {
+            font-family: 'open-sans-v15-latin-regular', 'OpenSans', 'Open Sans';
+            font-weight: 400;
+            letter-spacing: .4px;
+            border: 1px solid #2e5c99;
+            border-radius: 2px;
+            background-color: #2e5c99;
+            color: #fff;
+            transition: background .4s cubic-bezier(.645, .045, .355, 1) 0s, color .4s cubic-bezier(.645, .045, .355, 1) 0s, border .4s cubic-bezier(.645, .045, .355, 1) 0s;
+            padding: 0;
+            font-size: 16px;
+            line-height: 24px;
+            height: 56px;
+            margin: 10px auto;
+            text-align: center;
+            width: 100%;
+            box-shadow: none;
+        }
+
+        #ensNotifyBanner #ensCloseBanner:hover,
+        #ensNotifyBanner #ensCloseBanner:active,
+        #ensNotifyBanner #ensAcceptAll:hover,
+        #ensNotifyBanner #ensAcceptAll:active {
+            background-color: #2671D3 !important;
+        }
+
+        #ensNotifyBanner #ensCloseBanner:focus,
+        #ensNotifyBanner #ensOpenModal:focus,
+        #ensNotifyBanner #ensAcceptAll:focus,
+        #ensNotifyBanner #ensBACookieUrl:focus,
+        #ensNotifyBanner #ensBAPrivacyPolicyUrl:focus {
+            outline: 1.5px solid #2671D3 !important;
+            outline-offset: 4px;
+        }
+
+        #ensNotifyBanner #ensOpenModal {
+            font-family: 'open-sans-v15-latin-regular', 'OpenSans', 'Open Sans';
+            font-weight: 400;
+            letter-spacing: .4px;
+            border: 1px solid #2e5c99;
+            border-radius: 2px;
+            background-color: transparent;
+            color: #2e5c99;
+            transition: background .4s cubic-bezier(.645, .045, .355, 1) 0s, color .4s cubic-bezier(.645, .045, .355, 1) 0s, border .4s cubic-bezier(.645, .045, .355, 1) 0s;
+            padding: 0;
+            font-size: 16px;
+            line-height: 24px;
+            height: 56px;
+            margin: 0;
+            width: 100%;
+        }
+
+        #ensNotifyBanner #ensOpenModal:hover,
+        #ensNotifyBanner #ensOpenModal:active {
+            background-color: #2671D3 !important;
+            color: #fff !important;
+        }
+
+        #ensNotifyBanner .ensButtons {
+            clear: none;
+            margin-top: 0;
+            float: none;
+            display: inline-block;
+        }
+
+        /*Modal 1 CSS end*/
+
+        /*Modal 2 CSS start*/
+
+        #ensModalWrapper {
+            z-index: 99999 !important;
+            border: none !important;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1) !important;
+            padding: 0 !important;
+            left: 0 !important;
+            top: 50% !important;
+            max-width: 100% !important;
+            height: auto;
+            -webkit-transform: translateY(-50%);
+            -ms-transform: translateY(-50%);
+            -o-transform: translateY(-50%);
+            -moz-transform: translateY(-50%);
+            transform: translateY(-50%);
+            max-height: 100%;
+            overflow: auto;
+        }
+
+        #ensModalWrapper .ensModal {
+            padding: 32px 32px 32px 32px;
+        }
+
+        #ensModalWrapper .ensModal .ensTitle {
+            font-family: 'mylius-modern-extlig', 'MyliusModernExtLight', 'Mylius Modern Extra Light', 'Mylius Modern';
+            font-style: normal;
+            font-weight: 200;
+            font-size: 24px;
+            line-height: 34px;
+            letter-spacing: 0.8px;
+            color: #021B41;
+            margin: 0;
+            width: 100%;
+            text-align: left;
+            padding: 0;
+            position: relative;
+            top: 0;
+            left: 0;
+            margin-bottom: 30px;
+        }
+
+        #ensModalWrapper hr {
+            display: none;
+        }
+
+        #ensModalWrapper .consentDescription {
+            display: none;
+        }
+
+        #ensModalWrapper .ensToggleRowWrapper {
+            max-height: 100%;
+            overflow: inherit;
+        }
+
+        #ensModalWrapper .ensToggleRow {
+            opacity: 1 !important;
+            margin-bottom: 16px;
+        }
+
+        #ensModalWrapper .ensToggleLabel {
+            font-family: 'mylius-modern-extlig', 'MyliusModernExtLight', 'Mylius Modern Extra Light', 'Mylius Modern';
+            font-style: normal;
+            font-weight: 300;
+            font-size: 18px;
+            line-height: 28px;
+            align-items: center;
+            letter-spacing: 0.4px;
+            color: #021B41;
+            opacity: 1 !important;
+        }
+
+        #ensModalWrapper .ensModal .description {
+            margin-left: 45px;
+            font-family: 'open-sans-v15-latin-300', 'OpenSansLight', 'Open Sans Light', 'Open Sans';
+            font-style: normal;
+            font-weight: 300;
+            font-size: 14px;
+            line-height: 20px;
+            letter-spacing: 0.4px;
+            color: #021B41;
+            opacity: 1 !important;
+            max-width: inherit;
+        }
+
+        #ensModalWrapper .ensModal .card {
+            float: left;
+            margin-right: 16px;
+            width: 25px;
+            height: 25px;
+        }
+
+        #ensModalWrapper .ensModal .card:focus-within {
+            outline-color: #2671D3 !important;
+            outline-style: auto !important;
+            outline-offset: 4px;
+        }
+
+        /* First checkbox only  */
+        #ensModalWrapper .ensToggleRow:first-child .card .switch {
+            background: #D8D9DC;
+        }
+
+        #ensModalWrapper .ensToggleRow .card .switch {
+            width: 25px;
+            height: 25px;
+            border-radius: 2px;
+            background: #f5f5f5;
+            border: 1px solid #D8D9DC;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        #ensModalWrapper .ensToggleRow .card .toggle {
+            width: 0;
+            height: 0;
+            left: 0;
+        }
+
+        #ensModalWrapper .ensToggleRow input:checked~.switch {
+            background: #021B41;
+            transition: .5s;
+        }
+
+        /* When the checkbox is checked, add a blue background */
+        #ensModalWrapper .ensToggleRow input:checked~.toggle {
+            background-color: #021B41;
+            left: 0;
+        }
+
+        /* Create the checkmark/indicator (hidden when not checked) */
+        #ensModalWrapper .ensToggleRow .card .toggle:after {
+            content: "";
+            position: absolute;
+            display: none;
+        }
+
+        /* Show the checkmark when checked */
+        #ensModalWrapper .ensToggleRow input:checked~.toggle:after {
+            display: block;
+        }
+
+        /* Style the checkmark/indicator */
+        #ensModalWrapper .ensToggleRow .card .toggle:after {
+            left: 10px;
+            top: 6px;
+            width: 7px;
+            height: 14px;
+            border: solid white;
+            border-width: 0 3px 3px 0;
+            -webkit-transform: rotate(45deg);
+            -ms-transform: rotate(45deg);
+            transform: rotate(45deg);
+        }
+
+        #ensModalWrapper .ensButtons {
+            clear: inherit;
+            margin-top: 35px;
+            float: none;
+            text-align: inherit;
+        }
+
+        #ensModalWrapper #ensCancel {
+            font-family: 'open-sans-v15-latin-regular', 'OpenSans', 'Open Sans';
+            font-weight: 400;
+            letter-spacing: .4px;
+            border: 1px solid #2e5c99;
+            border-radius: 2px;
+            background-color: #2e5c99;
+            color: #fff;
+            transition: background .4s cubic-bezier(.645, .045, .355, 1) 0s, color .4s cubic-bezier(.645, .045, .355, 1) 0s, border .4s cubic-bezier(.645, .045, .355, 1) 0s;
+            padding: 16px;
+            font-size: 16px;
+            line-height: 24px;
+            height: auto;
+            margin: 0 auto;
+            text-align: center;
+            width: 100%;
+            box-shadow: none;
+        }
+
+        #ensModalWrapper #ensCancel:hover,
+        #ensModalWrapper #ensCancel:active {
+            background-color: #2671D3;
+        }
+
+        #ensModalWrapper #ensSave:focus,
+        #ensModalWrapper #ensCancel:focus {
+            outline: 1.5px solid #2671D3 !important;
+            outline-offset: 4px;
+        }
+
+        #ensModalWrapper #ensSave {
+            font-family: 'open-sans-v15-latin-regular', 'OpenSans', 'Open Sans';
+            font-weight: 400;
+            letter-spacing: .4px;
+            border: 1px solid #2e5c99;
+            border-radius: 2px;
+            background-color: transparent;
+            color: #2e5c99;
+            transition: background .4s cubic-bezier(.645, .045, .355, 1) 0s, color .4s cubic-bezier(.645, .045, .355, 1) 0s, border .4s cubic-bezier(.645, .045, .355, 1) 0s;
+            padding: 16px;
+            font-size: 16px;
+            line-height: 24px;
+            height: auto;
+            margin: 0 auto;
+            width: 100%;
+            box-shadow: none;
+        }
+
+        #ensModalWrapper #ensSave:hover,
+        #ensModalWrapper #ensSave:active {
+            background-color: #2671D3;
+            color: #fff;
+        }
+
+        /*Modal 2 CSS end*/
+
+        /* Fix for default CSS */
+
+        .chevron::before {
+            border-style: inherit !important;
+            border-width: inherit !important;
+            display: inherit !important;
+            height: inherit !important;
+            margin: inherit !important;
+            position: inherit !important;
+            width: inherit !important;
+        }
+
+        #ensModalWrapper .chevron::before {
+            border-style: solid;
+            border-width: 2px 2px 0 0;
+            content: '';
+            display: inline-block;
+            height: 8px;
+            margin: 0 5px 2px 0;
+            position: relative;
+            width: 8px;
+        }
+
+        /* End of default CSS  Fix*/
+
+        /* Start of IBERIA CSS*/
+
+        /* Start of IBERIA CSS Modal 1*/
+
+        #ensNotifyBanner.IBensNotifyBanner .modalHeader {
+            color: #333333;
+            font-family: iberia-headline-reg;
+            font-size: 30px;
+            line-height: 43px;
+        }
+
+        #ensNotifyBanner.IBensNotifyBanner .modalContent p {
+            color: #666666;
+            font-family: 'Verdana-reg', 'sans-serif';
+            font-size: 16px;
+            line-height: 24px;
+        }
+
+        #ensNotifyBanner.IBensNotifyBanner .ensBAModalLink {
+            color: #666666;
+            font-family: 'Verdana-reg', 'sans-serif';
+            font-size: 16px;
+            line-height: 24px;
+            border-bottom: 1px solid #666666;
+        }
+
+        #ensNotifyBanner.IBensNotifyBanner .ensBAModalLink:focus,
+        #ensNotifyBanner.IBensNotifyBanner .ensBAModalLink:hover {
+            border-bottom: none;
+            color: #d7192d;
+            outline: 1.5px solid #d7192d !important;
+            outline-offset: 4px;
+        }
+
+        #ensNotifyBanner.IBensNotifyBanner .ensBAModalLink:hover {
+            border-bottom: none;
+            color: #d7192d;
+        }
+
+        #ensNotifyBanner.IBensNotifyBanner #ensCloseBanner,
+        #ensNotifyBanner.IBensNotifyBanner #ensAcceptAll {
+            background-color: #d7192d;
+            border: 2px solid #d7192d;
+            color: #fff;
+            font-family: 'Verdana-reg', 'sans-serif';
+            font-size: 16px;
+            line-height: 24px;
+        }
+
+        #ensNotifyBanner.IBensNotifyBanner #ensCloseBanner:hover,
+        #ensNotifyBanner.IBensNotifyBanner #ensCloseBanner:active,
+        #ensNotifyBanner.IBensNotifyBanner #ensAcceptAll:hover,
+        #ensNotifyBanner.IBensNotifyBanner #ensAcceptAll:active {
+            background-color: #b9191a !important;
+            border: 2px solid #b9191a;
+        }
+
+        #ensNotifyBanner.IBensNotifyBanner #ensOpenModal {
+            background-color: #fff;
+            border: 2px solid #d7192d;
+            color: #d7192d;
+            font-family: 'Verdana-reg', 'sans-serif';
+            font-size: 16px;
+            line-height: 24px;
+        }
+
+        #ensNotifyBanner.IBensNotifyBanner #ensOpenModal:hover,
+        #ensNotifyBanner.IBensNotifyBanner #ensOpenModal:active {
+            background-color: #b9191a !important;
+            border: 2px solid #b9191a;
+        }
+
+        #ensNotifyBanner.IBensNotifyBanner #ensCloseBanner:focus,
+        #ensNotifyBanner.IBensNotifyBanner #ensOpenModal:focus,
+        #ensNotifyBanner.IBensNotifyBanner #ensAcceptAll:focus {
+            outline: 1.5px solid #d7192d !important;
+            outline-offset: 4px;
+        }
+
+        /* End of IBERIA CSS Modal 1*/
+
+        /* Start of IBERIA CSS Modal 2*/
+
+        #ensModalWrapper.IBensModalWrapper .ensModal .ensTitle {
+            color: #333333;
+            font-family: iberia-headline-reg;
+            font-size: 30px;
+            line-height: 43px;
+        }
+
+        #ensModalWrapper.IBensModalWrapper .ensToggleLabel {
+            color: #333333;
+            font-family: iberia-headline-reg;
+            font-size: 22px;
+            line-height: 24px;
+        }
+
+        #ensModalWrapper.IBensModalWrapper .ensModal .description {
+            color: #666666;
+            font-family: 'Verdana-reg', 'sans-serif';
+            font-size: 13px;
+            line-height: 20px;
+        }
+
+        #ensModalWrapper.IBensModalWrapper .ensModal .card {
+            border: 1px solid #777777;
+        }
+
+        #ensModalWrapper.IBensModalWrapper .ensModal .card input:checked {
+            border: 1px solid #47192d !important;
+        }
+
+        #ensModalWrapper.IBensModalWrapper .ensToggleRow .card .switch {
+            width: 26px;
+            height: 26px;
+            border-radius: 2px;
+            background: #fff;
+            border: none;
+            box-shadow: none;
+        }
+
+        /* First checkbox only  */
+        #ensModalWrapper.IBensModalWrapper .ensToggleRow:first-child .card .switch {
+            background: #797979;
+        }
+
+        #ensModalWrapper.IBensModalWrapper .ensToggleRow:first-child .card {
+            border: 1px solid #797979;
+        }
+
+        #ensModalWrapper.IBensModalWrapper .ensToggleRow:first-child .card .toggle:after {
+            left: 8px;
+            top: 5px;
+            width: 7px;
+            height: 14px;
+            border: solid white;
+            border-width: 0 2px 2px 0;
+            -webkit-transform: rotate(45deg);
+            -ms-transform: rotate(45deg);
+            transform: rotate(45deg);
+        }
+
+        #ensModalWrapper.IBensModalWrapper .ensToggleRow input:checked~.switch {
+            background: #fff;
+        }
+
+        #ensModalWrapper.IBensModalWrapper .ensToggleRow .card .toggle:after {
+            left: 8px;
+            top: 5px;
+            width: 7px;
+            height: 14px;
+            border: solid #d7192d;
+            border-width: 0 2px 2px 0;
+            -webkit-transform: rotate(45deg);
+            -ms-transform: rotate(45deg);
+            transform: rotate(45deg);
+        }
+
+        #ensModalWrapper.IBensModalWrapper .ensModal .card:focus-within {
+            outline: 2px solid #d7192d !important;
+            outline-offset: 2px;
+            border-radius: 1px;
+        }
+
+        #ensModalWrapper.IBensModalWrapper #ensCancel {
+            background-color: #d7192d;
+            border: 2px solid #d7192d;
+            color: #fff;
+            font-family: 'Verdana-reg', 'sans-serif';
+            font-size: 16px;
+            line-height: 24px;
+        }
+
+        #ensModalWrapper.IBensModalWrapper #ensCancel:hover,
+        #ensModalWrapper.IBensModalWrapper #ensCancel:active {
+            background-color: #b9191a !important;
+            border: 2px solid #b9191a;
+        }
+
+        #ensModalWrapper.IBensModalWrapper #ensSave {
+            background-color: #fff;
+            border: 2px solid #d7192d;
+            color: #d7192d;
+            font-family: 'Verdana-reg', 'sans-serif';
+            font-size: 16px;
+            line-height: 24px;
+        }
+
+        #ensModalWrapper.IBensModalWrapper #ensSave:hover,
+        #ensModalWrapper.IBensModalWrapper #ensSave:active {
+            background-color: #b9191a !important;
+            border: 2px solid #b9191a;
+            color: #fff;
+        }
+
+        #ensModalWrapper.IBensModalWrapper #ensCancel:focus,
+        #ensModalWrapper.IBensModalWrapper #ensSave:focus {
+            outline: 1.5px solid #d7192d !important;
+            outline-offset: 4px;
+        }
+
+        /* End of IBERIA CSS Modal 2*/
+
+        /* End of IBERIA CSS*/
+
+        /* Extra small devices (phones, 599px and down) */
+        @media only screen and (max-width: 599px) {
+
+            #ensNotifyBanner {
+                width: 90%;
+                margin: 0 5%;
+            }
+
+            /* #ensNotifyBanner #ensOpenModal {
+        position: relative;
+        top: 75px;
+    } */
+
+            /* #ensNotifyBanner .ensButtons{
+        position: relative;
+        bottom: 65px;
+    } */
+
+            .baNexus.privacy-targetGroup-3 #ensNotifyBanner .modalHeader {
+                text-align: left;
+            }
+
+            #ensModalWrapper {
+                height: 100%;
+            }
+
+            #ensModalWrapper #ensSave {
+                margin-top: 16px;
+            }
+
+            .baNexus.privacy-targetGroup-3 #ensNotifyBanner .ensButtons #ensCloseBanner,
+            .baNexus.privacy-targetGroup-3 #ensNotifyBanner .ensButtons #ensAcceptAll {
+                height: 46px;
+                margin: 16px auto;
+            }
+
+            .baNexus.privacy-targetGroup-3 #ensNotifyBanner .ensButtons #ensOpenModal {
+                height: 46px;
+                box-shadow: none;
+            }
+
+            .baNexus.privacy-targetGroup-3 #ensNotifyBanner .ensButtons #ensAcceptAll {
+                margin-top: 0;
+            }
+        }
+
+        /* Small devices (portrait tablets and large phones, 600px and up) */
+        @media only screen and (min-width: 600px) and (max-width: 767px) {
+
+            #ensNotifyBanner {
+                width: 65%;
+                margin: 0 17%;
+            }
+
+            #ensModalWrapper {
+                max-width: 80% !important;
+                margin: 0 10%;
+                height: auto;
+            }
+
+            /* #ensNotifyBanner #ensOpenModal {
+        position: relative;
+        top: 75px;
+    } */
+
+            /* #ensNotifyBanner .ensButtons{
+        position: relative;
+        bottom: 65px;
+    } */
+
+            #ensModalWrapper #ensSave {
+                margin-top: 16px;
+            }
+
+            .baNexus.privacy-targetGroup-3 #ensNotifyBanner .ensButtons #ensCloseBanner,
+            .baNexus.privacy-targetGroup-3 #ensNotifyBanner .ensButtons #ensAcceptAll {
+                height: 46px;
+                margin: 16px auto;
+            }
+
+            .baNexus.privacy-targetGroup-3 #ensNotifyBanner .ensButtons #ensOpenModal {
+                height: 46px;
+                box-shadow: none;
+            }
+
+            .baNexus.privacy-targetGroup-3 #ensNotifyBanner .ensButtons #ensAcceptAll {
+                margin-top: 0;
+            }
+        }
+
+        /* Medium devices (landscape tablets, 768px and up) */
+        @media only screen and (min-width: 768px) and (max-width: 1023px) {
+
+            #ensNotifyBanner {
+                width: 65%;
+                margin: 0 17%;
+            }
+
+            #ensNotifyBanner .modalHeader {
+                font-size: 32px;
+                line-height: 42px;
+                letter-spacing: 0.8px;
+            }
+
+            #ensNotifyBanner #btnWrapper {
+                width: 49%;
+                margin: 2% 0 0 0;
+                float: left;
+            }
+
+            #ensNotifyBanner .ensButtons {
+                width: 100%;
+                padding-bottom: 0;
+                float: right;
+            }
+
+            #ensNotifyBanner #ensCloseBanner {
+                margin: 11px 0 0 0;
+            }
+
+            .baNexus.privacy-targetGroup-3 #ensNotifyBanner .ensButtons #ensCloseBanner,
+            .baNexus.privacy-targetGroup-3 #ensNotifyBanner .ensButtons #ensAcceptAll {
+                height: 46px;
+                margin: 16px auto;
+            }
+
+            .baNexus.privacy-targetGroup-3 #ensNotifyBanner .ensButtons #ensOpenModal {
+                height: 46px;
+                box-shadow: none;
+            }
+
+            .baNexus.privacy-targetGroup-3 #ensNotifyBanner .ensButtons #ensAcceptAll {
+                margin-top: 0;
+            }
+
+            #ensModalWrapper {
+                width: 80% !important;
+                margin: 0 10%;
+                height: auto;
+            }
+
+            #ensModalWrapper .ensModal .ensTitle {
+                font-size: 32px;
+                line-height: 42px;
+                letter-spacing: 0.8px;
+            }
+
+            #ensModalWrapper .ensToggleLabel {
+                font-size: 20px;
+                line-height: 30px;
+                letter-spacing: 0.6px;
+            }
+
+            #ensModalWrapper #ensSave {
+                width: 49%;
+            }
+
+            #ensModalWrapper #ensCancel {
+                width: 49%;
+                float: right;
+            }
+        }
+
+        /* Large devices (laptops/desktops, 1024px and up) */
+        @media only screen and (min-width: 1024px) and (max-width: 1279px) {
+
+            #ensNotifyBanner {
+                width: 50%;
+                margin: 0 25%;
+            }
+
+            .baNexus.privacy-targetGroup-3 #ensNotifyBanner #ensBannerInner {
+                display: flex;
+                max-width: 100%;
+                margin: 0 auto;
+                width: calc(1316px + 2rem);
+            }
+
+            .baNexus.privacy-targetGroup-3 #ensNotifyBanner #ensBannerDescription {
+                margin-right: 40px;
+            }
+
+            #ensNotifyBanner .modalHeader {
+                font-size: 32px;
+                line-height: 42px;
+                letter-spacing: 0.8px;
+            }
+
+            .baNexus.privacy-targetGroup-3 #ensNotifyBanner .modalHeader {
+                font-size: 20px;
+                text-align: left;
+                line-height: 30px;
+                margin-bottom: 12px;
+            }
+
+            #ensNotifyBanner .modalContent {
+                margin-bottom: 28px;
+            }
+
+            .baNexus.privacy-targetGroup-3 #ensNotifyBanner .modalContent {
+                margin-bottom: 0px;
+            }
+
+            .baNexus.privacy-targetGroup-3 #ensNotifyBanner .modalContent p {
+                margin-bottom: 0px;
+                font-size: 16px;
+                line-height: 24px;
+            }
+
+            #ensNotifyBanner #btnWrapper {
+                width: 49%;
+                margin: 0 2% 0 0;
+                float: left;
+            }
+
+            #ensNotifyBanner .ensButtons {
+                width: 100%;
+                display: inline-block;
+                padding-bottom: 0;
+            }
+
+            .baNexus.privacy-targetGroup-3 #ensNotifyBanner .ensButtons {
+                display: inline-flex;
+            }
+
+            #ensNotifyBanner #ensCloseBanner {
+                line-height: 16px;
+                margin: 0 auto;
+            }
+
+            .baNexus.privacy-targetGroup-3 #ensNotifyBanner .ensButtons #ensCloseBanner,
+            .baNexus.privacy-targetGroup-3 #ensNotifyBanner .ensButtons #ensAcceptAll,
+            .baNexus.privacy-targetGroup-3 #ensNotifyBanner .ensButtons #ensOpenModal {
+                margin: auto 10px;
+            }
+
+            .baNexus.privacy-targetGroup-3 #ensNotifyBanner .ensButtons #ensOpenModal {
+                width: 150px;
+                box-shadow: none;
+            }
+
+            .baNexus.privacy-targetGroup-3 #ensNotifyBanner .ensButtons #ensCloseBanner {
+                width: 300px;
+            }
+
+            .baNexus.privacy-targetGroup-3 #ensNotifyBanner .ensButtons #ensAcceptAll {
+                width: 200px;
+            }
+
+            /* #ensNotifyBanner #ensOpenModal{
+        width: 97%;
+    } */
+
+            #ensModalWrapper {
+                width: 65% !important;
+                margin: 0 17%;
+                height: auto;
+            }
+
+            #ensModalWrapper .ensModal .ensTitle {
+                font-size: 32px;
+                line-height: 42px;
+                letter-spacing: 0.8px;
+            }
+
+            #ensModalWrapper .ensToggleLabel {
+                font-size: 20px;
+                line-height: 30px;
+                letter-spacing: 0.6px;
+            }
+
+            #ensModalWrapper #ensSave {
+                width: 49%;
+            }
+
+            #ensModalWrapper #ensCancel {
+                width: 49%;
+                float: right;
+            }
+        }
+
+        /* Extra large devices (large laptops and desktops, 1200px and up) */
+        @media only screen and (min-width: 1280px) {
+
+            #ensNotifyBanner {
+                width: 50%;
+                margin: 0 25%;
+                padding: 32px;
+
+            }
+
+            .baNexus.privacy-targetGroup-3 #ensNotifyBanner {
+                padding: 20px 30px 40px 30px;
+            }
+
+            .baNexus.privacy-targetGroup-3 #ensNotifyBanner #ensBannerInner {
+                display: flex;
+                max-width: 100%;
+                margin: 0 auto;
+                width: calc(1316px + 2rem);
+            }
+
+            .baNexus.privacy-targetGroup-3 #ensNotifyBanner #ensBannerDescription {
+                margin-right: 40px;
+            }
+
+            #ensNotifyBanner .modalHeader {
+                font-size: 32px;
+                line-height: 42px;
+                letter-spacing: 0.8px;
+            }
+
+            .baNexus.privacy-targetGroup-3 #ensNotifyBanner .modalHeader {
+                margin-bottom: 2px;
+                font-size: 20px;
+                text-align: left;
+                line-height: 30px;
+                margin-bottom: 12px;
+            }
+
+            #ensNotifyBanner .modalContent {
+                margin-bottom: 28px;
+            }
+
+            .baNexus.privacy-targetGroup-3 #ensNotifyBanner .modalContent {
+                margin-bottom: 0px;
+            }
+
+            .baNexus.privacy-targetGroup-3 #ensNotifyBanner .modalContent p {
+                margin-bottom: 0px;
+                font-size: 16px;
+            }
+
+            #ensNotifyBanner #btnWrapper {
+                width: 49%;
+                margin: 0 2% 0 0;
+                float: left;
+            }
+
+            #ensNotifyBanner .ensButtons {
+                width: 100%;
+                display: inline-block;
+                padding-bottom: 0;
+            }
+
+            .baNexus.privacy-targetGroup-3 #ensNotifyBanner .ensButtons {
+                display: inline-flex;
+                margin-top: 30px;
+            }
+
+            #ensNotifyBanner #ensCloseBanner {
+                margin: 0 auto;
+            }
+
+            #ensModalWrapper {
+                width: 55% !important;
+                margin: 0 23%;
+                height: auto;
+            }
+
+            #ensModalWrapper .ensModal .ensTitle {
+                font-size: 32px;
+                line-height: 42px;
+                letter-spacing: 0.8px;
+            }
+
+            #ensModalWrapper .ensToggleLabel {
+                font-size: 20px;
+                line-height: 30px;
+                letter-spacing: 0.6px;
+            }
+
+            #ensModalWrapper #ensSave {
+                width: 49%;
+            }
+
+            #ensModalWrapper #ensCancel {
+                width: 49%;
+                float: right;
+            }
+
+            .baNexus.privacy-targetGroup-3 #ensNotifyBanner .ensButtons #ensCloseBanner,
+            .baNexus.privacy-targetGroup-3 #ensNotifyBanner .ensButtons #ensAcceptAll,
+            .baNexus.privacy-targetGroup-3 #ensNotifyBanner .ensButtons #ensOpenModal {
+                margin: auto 10px;
+            }
+
+            .baNexus.privacy-targetGroup-3 #ensNotifyBanner .ensButtons #ensOpenModal {
+                width: 150px;
+                box-shadow: none;
+            }
+
+            .baNexus.privacy-targetGroup-3 #ensNotifyBanner .ensButtons #ensCloseBanner {
+                width: 300px;
+            }
+
+            .baNexus.privacy-targetGroup-3 #ensNotifyBanner .ensButtons #ensAcceptAll {
+                width: 200px;
+            }
+        }
+    </style>
+Deleted Tag: <style>
+        .aspirational-bg {
+            background-image: url('/assets/images/global/site/backgroundImages/default.png');
+        }
+
+
+        @font-face {
+            font-family: 'MyliusModernBold';
+            src: url('/assets/fonts/mylius-Modern-bd.eot');
+            src: url('/assets/fonts/mylius-Modern-bd.eot?#iefix') format('embedded-opentype'),
+                url('/assets/fonts/mylius-Modern-bd.woff') format('woff'),
+                url('/assets/fonts/mylius-Modern-bd.ttf') format('truetype'),
+                url('/assets/fonts/mylius-Modern-bd.svg#MyliusModernBold') format('svg');
+            font-weight: normal;
+            font-style: normal;
+        }
+
+        @font-face {
+            font-family: 'MyliusModernRegular';
+            src: url('/assets/fonts/mylius-Modern-reg.eot');
+            src: url('/assets/fonts/mylius-Modern-reg.eot?#iefix') format('embedded-opentype'),
+                url('/assets/fonts/mylius-Modern-reg.woff') format('woff'),
+                url('/assets/fonts/mylius-Modern-reg.ttf') format('truetype'),
+                url('/assets/fonts/mylius-Modern-reg.svg#MyliusModernRegular') format('svg');
+            font-weight: normal;
+            font-style: normal;
+        }
+
+        @font-face {
+            font-family: 'MyliusModernLight';
+            src: url('/assets/fonts/mylius-Modern-lt.eot');
+            src: url('/assets/fonts/mylius-Modern-lt.eot?#iefix') format('embedded-opentype'),
+                url('/assets/fonts/mylius-Modern-lt.woff') format('woff'),
+                url('/assets/fonts/mylius-Modern-lt.ttf') format('truetype'),
+                url('/assets/fonts/mylius-Modern-lt.svg#MyliusModernLight') format('svg');
+            font-weight: normal;
+            font-style: normal;
+        }
+
+        @font-face {
+            font-family: 'MyliusModernExtLight';
+            src: url('/cms/global/styles/core/fonts/mylius-modern-extlig.eot');
+            src: url('/cms/global/styles/core/fonts/mylius-modern-extlig.eot?#iefix') format('embedded-opentype'),
+                url('/cms/global/styles/core/fonts/mylius-modern-extlig.woff') format('woff'),
+                url('/cms/global/styles/core/fonts/mylius-modern-extlig.ttf') format('truetype');
+            font-weight: normal;
+            font-style: normal;
+        }
+
+        @font-face {
+            font-family: 'OpenSans';
+            src: url('/cms/global/styles/core/fonts/open-sans-v15-latin-regular.eot');
+            src: url('/cms/global/styles/core/fonts/open-sans-v15-latin-regular.eot?#iefix') format('embedded-opentype'),
+                url('/cms/global/styles/core/fonts/open-sans-v15-latin-regular.woff') format('woff'),
+                url('/cms/global/styles/core/fonts/open-sans-v15-latin-regular.ttf') format('truetype');
+            font-weight: normal;
+            font-style: normal;
+        }
+
+        @font-face {
+            font-family: 'OpenSansLight';
+            src: url('/cms/global/styles/core/fonts/open-sans-v15-latin-300.eot');
+            src: url('/cms/global/styles/core/fonts/open-sans-v15-latin-300.eot?#iefix') format('embedded-opentype'),
+                url('/cms/global/styles/core/fonts/open-sans-v15-latin-300.woff') format('woff'),
+                url('/cms/global/styles/core/fonts/open-sans-v15-latin-300.ttf') format('truetype');
+            font-weight: normal;
+            font-style: normal;
+        }
+
+        @font-face {
+            font-family: 'OpenSansBold';
+            src: url('/cms/global/styles/core/fonts/open-sans-v15-latin-700.eot');
+            src: url('/cms/global/styles/core/fonts/open-sans-v15-latin-700?#iefix') format('embedded-opentype'),
+                url('/cms/global/styles/core/fonts/open-sans-v15-latin-700') format('woff'),
+                url('/cms/global/styles/core/fonts/open-sans-v15-latin-700') format('truetype');
+            font-weight: normal;
+            font-style: normal;
+        }
+    </style>
+Deleted Tag: <style type="text/css"></style>
+Deleted Tag: <style type="text/css">
+        .ensNotifyBanner {
+            background-color: #191b23;
+            color: #ededed;
+            opacity: 0.8;
+            width: 60%;
+            border-radius: 10px;
+            padding: 20px;
+            font-family: Roboto, "Helvetica Neue", Helvetica, Arial;
+            position: fixed;
+            bottom: 50px;
+            display: none;
+            z-index: 9999;
+        }
+
+        .ensButtons {
+            display: flex;
+            justify-content: flex-end;
+            margin-top: 15px;
+        }
+
+        .ensButtons .button {
+            display: inline-block;
+            position: relative;
+            padding: 8px 2px;
+            /* Controls the button's height and width relative to its text content */
+            border-radius: 2px;
+            font-size: 0.9em;
+            white-space: nowrap;
+            /* Prevents text from wrapping inside button */
+            overflow: hidden;
+            /* Ensures overflowing text doesn't spill out of the button */
+            background-color: #fff;
+            color: #646464;
+            margin-left: 20px;
+            text-align: center;
+            cursor: pointer;
+        }
+
+        .ensButtons .button.grey {
+            background-color: #eee;
+        }
+
+        .ensButtons .button.blue {
+            background-color: #2b5cac;
+            color: #fff;
+        }
+
+        .ensButtons .button.raised {
+            transition: box-shadow 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+            transition-delay: 0.2s;
+            box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
+        }
+
+        .ensButtons .button.raised:active {
+            box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2);
+            transition-delay: 0s;
+        }
+
+        .ensClear {
+            clear: both;
+        }
+
+        .ensModalLink {
+            cursor: pointer;
+            text-decoration: underline;
+        }
+
+        .ensModalLink:hover {
+            color: #2b5cac;
+        }
+    </style>
+Deleted Tag: <style type="text/css">
+        .ensCenter {
+            text-align: center;
+        }
+
+        #ensModalWrapper {
+            border: 1px solid #333;
+            position: fixed;
+            max-width: 80%;
+            border: 1px solid #000;
+            display: none;
+            box-shadow: 5px 5px 5px grey;
+            background-color: #fff;
+            padding: 20px 0;
+            z-index: 9999;
+        }
+
+        .ensModal {
+            font-family: Roboto, "Helvetica Neue", Helvetica, Arial;
+        }
+
+        .ensModal input[type="checkbox"] {
+            position: absolute !important;
+            height: 1px;
+            width: 1px;
+            overflow: hidden;
+            clip: rect(1px, 1px, 1px, 1px);
+            white-space: nowrap;
+            /* added line */
+        }
+
+        .ensModal input[type="checkbox"]:checked~.toggle {
+            background: #fff;
+            left: 36px;
+            transition: 0.5s;
+        }
+
+        .ensModal input[type="checkbox"]:checked~.switch {
+            background: #43a047;
+            transition: 0.5s;
+        }
+
+        .ensModal .switch {
+            display: block;
+            width: 50px;
+            height: 15px;
+            background: #939393;
+            border-radius: 10px;
+            position: absolute;
+            top: 0;
+            transition: 0.5s;
+        }
+
+        .ensModal .toggle {
+            height: 17px;
+            width: 17px;
+            border-radius: 50%;
+            background: white;
+            position: absolute;
+            top: -2px;
+            left: -2px;
+            box-shadow: 0 1px 2px rgba(0, 0, 0, 0.4);
+            transition: 0.5s;
+        }
+
+        .ensModal .card {
+            display: inline-block;
+            margin: 9px;
+            margin: 5px;
+            width: 50px;
+            height: 20px;
+            text-align: center;
+            position: relative;
+            float: right;
+        }
+
+        .ensModal {
+            font-size: 18px;
+            color: #333;
+            padding: 20px;
+        }
+
+        .ensToggleRow {
+            margin-bottom: 10px;
+        }
+
+        .ensToggleLabel {
+            margin-right: 5px;
+        }
+
+        .ensButtons {
+            clear: both;
+            margin-top: 15px;
+            float: right;
+        }
+
+        .ensButtons .button {
+            display: inline-block;
+            position: relative;
+            width: 120px;
+            height: 32px;
+            border-radius: 2px;
+            font-size: 0.9em;
+            background-color: #fff;
+            color: #646464;
+            margin-left: 20px;
+        }
+
+        .ensButtons .button.grey {
+            background-color: #eee;
+        }
+
+        .ensButtons .button.blue {
+            background-color: #2b5cac;
+            color: #fff;
+        }
+
+        .ensButtons .button.raised {
+            transition: box-shadow 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+            transition-delay: 0.2s;
+            box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
+        }
+
+        .ensButtons .button.raised:active {
+            box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2);
+            transition-delay: 0s;
+        }
+
+        .ensModal .ensTitle {
+            margin: 5px;
+            width: 95%;
+            color: #74736f;
+            position: absolute;
+            top: -5px;
+            left: -5px;
+            padding-left: 5%;
+            padding-top: 13px;
+            padding-bottom: 3px;
+            text-align: center;
+        }
+
+        .ensModal .consentDescription {
+            color: #333;
+            font-size: 14px;
+        }
+
+        .ensModal hr {
+            color: #c5c5c5;
+        }
+
+        .ensModal .description {
+            max-width: 600px;
+            font-size: 12px;
+            margin-top: 15px;
+            clear: both;
+        }
+
+        .ensToggleLabel.chevron::before {
+            border-style: solid;
+            border-width: 2px 2px 0 0;
+            content: "";
+            display: inline-block;
+            height: 8px;
+            margin: 0 5px 2px 0;
+            position: relative;
+            width: 8px;
+        }
+
+        .ensToggleLabel.chevron.right:before {
+            transform: rotate(45deg);
+        }
+
+        .ensToggleLabel.chevron.bottom:before {
+            margin-left: 2px;
+            margin-bottom: 3px;
+            transform: rotate(135deg);
+        }
+
+        .ensModal .ensTagsContent {
+            display: none;
+            padding: 0 0 0 20px;
+        }
+
+        .ensModal .tagContainer {
+            color: #676767;
+            padding: 7px 0 7px 7px;
+            font-size: 15px;
+        }
+
+        .contactInfoLink {
+            display: block;
+            margin-bottom: 4px;
+        }
+
+        .ensToggleRowWrapper {
+            max-height: 400px;
+            overflow: auto;
+        }
+    </style>
+Deleted Tag: <script async="" src="/cms/global/scripts/applications/tracking/webdata.js" type="text/javascript"></script>
+Deleted Tag: <script async="" type="text/javascript"></script>
+Deleted Tag: <script async="" src="//tagman.britishairways.com/pc/britishairways/?format=JS&amp;output=cookies&amp;variable=Bootstrapper.pulseCookies" type="text/javascript">
+    </script>
+Deleted Tag: <script data-dtconfig="app=35f59016758a65e9|ssc=1|cssm=n|featureHash=ICA2NVfghjqrux|vcv=2|rdnt=1|uxrgce=1|bp=3|cuc=ocfbhgww|mel=100000|dpvc=1|md=mdcc2=bwindow.dataLayer.pagename,mdcc4=a#appErrors ul li:not([style*^e^dqdisplay:none^dq]),mdcc501=cBADPSessionB,mdcc503=cv1st,mdcc505=bwindow.dataLayer.PNR,mdcc506=bwindow.dataLayer.pagename,mdcc507=bwindow.dataLayer.page_name,mdcc514=bwindow.dataLayer.currencycode,mdcc517=bwindow.dataLayer.logintype,mdcc521=bwindow.dataLayer.seatrevenue|ssv=4|lastModification=1708347792209|tp=500,50,0,1|agentUri=/ruxitagentjs_ICA2NVfghjqrux_10283240117152214.js|reportUrl=/rb_bf27670lux|rid=RID_-1322896345|rpid=1100649036|domain=britishairways.com" src="/ruxitagentjs_ICA2NVfghjqrux_10283240117152214.js" type="text/javascript">
+    </script>
+Deleted Tag: <script src="/cms/global/ensighten/Bootstrap.js"></script>
+Deleted Tag: <script src="//tagman.britishairways.com/pc/britishairways/?format=JS&amp;output=cookies&amp;variable=Bootstrapper.pulseCookies">
+    </script>
+Deleted Tag: <script>
+        var testStr = "PREVIEW";
+        if ("RUNTIME" == testStr) {
+            var myMetaTag = '<meta name="vpath" content="">';
+            document.write(myMetaTag);
+        }
+    </script>
+Deleted Tag: <script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
+Deleted Tag: <script>
+        if (typeof jQuery == 'undefined') {
+            document.write(unescape("%3Cscript src='/assets/scripts/global/lib/jquery-latest.min.js'%3E%3C/script%3E"));
+        }
+    </script>
+Deleted Tag: <script src="/assets/scripts/global/tracking/visualsciences.js"></script>
+Deleted Tag: <script src="/assets/scripts/global/tracking/visualsciencesLivesite.js"></script>
+Deleted Tag: <script>
+        var trackingInfo = [],
+            tagManTrackingInfo = {},
+            vsHardCodedName = 'resp-information/legal/british-airways/general-conditions-of-carriage',
+            homeServer = "null";
+
+        (function () {
+            "use strict";
+
+            var siteName = "resp-information",
+                pageName = "/legal/british-airways/general-conditions-of-carriage",
+                pageCountryCode = "US",
+                pageLanguageCode = "en",
+                pageCountryCodeLowerCase = pageCountryCode.toLowerCase(),
+                pageLanguageCodeLowerCase = pageLanguageCode.toLowerCase();
+
+
+
+            if (siteName.substring(siteName.length - 3, siteName.length) === '-en') {
+                siteName = siteName.substring(0, siteName.length - 3);
+            } else if (siteName.substring(0, 5) === 'resp-') {
+                siteName = siteName.substring(5, siteName.length);
+            }
+
+
+            if (pageName.substring(pageName.length - 6, pageName.length) === '/index') {
+                pageName = pageName.substring(0, pageName.length - 6);
+            }
+
+
+            if (pageName.indexOf('/' + pageCountryCodeLowerCase + '/' + pageLanguageCodeLowerCase) !== -1) {
+                pageName = pageName.replace('/' + pageCountryCodeLowerCase + '/' + pageLanguageCodeLowerCase, '');
+            }
+
+            tagManTrackingInfo.page_name = siteName + pageName;
+            tagManTrackingInfo.page_country_code = pageCountryCode.toUpperCase();
+            tagManTrackingInfo.page_language_code = pageLanguageCode.toUpperCase();
+            tagManTrackingInfo.platform = "DESKTOP";
+        }());
+
+
+        livesiteVisualSciencesSetup();
+    </script>
+Deleted Tag: <script type="text/javascript">
+        var dataLayer = {};
+        dataLayer.pagename = 'resp-information/legal/british-airways/general-conditions-of-carriage';
+        dataLayer.brand = 'BA';
+        dataLayer.country = 'US';
+        dataLayer.language = 'en';
+        dataLayer.platform = 'Desktop site: Responsive';
+    </script>
+Deleted Tag: <script src="/assets/scripts/global/tracking/dataLayer.js" type="text/javascript"></script>
+Deleted Tag: <script src="/assets/scripts/global/tracking/hashing.js" type="text/javascript"></script>
+Deleted Tag: <script src="/assets/scripts/global/tracking/tag_man.js"></script>
+Deleted Tag: <script>
+        (window.BOOMR_mq = window.BOOMR_mq || []).push(["addVar", {
+            "rua.upush": "false",
+            "rua.cpush": "true",
+            "rua.upre": "false",
+            "rua.cpre": "false",
+            "rua.uprl": "false",
+            "rua.cprl": "false",
+            "rua.cprf": "false",
+            "rua.trans": "SJ-fe3985f4-b580-4579-9d83-c7d514f01976",
+            "rua.cook": "false",
+            "rua.ims": "false",
+            "rua.ufprl": "false",
+            "rua.cfprl": "false",
+            "rua.isuxp": "false",
+            "rua.texp": "norulematch"
+        }]);
+    </script>
+Deleted Tag: <script>
+        ! function (e) {
+            var n = "https://s.go-mpulse.net/boomerang/";
+            if ("False" == "True") e.BOOMR_config = e.BOOMR_config || {}, e.BOOMR_config.PageParams = e.BOOMR_config
+                .PageParams || {}, e.BOOMR_config.PageParams.pci = !0, n = "https://s2.go-mpulse.net/boomerang/";
+            if (window.BOOMR_API_key = "93U6S-JS5E3-HQLJ8-98G8C-NNRXF", function () {
+                    function e() {
+                        if (!o) {
+                            var e = document.createElement("script");
+                            e.id = "boomr-scr-as", e.src = window.BOOMR.url, e.async = !0, i.parentNode.appendChild(e),
+                                o = !0
+                        }
+                    }
+
+                    function t(e) {
+                        o = !0;
+                        var n, t, a, r, d = document,
+                            O = window;
+                        if (window.BOOMR.snippetMethod = e ? "if" : "i", t = function (e, n) {
+                                var t = d.createElement("script");
+                                t.id = n || "boomr-if-as", t.src = window.BOOMR.url, BOOMR_lstart = (new Date)
+                                    .getTime(), e = e || d.body, e.appendChild(t)
+                            }, !window.addEventListener && window.attachEvent && navigator.userAgent.match(
+                                /MSIE [67]\./)) return window.BOOMR.snippetMethod = "s", void t(i.parentNode,
+                            "boomr-async");
+                        a = document.createElement("IFRAME"), a.src = "about:blank", a.title = "", a.role =
+                            "presentation", a.loading = "eager", r = (a.frameElement || a).style, r.width = 0, r
+                            .height = 0, r.border = 0, r.display = "none", i.parentNode.appendChild(a);
+                        try {
+                            O = a.contentWindow, d = O.document.open()
+                        } catch (_) {
+                            n = document.domain, a.src = "javascript:var d=document.open();d.domain='" + n +
+                                "';void(0);", O = a.contentWindow, d = O.document.open()
+                        }
+                        if (n) d._boomrl = function () {
+                            this.domain = n, t()
+                        }, d.write("<bo" + "dy onload='document._boomrl();'>");
+                        else if (O._boomrl = function () {
+                                t()
+                            }, O.addEventListener) O.addEventListener("load", O._boomrl, !1);
+                        else if (O.attachEvent) O.attachEvent("onload", O._boomrl);
+                        d.close()
+                    }
+
+                    function a(e) {
+                        window.BOOMR_onload = e && e.timeStamp || (new Date).getTime()
+                    }
+                    if (!window.BOOMR || !window.BOOMR.version && !window.BOOMR.snippetExecuted) {
+                        window.BOOMR = window.BOOMR || {}, window.BOOMR.snippetStart = (new Date).getTime(), window
+                            .BOOMR.snippetExecuted = !0, window.BOOMR.snippetVersion = 12, window.BOOMR.url = n +
+                            "93U6S-JS5E3-HQLJ8-98G8C-NNRXF";
+                        var i = document.currentScript || document.getElementsByTagName("script")[0],
+                            o = !1,
+                            r = document.createElement("link");
+                        if (r.relList && "function" == typeof r.relList.supports && r.relList.supports("preload") &&
+                            "as" in r) window.BOOMR.snippetMethod = "p", r.href = window.BOOMR.url, r.rel = "preload", r
+                            .as = "script", r.addEventListener("load", e), r.addEventListener("error", function () {
+                                t(!0)
+                            }), setTimeout(function () {
+                                if (!o) t(!0)
+                            }, 3e3), BOOMR_lstart = (new Date).getTime(), i.parentNode.appendChild(r);
+                        else t(!1);
+                        if (window.addEventListener) window.addEventListener("load", a, !1);
+                        else if (window.attachEvent) window.attachEvent("onload", a)
+                    }
+                }(), "".length > 0)
+                if (e && "performance" in e && e.performance && "function" == typeof e.performance
+                    .setResourceTimingBufferSize) e.performance.setResourceTimingBufferSize();
+            ! function () {
+                if (BOOMR = e.BOOMR || {}, BOOMR.plugins = BOOMR.plugins || {}, !BOOMR.plugins.AK) {
+                    var n = "true" == "true" ? 1 : 0,
+                        t = "",
+                        a = "mafkeuaxg3fkszowyjeq-f-1e1a60d67-clientnsv4-s.akamaihd.net",
+                        i = "false" == "true" ? 2 : 1,
+                        o = {
+                            "ak.v": "36",
+                            "ak.cp": "300618",
+                            "ak.ai": parseInt("221216", 10),
+                            "ak.ol": "0",
+                            "ak.cr": 20,
+                            "ak.ipv": 4,
+                            "ak.proto": "h2",
+                            "ak.rid": "821a0fb",
+                            "ak.r": 38629,
+                            "ak.a2": n,
+                            "ak.m": "b",
+                            "ak.n": "essl",
+                            "ak.bpcip": "96.10.162.0",
+                            "ak.cport": 9434,
+                            "ak.gh": "96.7.218.71",
+                            "ak.quicv": "",
+                            "ak.tlsv": "tls1.3",
+                            "ak.0rtt": "",
+                            "ak.csrc": "-",
+                            "ak.acc": "",
+                            "ak.t": "1708573257",
+                            "ak.ak": "hOBiQwZUYzCg5VSAfCLimQ==+m/lQtwGAU2HWdivyJ2R99cviLQ44C+rch91xUsZP7yxYPsYbPpEVNG54ZkDw51TPBOAKVmgTUOpuZsu/ad7huBK5YJ6PbLsIKSyYInLQgStsQPxCtGAhjNRUWVsufd5577oxK/MSGTX5ojYSy9tUrrqO2boMXhhTxG9tBmcS/d5BDTQ58ZqgJ8zSkilqjs12/nlVokwyz2CxWcM/acXtlNMtLBN1LlHhblYq0KTvJb4lLOWgXms3+ka7FuNZCkHhplKMVqgq1DQn309y5feC8NwdDUuMRILcdZdFn1IHyNGUwQ7uqZ+zEbGzo1O0xnPVIdOPzrBRIkZDjSNLf4pj6eKmzHXYwEg73Ei7oyNHNJhjNQiwblA2l5rsnmvT5CTXgDcZ62TFAxiqJ0CKbfduDhV8jO9mb2oOVcxMi/Jzi0=",
+                            "ak.pv": "699",
+                            "ak.dpoabenc": "",
+                            "ak.tf": i
+                        };
+                    if ("" !== t) o["ak.ruds"] = t;
+                    var r = {
+                        i: !1,
+                        av: function (n) {
+                            var t = "http.initiator";
+                            if (n && (!n[t] || "spa_hard" === n[t])) o["ak.feo"] = void 0 !== e.aFeoApplied ?
+                                1 : 0, BOOMR.addVar(o)
+                        },
+                        rv: function () {
+                            var e = ["ak.bpcip", "ak.cport", "ak.cr", "ak.csrc", "ak.gh", "ak.ipv", "ak.m",
+                                "ak.n", "ak.ol", "ak.proto", "ak.quicv", "ak.tlsv", "ak.0rtt", "ak.r",
+                                "ak.acc", "ak.t", "ak.tf"
+                            ];
+                            BOOMR.removeVar(e)
+                        }
+                    };
+                    BOOMR.plugins.AK = {
+                        akVars: o,
+                        akDNSPreFetchDomain: a,
+                        init: function () {
+                            if (!r.i) {
+                                var e = BOOMR.subscribe;
+                                e("before_beacon", r.av, null, null), e("onbeacon", r.rv, null, null), r.i = !0
+                            }
+                            return this
+                        },
+                        is_complete: function () {
+                            return !0
+                        }
+                    }
+                }
+            }()
+        }(window);
+    </script>
+Deleted Tag: <script>
+        bazadebezolkohpepadr = "516447407"
+    </script>
+Deleted Tag: <script defer="" src="https://www.britishairways.com/akam/13/1ec85c83" type="text/javascript"></script>
+Deleted Tag: <script async="" id="boomr-scr-as" src="https://s.go-mpulse.net/boomerang/93U6S-JS5E3-HQLJ8-98G8C-NNRXF"></script>
+Deleted Tag: <script>
+                trackingInfo["GGLMember"] = document.getElementById("gglMember").value === "true";
+                trackingInfo["partner_card"] = document.getElementById("partnerCard").value;
+            </script>
+Deleted Tag: <script type="text/javascript">
+                var unsaltedEmail = "";
+                if (unsaltedEmail != "") {
+                    var trimmedEmail = unsaltedEmail.toLowerCase().trim();
+                    Hashing.result(trimmedEmail).then(function (hashedEmail) {
+                        if (window.dataLayer) {
+                            dataLayer.accountemailaddress = hashedEmail;
+                        }
+                    })
+                }
+            </script>
+Deleted Tag: <script>
+                var loggedInCustInfo = {
+                    execTier: "",
+                    memberType: ""
+                };
+            </script>
+Deleted Tag: <script>
+                var custInfoTracking = {
+                    execTier: "",
+                    memberType: ""
+                };
+                if (window.dataLayer) {
+                    dataLayer.logintype = custInfoTracking.memberType ? custInfoTracking.memberType : 'Public';
+                    dataLayer.tier = custInfoTracking.execTier ? custInfoTracking.execTier : '';
+                }
+            </script>
+Deleted Tag: <script>
+                            $(document).ready(function () {
+                                // Passing the element name into trackingSetup() to get the component position, this will correctly generates value when there's more than one (i.e. 1x1, 1x2, etc.)
+                                $('#1510817644410').trackingSetup('.bodyContainer').track();
+                            });
+                        </script>
+Deleted Tag: <script>
+                        $(document).ready(function () {
+                            // Passing the element name into trackingSetup() to get the component position, this will correctly generates value when there's more than one (i.e. 1x1, 1x2, etc.)
+                            $('#1510817644411').trackingSetup('section').track();
+                        });
+                    </script>
+Deleted Tag: <script>
+                            $(document).ready(function () {
+                                // Passing the element name into trackingSetup() to get the component position, this will correctly generates value when there's more than one (i.e. 1x1, 1x2, etc.)
+                                $('#1510817644412').trackingSetup('.bodyContainer').track();
+                            });
+                        </script>
+Deleted Tag: <script src="/assets/scripts/global/resp/main_pbottom.js?v=47"></script>
+Deleted Tag: <script src="/assets/scripts/global/resp/jquery.ba.simplecountdown_pbottom.js"></script>
+Deleted Tag: <script src="/assets/scripts/global/resp/jquery.countdown_pbottom.js"></script>
+Deleted Tag: <script src="/assets/scripts/global/resp/jquery.spin-1.2.7.min_pbottom.js"></script>
+Deleted Tag: <script src="/assets/scripts/global/resp/autocomplete_pbottom.js"></script>
+Deleted Tag: <script src="/assets/scripts/global/resp/datePicker_pbottom.js?v=4"></script>
+Deleted Tag: <script src="/assets/scripts/global/resp/planTrip_pbottom.js?v=14"></script>
+Deleted Tag: <script src="/assets/scripts/global/resp/modals_pbottom.js?v=12"></script>
+Deleted Tag: <script src="/OU4CfgMTvWlyqzhae3NOn3Q9/9wG7hthfpN/KmVoZEZJ/J0/cTJh47c2E" type="text/javascript"></script>
+Deleted Tag: <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+Deleted Tag: <meta content="IE=edge" http-equiv="x-ua-compatible"/>
+Deleted Tag: <meta content="general conditions of carriage" name="keywords"/>
+Deleted Tag: <meta content="British Airways General Conditions of Carriage for passengers and baggage. When you buy a ticket to travel on a flight we operate, you enter into a contract of carriage with us, which covers the conditions in your ticket, any tariffs which apply and any other regulations." name="description"/>
+Deleted Tag: <meta content="General Conditions of Carriage | Legal | British Airways" property="og:title"/>
+Deleted Tag: <meta content="http://www.britishairways.com/assets/images/global/site/facebookImages/default.png" property="og:image"/>
+Deleted Tag: <meta content="width=device-width, initial-scale=1" name="viewport"/>
+Deleted Tag: <meta content="no-referrer-when-downgrade" name="referrer"/>
+Deleted Tag: <meta content="1" itemprop="position"/>
+Deleted Tag: <meta content="4" itemprop="position"/>
+Deleted Tag: <meta content="5" itemprop="position"/>
+Deleted Tag: <meta content="6" itemprop="position"/>
+Deleted Tag: <img alt="British Airways home" class="masterbrandPositiveLogo" src="/assets/images/global/site/brandsLogo/ba_masterbrand_positive.svg"/>
+Deleted Tag: <img alt="British Airways logo." aria-hidden="true" class="speedmarguePositiveLogo" src="/cms/global/assets/images/site/icon/ba_speedmarque-mobile_positive.svg"/>
+Deleted Tag: <img alt="Find out more about oneworld." src="/cms/global/assets/images/site/icon/oneworldlrg.png"/>
+Deleted Tag: <img alt="Search Button" src="/cms/global/assets/images/site/icon/header_search.svg"/>
+Deleted Tag: <img alt="Close" src="/cms/global/assets/images/site/icon/header_cross.svg"/>
+Deleted Tag: <img alt="Search for" src="/cms/global/assets/images/site/icon/header_search.svg"/>
+Deleted Tag: <img alt="" src="/cms/global/assets/images/site/icon/header_login.svg"/>
+Deleted Tag: <img alt="Menu" class="show-icon" id="menu-open" src="/cms/global/assets/images/site/icon/header_menu.svg"/>
+Deleted Tag: <img alt="Close" id="menu-close" src="/cms/global/assets/images/site/icon/header_cross.svg"/>
+Deleted Tag: <img alt="" src="/cms/global/assets/images/site/icon/header_login.svg"/>
+Deleted Tag: <img alt="" src="/cms/global/assets/images/site/icon/clear-field.svg"/>
+Deleted Tag: <img alt="" src="/cms/global/assets/images/site/icon/clear-field.svg"/>
+Deleted Tag: <img alt="" src="/cms/global/assets/images/Wherewefly/routemaps2010/flags/24/us.png"/>
+Deleted Tag: <img alt="BA on Instagram" src="/assets/images/global/site/icons/instagram-logo-ba-white_50x50.png"/>
+Deleted Tag: <img alt="BA on Facebook" src="/assets/images/global/site/icons/facebook-logo-ba-white_50x50.png"/>
+Deleted Tag: <img alt="BA on X" src="/assets/images/global/site/icons/x-logo-ba-white_50x50.png"/>
+Deleted Tag: <img alt="BA on LinkedIn" src="/assets/images/global/site/icons/linkedin-logo-ba-white_50x50.png"/>
+Deleted Tag: <img alt="BA on Tik Tok" src="/assets/images/global/site/icons/tiktok-logo-ba-white_50x50.png"/>
+Deleted Tag: <img alt="BA on YouTube" src="/assets/images/global/site/icons/youtube-logo-ba-white_50x50.png"/>
+Deleted Tag: <img alt="British Airways Home" class="crestImage footerImage" src="/assets/images/global/site/brandsLogo/footer_speedmarque.png"/>
+Deleted Tag: <img alt="One World Logo" data-onerror="/assets/images/global/site/brandsLogo/one_world.jpg" src="/cms/global/assets/images/site/icon/oneworldlrg.png"/>
+Deleted Tag: <img src="https://www.britishairways.com/akam/13/pixel_1ec85c83?a=dD1kNzFmZWJhZjM4Y2U1ZDljM2RjMjczNzE0ZmJhNmNlOTc5ODk5ODc3JmpzPW9mZg==" style="visibility: hidden; position: absolute; left: -999px; top: -999px;"/>
+Deleted Tag: <noscript></noscript>
+Deleted Link: #cont
+Deleted Link: #
+Deleted Link: 
+Deleted Link: 
+Deleted Link: 
+Deleted Link: 
+Deleted Link: 
+Deleted Link: 
+Deleted Link: 
+Deleted Link: 
+Deleted Link: #
+Deleted Link: #skip
+Deleted Link: #D3S2A1
+Deleted Link: #S2D3A1
+Deleted Link: #
+Deleted Link: #
+Deleted Link: #
+Deleted Link: #
+Deleted Link: #
+Deleted Link: #
+Deleted Link: #
+Deleted Link: #
+Deleted Link: #
+Deleted Link: #
+Deleted Link: #
+Deleted Link: #
+Deleted Link: #
+Deleted Link: #
+Deleted Link: #
+Deleted Link: #
+Deleted Link: #
+Deleted Link: #
+Deleted Link: #
+Deleted Link: #
+Deleted Link: #
+Deleted Link: 
+Deleted Link: 
+Deleted Link: 
+Deleted Link: 
+Deleted Link: 

@@ -1,0 +1,245 @@
+Text: Terms of use for Lufthansa websites | Lufthansa
+Text: Go to navigation
+Text: Go to main content
+Text: Go to search
+Text: Go to search
+Text: Go to footer
+Text: Lufthansa
+Link: /us/en/homepage
+Link: https://lufthansa.com/us/en/homepage
+Text: Login
+Link: /us/en/support/help
+Text: Help
+Text: Menu
+Text: Book &
+                                                        Prepare
+Text: My
+                                                        booking
+Text: Discover
+                                                        Lufthansa
+Text: /* NVDA complains about blank lines if we have any whitespace between tags (especially li, ul */
+Link: /us/en/homepage
+Text: Home
+Text: Terms of use
+Link: /us/en/homepage
+Text: Home
+Text: Main content
+Text: Terms of use
+Text: These are the terms and conditions of use for all the websites operated by Deutsche
+                                Lufthansa AG, in particular lufthansa.com (hereafter referred to as the “Lufthansa
+                                website”).
+Text: You can find the terms of use for Travel ID here:
+Link: /us/en/travel-id-terms-conditions
+Text: Travel ID Terms of Use
+Text: /* Import Column Component Model */
+Text: /* Check for background color */
+Text: /* Line break behaviour */
+Text: 1. General
+Text: The Lufthansa website is operated by Deutsche Lufthansa AG, Venloer
+                                                Strasse 151-153, 50672 Cologne (referred to below as “Lufthansa”).
+Text: Please review these terms and conditions carefully before using our
+                                                website. By using the Lufthansa website you indicate your agreement to
+                                                be bound by these terms and conditions.
+Text: These terms and conditions also apply when you use the Lufthansa website
+                                                or areas of it from other websites that provide access to the Lufthansa
+                                                website in full or in part.
+Text: 2. Proprietary rights
+Text: All trademark rights, copyrights, database rights and other intellectual
+                                                property rights to the contents of the Lufthansa website (as well as the
+                                                organization and layout of the website), together with the underlying
+                                                software code, are the property either of Deutsche Lufthansa AG or its
+                                                licensors. You must not, either in whole or in part, copy, modify,
+                                                distribute, use or reproduce in other form contents of the Lufthansa
+                                                website or the underlying software code without the prior written
+                                                consent of Deutsche Lufthansa AG.
+Text: 3. Permissible use
+Text: All Lufthansa website online services (including the booking engine) are
+                                                provided solely for the purpose of enabling you to check the
+                                                availability of goods or services relating to your journey (the
+                                                timetable, for example), make legitimate reservations, use our online
+                                                check-in or transact other business with suppliers. You may only use the
+                                                website in accordance with these terms and conditions and for the
+                                                legally permitted purposes described above. In particular, you indicate
+                                                your agreement to the following:
+Text: 3.1 You must not use the Lufthansa website in a manner which causes
+                                                    an infringement of the proprietary rights of other people.
+Text: 3.2 You must not use any devices, mechanisms, software or other
+                                                    scripts which could interfere with the working of the Lufthansa
+                                                    website. This also includes uploading files infected with viruses.
+Text: 3.3 You must not take any action which could result in an
+                                                    unreasonable or excessive burden on the Lufthansa infrastructure.
+Text: 3.4 You must not block, overwrite or modify any Lufthansa-generated
+                                                    content or in any other way disrupt the Lufthansa website.
+Text: 3.5 You must not reproduce information from the Lufthansa website
+                                                    for commercial purposes. This also includes providing prices for
+                                                    Lufthansa flights on another website or another online server. In
+                                                    particular you must not copy, distribute or in any other way use or
+                                                    reproduce discarded content from the Lufthansa website with the help
+                                                    of “robots”, other search engine technologies or through other
+                                                    automatic mechanisms.
+Text: 3.6 You must not acquire, or attempt to acquire, any unauthorized
+                                                    access to any of our networks, by whatever means.
+Text: 3.7 You must not make any unauthorized, false or fraudulent
+                                                    bookings, in particular any bookings which are paid for with credit
+                                                    cards or bank account details belonging to a third party who has not
+                                                    consented to this.
+Text: 4. Consequences of improper use
+Text: Without prejudice to our other rights (irrespective of whether they are
+                                                based on law or other regulations), we reserve the right to cancel your
+                                                booking without reference to you and/or to deny you access to the
+                                                Lufthansa website if you have contravened these terms and conditions of
+                                                use.
+Text: 5. Changes to the website
+Text: We reserve the right to make improvements or modifications in respect of
+                                                the information, services, products and other contents of the Lufthansa
+                                                website at any time and without notice.
+Text: 6. Links to other websites
+Text: This website may contain links or references to other websites which are
+                                                not operated by Lufthansa. Unless otherwise specified, we do not endorse
+                                                any of these other websites and expressly disassociate ourselves
+                                                herewith from all contents of these sites. This declaration applies to
+                                                all links to external sites covered by Lufthansa and to all the contents
+                                                of these sites to which these links lead.
+Text: We reserve the right to make the link to other websites contingent upon
+                                                our express written consent and to withdraw our consent to a link at any
+                                                time.
+Text: 7. Legal disclaimer
+Text: Lufthansa accepts no liability whatsoever for the topicality, accuracy,
+                                                completeness or quality of the information provided by third parties
+                                                (e.g. co-operation partners, tour operators, airport operators, website
+                                                users). Claims for liability against Lufthansa relating to damages of a
+                                                material or non-material kind, which were caused by usage or non-usage
+                                                of the information presented, are excluded, unless there is evidence of
+                                                wilful or grossly negligent fault on Lufthansa’s part.
+Text: 8. Storage of IP addresses
+Text: When you visit the Lufthansa website, our web server automatically saves
+                                                the IP address of your internet service provider, the website you are
+                                                visiting us from, the web pages that you visit on our site and the date
+                                                and duration of your visit. In the event of infringements of these terms
+                                                and conditions, we will keep the stored IP address to use in pursuance
+                                                of civil law claims and for the resolution of criminal offences.
+Text: Footer
+Text: Search the page
+Text: Menu
+Text: Frequently visited pages
+Text: Frequently visited pages
+Link: https://www.lufthansa.com/deeplink/cockpit?country=us&language=en
+Text: View & amend flights
+Link: /us/en/flights
+Text: Offers & destinations
+Link: /us/en/prepare-for-your-trip/baggage
+Text: Baggage
+Link: /us/en/check-in-ueberblick
+Text: Check-in
+Link: /us/en/airport-information
+Text: At the airport
+Link: /us/en/travel-briefing
+Text: Travel briefing
+Text: Customer services
+Text: Customer services
+Link: /us/en/travel-id
+Text: Travel ID Account
+Link: /us/en/miles-and-more
+Text: Miles & More
+Link: /us/en/help-and-contact
+Text: Help & Contact
+Link: /us/en/feedback
+Text: Feedback
+Link: https://your.lufthansa-group.com/pub/rf?_ri_=X0Gzc2X%3DWQpglLjHJlTQGlbj090d18v2jMszezbptpg8zg1EoNooIygVwjpnpgHlpgneHmgJoXX0Gzc2X%3DWQpglLjHJlTQGuTpc1k4KJEB1L6ezdBvK0Lzf1EoNooIyg&LANGUAGE=E&COUNTRY_=XX
+Text: Newsletter
+Link: /us/en/travellers-with-special-needs
+Text: ?xml version="1.0" encoding="UTF-8"?
+Text: Accessible travel
+Text: Lufthansa Group
+Text: Lufthansa Group
+Link: https://lufthansagroup.careers/en
+Text: Jobs & careers
+Link: /us/en/discover-lufthansa/lufthansa-aviation-group
+Text: Aviation Group
+Link: /us/en/lufthansa-group-star-alliance-and-partner-airlines
+Text: Lufthansa Group Airlines
+Link: https://www.lufthansagroup.com/en/home.html
+Text: Press
+Link: /us/en/partner
+Text: Lufthansa partners
+Link: http://www.makechangefly.com/
+Text: Sustainability
+Text: Corporate customers
+Text: Corporate customers
+Link: /us/en/travel-agencies
+Text: For travel agents
+Link: https://business.lufthansagroup.com/de/en/homepage
+Text: For corporate customers
+Link: https://business.lufthansagroup.com/de/en/programs-and-advantages/partner-plus-benefit
+Text: Corporate bonus programme
+Link: /us/en/imprint
+Text: Imprint
+Link: /us/en/conditions-of-carriage
+Text: General Conditions of Carriage
+Link: /us/en/data-protection
+Text: Data protection
+Link: /us/en/passenger-rights
+Text: Passenger rights
+Link: /us/en/passenger-rights#arbitrationboard
+Text: Arbitration board
+Link: /us/en/terms-of-use
+Text: Terms of use
+Link: https://www.lufthansa.com
+Text: Lufthansa
+Link: https://www.staralliance.com
+Text: Star Alliance
+Text: You will not be able to see this text.
+Text: this is #__tealiumGDPRcpPrefs
+Text: Privacy settings
+Text: We use cookies and similar technologies that are necessary to run the app
+                                and the website. Additional cookies are only used with your consent. We use them to
+                                access, analyse and store information such as the characteristics of your device as well
+                                as certain personal data (IP addresses, navigation usage, geolocation data or unique
+                                identifiers). The processing of your data serves various purposes: Analytics cookies
+                                allow us to analyse our performance to offer you a better online experience and evaluate
+                                the efficiency of our campaigns. Personalisation cookies give you access to a customised
+                                experience of our website with usage-based offers and support. Finally, Advertising
+                                cookies are placed by third-party companies processing your data to create audiences
+                                lists to deliver targeted ads on social media and the internet. You may freely
+                                give, refuse or withdraw your consent at any time using the link provided at the bottom
+                                of each page. You can consent to our use of cookies by clicking on Agree. For more
+                                information on which data is collected and how it is shared with our partners please
+                                read our privacy and cookie policy :
+Link: https://www.lufthansa.com/xx/en/common/privacy-statement/info
+Text: Privacy Policy
+Link: https://www.lufthansa.com/xx/en/common/privacy-statement/cookie-policy
+Text: Cookie Policy
+Link: https://www.lufthansa.com/xx/en/common/imprint
+Text: Imprint
+Text: My settings
+Text: <button id="cm-descToggle" aria-expanded="false" class="consent-toggle collapsed" tabindex="0" aria-controls="cm-consentDesc">My settings</button><i class=" toggleIcon collapsed" id="cm-descToggleIcon"></i>
+Text: Necessary
+Text: These cookies are necessary to run the core functionalities of this website, e.g.
+                                        security related functions. With these cookies we can also detect if you want to
+                                        stay logged into your profile to provide you with fast access to our services
+                                        after revisiting our website.
+Text: Analytics
+Text: Monitor website traffic and optimize your user experience
+Text: Evaluate which marketing channels are performing better
+Text: Analyse aggregated data about usage of the website to understand our
+                                            customers. Randomized identifiers shared with partners.
+Text: Personalization
+Text: Store your preferences from previous visits
+Text: Collect user feedback to improve our website
+Text: Evaluate your interests to provide you unique customised content and offers
+Text: Advertising
+Text: By selecting this category, the categories Analytics and Personalization
+                                                will also be activated.
+Text: Make online and social advertising more relevant for you
+Text: Invite specific customer groups to reconnect with our products later
+Text: Share data with our advertising and social media partners via their
+                                            third-party cookies to match your interests
+Text: id="preferences_prompt_submit"
+Text: Save
+                                            selection
+Text: Agree to
+                                            all
+Text: id="preferences_prompt_submit"
+Text: I do not agree
+Text: Agree
+Text: <div class="layout-row paddingTop">                    <div class="row-item">                        <a href="https://www.lufthansa.com/xx/en/common/imprint" class="icon-link" target="_blank">Imprint</a>                    </div>                </div>

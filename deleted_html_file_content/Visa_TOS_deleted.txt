@@ -1,0 +1,533 @@
+Deleted Tag: <link as="style" href="//usa.visa.com/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/global/global.css" rel="preload"/>
+Deleted Tag: <link href="//usa.visa.com/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/global/global.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link as="style" href="//usa.visa.com/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/global/themes/classic/classic.css" rel="preload"/>
+Deleted Tag: <link href="//usa.visa.com/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/global/themes/classic/classic.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link as="style" href="//usa.visa.com/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/global/navigation.css" rel="preload"/>
+Deleted Tag: <link href="//usa.visa.com/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/global/navigation.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="https://usa.visa.com/legal/global-privacy-notice.html" rel="canonical"/>
+Deleted Tag: <link href="https://kw.visamiddleeast.com/ar_KW/legal/global-privacy-notice.html" hreflang="ar-KW" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.com.bo/legal/global-privacy-notice.html" hreflang="es-BO" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.co.in/legal/global-privacy-notice.html" hreflang="en-IN" rel="alternate"/>
+Deleted Tag: <link href="https://ae.visamiddleeast.com/en_AE/legal/global-privacy-notice.html" hreflang="en-AE" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.co.za/legal/global-privacy-notice.html" hreflang="en-ZA" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.no/legal/global-privacy-notice.html" hreflang="no-NO" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.gr/oroi-khreses/koinopoiese-tou-pagkosmiou-grapheiou-idiotikou-aporretou-tes-visa.html" hreflang="el-GR" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.nl/gebruiksvoorwaarden/visa-algemene-privacyverklaring.html" hreflang="nl-NL" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.com.au/legal/global-privacy-notice.html" hreflang="en-AU" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.co.il/legal/global-privacy-notice.html" hreflang="he-IL" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.hu/hasznalati-feltetelek/visa-globalis-adatvedelmi-ertesites.html" hreflang="hu-HU" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.com.sv/legal/global-privacy-notice.html" hreflang="es-SV" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.com.jm/legal/global-privacy-notice.html" hreflang="en-JM" rel="alternate"/>
+Deleted Tag: <link href="https://bd.visa.com/legal/global-privacy-notice.html" hreflang="en-BD" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.co.cr/legal/global-privacy-notice.html" hreflang="es-CR" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.cl/legal/global-privacy-notice.html" hreflang="es-CL" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.ca/fr_CA/legal/global-privacy-notice.html" hreflang="fr-CA" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.com.co/legal/global-privacy-notice.html" hreflang="es-CO" rel="alternate"/>
+Deleted Tag: <link href="https://caribbean.visa.com/legal/global-privacy-notice.html" hreflang="en-BL" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.pl/warunki-korzystania/globalne-powiadomienie-o-zasadach-ochrony-prywatnosci-visa.html" hreflang="pl-PL" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.pt/termos-de-utilizacao/aviso-de-privacidade-global-da-visa.html" hreflang="pt-PT" rel="alternate"/>
+Deleted Tag: <link href="https://sa.visamiddleeast.com/en_SA/legal/global-privacy-notice.html" hreflang="en-SA" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.be/fr_BE/legal/global-privacy-notice.html" hreflang="fr-BE" rel="alternate"/>
+Deleted Tag: <link href="https://eg.visamiddleeast.com/ar_EG/legal/global-privacy-notice.html" hreflang="ar-EG" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.com.sg/legal/global-privacy-notice.html" hreflang="en-SG" rel="alternate"/>
+Deleted Tag: <link href="https://ma.visamiddleeast.com/ar_MA/legal/global-privacy-notice.html" hreflang="ar-MA" rel="alternate"/>
+Deleted Tag: <link href="https://cis.visa.com/ru_TJ/legal/global-privacy-notice.html" hreflang="ru-TJ" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.com.bz/legal/global-privacy-notice.html" hreflang="en-BZ" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.co.ke/legal/global-privacy-notice.html" hreflang="en-KE" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.com.hn/legal/global-privacy-notice.html" hreflang="es-HN" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.com.hr/uvjeti-koristenja/globalna-napomena-o-privatnosti-tvrtke-visa.html" hreflang="hr-HR" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.com.ge/en_GE/legal/global-privacy-notice.html" hreflang="en-GE" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.com.kz/ru_KZ/legal/global-privacy-notice.html" hreflang="ru-KZ" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.com.pr/legal/global-privacy-notice.html" hreflang="es-PR" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.gp/legal/global-privacy-notice.html" hreflang="en-GP" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.com.py/legal/global-privacy-notice.html" hreflang="es-PY" rel="alternate"/>
+Deleted Tag: <link href="https://www.visaeurope.at/legal/visa-globale-datenschutzmitteilung.html" hreflang="de-AT" rel="alternate"/>
+Deleted Tag: <link href="https://usa.visa.com/legal/global-privacy-notice.html" hreflang="x-default" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.is/legal/global-privacy-notice.html" hreflang="is-IS" rel="alternate"/>
+Deleted Tag: <link href="https://www.visabg.com/usloviya-za-polzvane/uvedomlenie-za-globalna-poveritelnost-na-visa.html" hreflang="bg-BG" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.cz/podminky-pouzivani/oznameni-spolecnosti-visa-o-globalni-ochrane-osobnich-udaju.html" hreflang="cs-CZ" rel="alternate"/>
+Deleted Tag: <link href="https://by.visa.com/legal/global-privacy-notice.html" hreflang="ru-BY" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.com.ph/legal/global-privacy-notice.html" hreflang="en-PH" rel="alternate"/>
+Deleted Tag: <link href="https://pk.visamiddleeast.com/legal/global-privacy-notice.html" hreflang="en-PK" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.com.tw/legal/global-privacy-notice.html" hreflang="zh-TW" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.com.hk/en_HK/legal/global-privacy-notice.html" hreflang="en-HK" rel="alternate"/>
+Deleted Tag: <link href="https://www.visakorea.com/legal/global-privacy-notice.html" hreflang="ko-KR" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.sk/podmienky-pouzivania/globalne-upozornenie-o-ochrane-sukromia-visa.html" hreflang="sk-SK" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.com.ru/legal/global-privacy-notice.html" hreflang="ru-RU" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.com.ar/legal/aviso-privacidad-global.html" hreflang="es-AR" rel="alternate"/>
+Deleted Tag: <link href="https://qa.visamiddleeast.com/en_QA/legal/global-privacy-notice.html" hreflang="en-QA" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.se/legal/global-privacy-notice.html" hreflang="sv-SE" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.dk/legal/global-privacy-notice.html" hreflang="da-DK" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.com.az/ru_AZ/legal/global-privacy-notice.html" hreflang="ru-AZ" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.mn/mn_MN/legal/global-privacy-notice.html" hreflang="mn-MN" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.com.ua/uk_UA/legal/global-privacy-notice.html" hreflang="uk-UA" rel="alternate"/>
+Deleted Tag: <link href="https://usa.visa.com/legal/global-privacy-notice.html" hreflang="en-US" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.mn/en_MN/legal/global-privacy-notice.html" hreflang="en-MN" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.lv/legal/global-privacy-notice.html" hreflang="lv-LV" rel="alternate"/>
+Deleted Tag: <link href="https://myanmar.visa.com/legal/global-privacy-notice.html" hreflang="en-MM" rel="alternate"/>
+Deleted Tag: <link href="https://eg.visamiddleeast.com/en_EG/legal/global-privacy-notice.html" hreflang="en-EG" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.mq/legal/global-privacy-notice.html" hreflang="en-MQ" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.com.mt/legal/global-privacy-notice.html" hreflang="en-MT" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.be/nl_BE/gebruiksvoorwaarden/visa-algemene-privacyverklaring.html" hreflang="nl-BE" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.cn/legal/global-privacy-notice.html" hreflang="zh-CN" rel="alternate"/>
+Deleted Tag: <link href="https://africa.visa.com/legal/global-privacy-notice.html" hreflang="en-MW" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.com.my/legal/global-privacy-notice.html" hreflang="en-MY" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.com.ng/legal/global-privacy-notice.html" hreflang="en-NG" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.com.cy/oroi-khreses/koinopoiese-tou-pagkosmiou-grapheiou-idiotikou-aporretou-tes-visa.html" hreflang="el-CY" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.com.vn/en_VN/legal/global-privacy-notice.html" hreflang="en-VN" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.co.jp/legal/global-privacy-notice.html" hreflang="ja-JP" rel="alternate"/>
+Deleted Tag: <link href="https://www.visaeurope.ch/de_CH/nutzungsbedingungen/visa-globale-datenschutzmitteilung.html" hreflang="de-CH" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.com.ge/ka_GE/legal/global-privacy-notice.html" hreflang="ka-GE" rel="alternate"/>
+Deleted Tag: <link href="https://qa.visamiddleeast.com/ar_QA/legal/global-privacy-notice.html" hreflang="ar-QA" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.com.gt/legal/global-privacy-notice.html" hreflang="es-GT" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.com.pe/legal/global-privacy-notice.html" hreflang="es-PE" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.co.nz/legal/global-privacy-notice.html" hreflang="en-NZ" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.com.pa/legal/global-privacy-notice.html" hreflang="es-PA" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.ro/termeni-de-utilizare/declaratia-de-confidentialitate-globala-visa.html" hreflang="ro-RO" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.ee/legal/global-privacy-notice.html" hreflang="et-EE" rel="alternate"/>
+Deleted Tag: <link href="https://www.visaeurope.ch/it_CH/termini-di-utilizzo/informativa-sulla-privacy-globale-di-visa.html" hreflang="it-CH" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.com.tr/kullanim-sartlari/visa-kuresel-gizlilik-bildirimi.html" hreflang="tr-TR" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.com.kh/km_KM/legal/global-privacy-notice.html" hreflang="km-KM" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.fr/legal/global-privacy-notice.html" hreflang="fr-FR" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.com.vn/vi_VN/legal/global-privacy-notice.html" hreflang="vi-VN" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.co.uk/legal/global-privacy-notice.html" hreflang="en-GB" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.com.kh/en_KH/legal/global-privacy-notice.html" hreflang="en-KH" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.fi/fi_FI/legal/global-privacy-notice.html" hreflang="fi-FI" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.com.az/az_AZ/legal/global-privacy-notice.html" hreflang="az-AZ" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.ca/en_CA/legal/global-privacy-notice.html" hreflang="en-CA" rel="alternate"/>
+Deleted Tag: <link href="https://km.visamiddleeast.com/en_KM/legal/global-privacy-notice.html" hreflang="en-KM" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.lt/legal/global-privacy-notice.html" hreflang="lt-LT" rel="alternate"/>
+Deleted Tag: <link href="https://ae.visamiddleeast.com/ar_AE/legal/global-privacy-notice.html" hreflang="ar-AE" rel="alternate"/>
+Deleted Tag: <link href="https://www.visaeurope.si/pogoji-uporabe/globalno-obvestilo-o-zasebnosti-visa.html" hreflang="sl-SI" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.com.do/legal/global-privacy-notice.html" hreflang="es-DO" rel="alternate"/>
+Deleted Tag: <link href="https://kw.visamiddleeast.com/en_KW/legal/global-privacy-notice.html" hreflang="en-KW" rel="alternate"/>
+Deleted Tag: <link href="https://www.visaeurope.ch/fr_CH/legal/global-privacy-notice.html" hreflang="fr-CH" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.com.ec/legal/global-privacy-notice.html" hreflang="es-EC" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.co.th/en_TH/legal/global-privacy-notice.html" hreflang="en-TH" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.ie/legal/global-privacy-notice.html" hreflang="ie-GB" rel="alternate"/>
+Deleted Tag: <link href="https://sa.visamiddleeast.com/ar_SA/legal/global-privacy-notice.html" hreflang="ar-SA" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.de/nutzungsbedingungen/visa-globale-datenschutzmitteilung.html" hreflang="de-DE" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.com.lk/legal/global-privacy-notice.html" hreflang="en-LK" rel="alternate"/>
+Deleted Tag: <link href="https://ma.visamiddleeast.com/fr_MA/legal/global-privacy-notice.html" hreflang="fr-MA" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.com.hk/zh_HK/legal/global-privacy-notice.html" hreflang="zh-HK" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.com.tt/legal/global-privacy-notice.html" hreflang="en-TT" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.com.br/termos-de-uso/aviso-de-privacidade-global.html" hreflang="pt-BR" rel="alternate"/>
+Deleted Tag: <link href="https://rs.visa.com/legal/global-privacy-notice.html" hreflang="sr-RS" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.fi/sv_FI/legal/global-privacy-notice.html" hreflang="sv-FI" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.com.uy/legal/global-privacy-notice.html" hreflang="es-UY" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.com.kz/kk_KZ/legal/global-privacy-notice.html" hreflang="kk-KZ" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.es/terminos-de-uso/aviso-de-privacidad-global-de-visa.html" hreflang="es-ES" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.co.ve/legal/global-privacy-notice.html" hreflang="es-VE" rel="alternate"/>
+Deleted Tag: <link href="https://www.visaeurope.lu/en_LU/legal/global-privacy-notice.html" hreflang="en-LU" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.com.mx/legal/global-privacy-notice.html" hreflang="es-MX" rel="alternate"/>
+Deleted Tag: <link href="https://www.visaitalia.com/termini-di-utilizzo/informativa-sulla-privacy-globale-di-visa.html" hreflang="it-IT" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.com.ua/en_UA/legal/global-privacy-notice.html" hreflang="en-UA" rel="alternate"/>
+Deleted Tag: <link href="https://km.visamiddleeast.com/ar_KM/legal/global-privacy-notice.html" hreflang="ar-KM" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.co.id/legal/global-privacy-notice.html" hreflang="id-ID" rel="alternate"/>
+Deleted Tag: <link href="https://ma.visamiddleeast.com/en_MA/legal/global-privacy-notice.html" hreflang="en-MA" rel="alternate"/>
+Deleted Tag: <link href="https://www.visaeurope.lu/fr_LU/legal/global-privacy-notice.html" hreflang="fr-LU" rel="alternate"/>
+Deleted Tag: <link href="https://www.visasoutheasteurope.com/legal/global-privacy-notice.html" hreflang="en-ME" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.co.ni/legal/global-privacy-notice.html" hreflang="es-NI" rel="alternate"/>
+Deleted Tag: <link href="https://www.visa.co.th/th_TH/legal/global-privacy-notice.html" hreflang="th-TH" rel="alternate"/>
+Deleted Tag: <link href="https://caribbean.visa.com/legal/global-privacy-notice.html" hreflang="en-BL" rel="alternate"/>
+Deleted Tag: <link href="/content/dam/VCOM/Brand/favicon.ico" rel="icon" type="image/ico"/>
+Deleted Tag: <link crossorigin="" href="https://www.youtube.com" rel="dns-prefetch"/>
+Deleted Tag: <link crossorigin="" href="https://cdn.visa.com" rel="preconnect"/>
+Deleted Tag: <link as="font" crossorigin="" href="https://usa.visa.com/etc/ui/headless-ui/styles/core/assets/fonts/types/dialect/latin/visa_font_regular.woff2" rel="preload" type="font/woff"/>
+Deleted Tag: <link href="/etc.clientlibs/rvcom/rvcom-clientlibs/newFonts.min.css" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc.clientlibs/rvcom/rvcom-clientlibs/global.min.css" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc.clientlibs/rvcom/rvcom-clientlibs/designs/globalAlert.min.css" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc.clientlibs/rvcom/rvcom-clientlibs/rvcom/main-nav-header.min.css" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link as="style" href="//cdn.visa.com/3.4.0/assets/css/navigation.css" rel="preload"/>
+Deleted Tag: <link href="//cdn.visa.com/3.4.0/assets/css/navigation.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/links/links.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/commons/commons.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc.clientlibs/rvcom/rvcom-clientlibs/designs/richtext.min.css" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/richtext/richtext.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/list/lists.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc.clientlibs/rvcom/rvcom-clientlibs/designs/rvcomContainerAccordion.min.css" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="//cdn.visa.com/3.4.0/assets/css/accordion.css" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/richtext/richtext.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/list/lists.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/richtext/richtext.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/list/lists.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc.clientlibs/rvcom/rvcom-clientlibs/rvcom/containerStack.min.css" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/richtext/richtext.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/list/lists.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/richtext/richtext.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/list/lists.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/richtext/richtext.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/list/lists.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/richtext/richtext.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/list/lists.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/richtext/richtext.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/list/lists.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/richtext/richtext.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/list/lists.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/richtext/richtext.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/list/lists.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/richtext/richtext.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/list/lists.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/richtext/richtext.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/list/lists.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/richtext/richtext.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/list/lists.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/richtext/richtext.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/list/lists.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/richtext/richtext.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/list/lists.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/richtext/richtext.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/list/lists.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/richtext/richtext.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/list/lists.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/richtext/richtext.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/list/lists.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/richtext/richtext.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/list/lists.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/richtext/richtext.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/list/lists.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/richtext/richtext.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/list/lists.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/richtext/richtext.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/list/lists.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/richtext/richtext.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/list/lists.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/richtext/richtext.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/list/lists.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/richtext/richtext.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/list/lists.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/richtext/richtext.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/list/lists.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/richtext/richtext.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/list/lists.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/richtext/richtext.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/list/lists.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/richtext/richtext.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/list/lists.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/richtext/richtext.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/list/lists.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/richtext/richtext.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/list/lists.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/richtext/richtext.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/list/lists.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/richtext/richtext.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/list/lists.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/richtext/richtext.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/list/lists.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/richtext/richtext.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/list/lists.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/richtext/richtext.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/list/lists.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/richtext/richtext.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/list/lists.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/richtext/richtext.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/list/lists.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/richtext/richtext.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/list/lists.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/richtext/richtext.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/list/lists.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/richtext/richtext.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/list/lists.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/richtext/richtext.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/list/lists.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/richtext/richtext.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/list/lists.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/richtext/richtext.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/vcom/list/lists.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="/etc.clientlibs/rvcom/rvcom-clientlibs/rvcom/relatedLinks.min.css" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link as="style" href="//usa.visa.com/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/global/global.css" rel="preload"/>
+Deleted Tag: <link href="//usa.visa.com/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/global/global.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link as="style" href="//usa.visa.com/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/global/themes/classic/classic.css" rel="preload"/>
+Deleted Tag: <link href="//usa.visa.com/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/global/themes/classic/classic.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link as="style" href="//usa.visa.com/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/global/navigation.css" rel="preload"/>
+Deleted Tag: <link href="//usa.visa.com/etc/ui/headless-ui/styles/core/1.0.0/assets/styles/global/navigation.css" media="all" onload="this.media='all'" rel="stylesheet" type="text/css"/>
+Deleted Tag: <style data-styles="">
+    vs-form-builder,
+    vs-carousel-container,
+    vs-grid,
+    vs-filmstrip,
+    vs-social-share-container,
+    generic-container,
+    visa-modal,
+    vs-faq,
+    vs-image-content,
+    vs-link-cards,
+    vs-nav,
+    vs-steps,
+    vs-sticky-nav,
+    vs-table,
+    vs-terms,
+    vs-filmstrip-item,
+    vs-filmstrip-navigation,
+    vs-social-share,
+    vs-wechat-share,
+    vs-tooltip,
+    vs-bundle-play-btn,
+    vs-card-input,
+    vs-file-upload,
+    vs-checkbox,
+    vs-dropdown,
+    vs-input,
+    vs-radio,
+    visa-marquee-container,
+    vs-slide,
+    vs-slide-indicator,
+    vs-paddle-buttons,
+    visa-marquee,
+    visa-submarquee,
+    vs-spinner,
+    vs-media,
+    vs-link,
+    vs-content-bundle,
+    vs-content-bundle-media,
+    vs-content-bundle-text {
+      visibility: hidden
+    }
+
+    .hydrated {
+      visibility: inherit
+    }
+  </style>
+Deleted Tag: <style>
+    .vs-header-height {
+      height: 60px;
+    }
+
+    @media only screen and (min-width: 1200px) {
+      .vs-header-height {
+        height: 110px;
+      }
+    }
+  </style>
+Deleted Tag: <style>
+    body {
+      font-family: 'visa-font-latin-regular', 'visa-font-greek-regular', 'visa-font-cyrillic-regular', sans-serif;
+    }
+  </style>
+Deleted Tag: <script async="" id="www-widgetapi-script" src="https://www.youtube.com/s/player/2070f79f/www-widgetapi.vflset/www-widgetapi.js" type="text/javascript"></script>
+Deleted Tag: <script id="youtube-script" src="https://www.youtube.com/iframe_api"></script>
+Deleted Tag: <script async="" src="https://tags.tiqcdn.com/utag/visa/visa-com/prod/utag.js" type="text/javascript"></script>
+Deleted Tag: <script src="//tags.tiqcdn.com/utag/visa/visa-com/prod/utag.sync.js"></script>
+Deleted Tag: <script src="https://cdn.optimizely.com/js/10654255723.js"></script>
+Deleted Tag: <script src="/etc.clientlibs/cms-rest/clientlibs/cms-jquery.min.js"></script>
+Deleted Tag: <script defer="" id="default" locale="en_us" siteid="usa_visa_com" src="//cdn.visa.com/cdn/scripts/components/3.7.1/navigation.js" tenant="VISA"></script>
+Deleted Tag: <script defer="" src="/etc/ui/headless-ui/scripts/core/analytics.js"></script>
+Deleted Tag: <script src="/etc/ui/headless-ui/scripts/core/stencil-components/promotion-offer/promotion-offer.esm.js" type="module"></script>
+Deleted Tag: <script nomodule="" src="/etc/ui/headless-ui/scripts/core/stencil-components/esm/promotion-offer.js"></script>
+Deleted Tag: <script src="/etc.clientlibs/rvcom/rvcom-clientlibs/designs/richtext.min.js"></script>
+Deleted Tag: <script src="/etc.clientlibs/rvcom/rvcom-clientlibs/rvcom/ribbonNavigation.min.js"></script>
+Deleted Tag: <script src="/etc.clientlibs/rvcom/rvcom-clientlibs/designs/rvcomContainerAccordion.min.js"></script>
+Deleted Tag: <script type="application/ld+json">
+              {
+                "@context": "https://schema.org",
+                "@type": "FAQPage",
+                "mainEntity": [{
+                  "@type": "Question",
+                  "name": "Personal Information",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "<p>“Personal Information” refers to information that (alone or when used in combination with other information) is capable of being associated with or could reasonably be associated with an individual. Personal Information, sometimes referred to as “personal data”, may also have specific meanings under different privacy laws. The Personal Information we collect varies depending on our relationship and interactions with you.</p>\n"
+                  }
+                }, {
+                  "@type": "Question",
+                  "name": "Categories of Personal Information",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "<p>Depending on our relationship and interactions with you, the categories of Personal Information we collect may include:</p>\r\n<p></p><ul class=\"vs-discs vs-text vs-rte-list vs-ul\">\r\n<li>Contact Information – This includes your name, username, mailing address, email address, telephone number, mobile number, and social medial profile names, along with other personal identifiers.</li>\r\n<li>Transaction and Financial Information – This includes:<ul class=\"vs-circle vs-ul\">\r\n<li>Information about your card, including your 16-digit payment card number, which is also known as a personal account number or “PAN”; an associated non-financial identifier known as payment account reference or “PAR” token; and expiration date, service code, PIN verification data, and CVV; and</li>\r\n<li>Information about your transactions, including the date, time, location, and amount of the transaction and information about the merchant. This also may include item-level data in some instances, and billing and shipping information.</li>\r\n</ul>\r\n</li>\r\n<li>Relationship Information – This includes information about your shopping and payment preferences and other information that can help us offer you personalized content, such as:<ul class=\"vs-circle vs-ul\">\r\n<li>Demographic information, such as age range and marital or family status;</li>\r\n<li>Likelihood that you may be interested in certain purchases or experiencing life events and other propensity scores; and</li>\r\n<li>Data from social media profiles and information about your interests.</li>\r\n</ul>\r\n</li>\r\n<li>Interaction Information – This includes information about your interactions with Visa, such as:<ul class=\"vs-circle vs-ul\">\r\n<li>Information collected when you participate in promotions or programs, such as rewards program account information;</li>\r\n<li>Card benefits program information, including qualification data and related records;</li>\r\n<li>Information collected when you contact us, such as if you contact our customer service;</li>\r\n<li>Visitor logs;</li>\r\n<li>Information collected when you attend Visa sponsored events, such as travel-related information for you and any companions gathered at the events; and</li>\r\n<li>Other information you provide us, such as data collected for consumer authentication (e.g., passwords or account security questions).</li>\r\n</ul>\r\n</li>\r\n<li>Biometric Identifiers – This may include facial recognition data, fingerprints, keystroke timing, scroll position, and behavioral data or other physical patterns, such as when you elect to use biometric authentication with Visa or its clients.</li>\r\n<li>Business Customer Data – This includes information about your role within your company, your authorization to use products or services, and your authority to place orders; customer/supplier qualification details; and other data you share with us in connection with the relationship.</li>\r\n<li>Inferred and Derived Information – We infer and derive data elements by analyzing our relationship and transactional information. For example, we may generate propensities, attributes, and/or scores for marketing, security, or fraud purposes.</li>\r\n<li>Online and Technical Information – This includes information regarding your interactions with our websites, applications, or advertisements, including IP address, device identifiers, settings, characteristics, advertising ID, browsing history, web server logs, server log records, activity log records, keystroke timing, and other information collected using cookies and similar technologies.</li>\r\n<li>Audio and Visual Information – This includes audio, electronic, visual, or similar information relating to your interactions with us, including photographs, video images, CCTV recordings, call center recordings, call monitoring records, and voicemails.</li>\r\n<li>Government Issued Identification Numbers – This includes social security number, driver’s license number, passport number, and other government issued identifiers as may be needed for compliance or given the nature of the relationship.</li>\r\n<li>Geolocation Information – This may include precise geolocation information, which we may collect automatically from your mobile device if you opt-in to allow us to collect it.</li>\r\n<li>Professional and Employment Information – This includes professional or employment-related information for employees and prospective employees, including applicant and resume data, such as education and work history; information about qualifications for the position, such as skills and credentials; professional interests and goals; information collected for employee qualifications, such as right to work documentation; and references.</li>\r\n<li>Compliance Data – This includes records maintained to demonstrate compliance with applicable laws; records related to consumer preferences, such as your opt-ins and opt-outs of marketing programs; and records related to data subject rights requests.</li>\r\n</ul>\r\n<p>Some of the Personal Information in these categories may be considered sensitive Personal Information in some jurisdictions.</p>\r\n<p></p>\r\n"
+                  }
+                }, {
+                  "@type": "Question",
+                  "name": "Sources of Personal Information:",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "<p>We may collect Personal Information about you from various sources, depending on our relationship and interaction with you. These sources may include:</p>\r\n<p></p><ul class=\"vs-discs vs-text vs-rte-list vs-ul\">\r\n<li>Your financial institutions, payment card issuer, merchants, acquirers, and other partners when you use a Visa-branded payment product or when we’re acting on their behalf, such as when you tap your Visa card;<strong></strong></li>\r\n<li>You, such as when you enroll in card link offer programs from Visa or a co-promotion partner, enroll in a Visa click-to-pay solution, or provide survey responses to us;<strong></strong></li>\r\n<li>Your computer or devices when you interact with our platforms, websites, and applications or through other automatic technologies, such as when we record calls to our call center and use CCTV cameras in our facilities; and<strong></strong></li>\r\n<li>Other third parties, including data aggregators, social media companies, and other publicly available sources. In addition, Professional and Employment Information may be collected from your references and third parties that help us conduct internal investigations and background screenings, and Business Customer Data may be collected from your employer, trade show and conference organizers, and professional services companies.<strong></strong></li>\r\n</ul>\r\n<p></p>\r\n"
+                  }
+                }, {
+                  "@type": "Question",
+                  "name": "Why We Collect Personal Information and How We Use It:",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "<p><span class=\"vs-text vs-legal\">\"Everyday Business Purposes” encompasses the following business purposes and related purposes for which Personal Information may be used:</span></p>\r\n<ul class=\"vs-discs vs-text vs-rte-list vs-ul vs-text vs-legal\">\r\n<li>To provide the information, product, or service requested by the individual or as reasonably expected given the context in which with the Personal Information was collected (such as customer credentialing, providing customer service, personalization and preference management, providing product updates, bug fixes or recalls, and dispute resolution);</li>\r\n<li>For identity and credential management, including identity verification and authentication, and system and technology administration;</li>\r\n<li>To protect the security and integrity of systems, networks, applications, and data, including detecting, analyzing, and resolving security threats, and collaborating with cybersecurity centers, consortia, and law enforcement about imminent threats;</li>\r\n<li>For fraud detection and prevention;</li>\r\n<li>For legal and regulatory compliance, including all uses and disclosures of Personal Information that are required by law or reasonably needed for compliance with company policies and procedures, such as anti-money laundering programs, security and incident response programs, intellectual property protection programs, and corporate ethics and compliance hotlines;</li>\r\n<li>For corporate audit, analysis, and reporting;</li>\r\n<li>To enforce our contracts and to protect against injury, theft, legal liability, fraud, or abuse, and to protect people or property, including physical security programs;</li>\r\n<li>To de-identify, depersonalize, or anonymize the data or create aggregated datasets, such as for consolidating reporting, research, or analytics;</li>\r\n<li>To make back-up copies for business continuity and disaster recovery purposes; and</li>\r\n<li>For corporate governance, including mergers, acquisitions, and divestitures.</li>\r\n</ul>\r\n"
+                  }
+                }, {
+                  "@type": "Question",
+                  "name": "Categories of Third Parties and Our Disclosure of Personal Information",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "<p>We may disclose your Personal Information to:<strong></strong></p>\r\n<ul class=\"vs-discs vs-text vs-rte-list vs-ul\">\r\n<li>Our Affiliates;</li>\r\n<li>Our service providers, for the purposes of providing services to us;<strong></strong></li>\r\n<li>Financial institutions, merchants, payment processors, and other third parties that are subject to appropriate confidentiality and use restrictions, for the purposes of enabling your payments, managing fraud and risk, providing and developing products and services, and supporting our Everyday Business Purposes; &nbsp;<strong></strong></li>\r\n<li>Third parties, such as third-party advertising partners, who may use data collected by cookies and similar means to help us with our online advertising programs;<strong></strong></li>\r\n<li>Government agencies;<strong></strong></li>\r\n<li>Recruiting agencies and your references (for Professional and Employment Information); and<strong></strong></li>\r\n<li>Your company and its affiliates (for Business Customer Data).</li>\r\n</ul>\r\n<p>We may also disclose personal information when required to do so by law, such as to law enforcement agencies, regulators, or courts, or as permitted by law, such as when we sell or transfer business assets, enforce our contracts, protect our property or the rights, property or safety of others, or as needed for audits, compliance, and corporate governance.</p>\r\n<p>&nbsp;</p>\r\n"
+                  }
+                }, {
+                  "@type": "Question",
+                  "name": "Online Privacy",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "<p>When you visit our website, use our mobile applications, or engage with our emails and online ads, we may collect information by automated means, using technologies such as cookies, pixel tags, browser analysis tools, server logs, and web beacons.</p>\n<p>In some cases, the information we collect is only used in a non-identifiable way. For example, we use information we collect about all website users to optimize our websites and to understand website traffic patterns. We do not use this information to profile you or target our ads.<br>\n</p>\n<p>In other cases, we may use the information in an identifiable way. For example, we may authenticate you or your device, deliver personalized content or use the information for analytics, fraud detection, and security. We may also use the information for online ad targeting. Our <a data-linktype=\"internal\" href=\"/content/VISA/usa/englishlanguagemaster/en_US/home/legal/global-privacy-notice/cookie-notice.html\">Cookie Notice</a> provides more information about our online data collection technologies and your choices.&nbsp;<br>\n</p>\n<p>As described in our <a href=\"/content/VISA/usa/englishlanguagemaster/en_US/home/legal/global-privacy-notice/cookie-notice.html\">Cookie Notice</a>, we have relationships with third-party advertising companies. These third parties may track you, your browser or your device across different websites and applications.</p>\n<p>Subject to your settings, we may place cookies or tags on your computer when you visit our website so that they can display targeted advertisements to you on other websites. The use of your data by these companies is subject to their own privacy policies.<br>\n</p>\n<p>Many Visa websites only place marketing, personalization, and advertising cookies if you explicitly accept these cookies by clicking “Accept All Cookies” when you first visit the website. Our <a href=\"/content/VISA/usa/englishlanguagemaster/en_US/home/legal/global-privacy-notice/cookie-notice.html\">Cookie Notice</a> explains how to manage your preferences and how to disable previously accepted cookies.</p>\n<p>Our websites may enable you to interact with us and others via social media platforms. We collect information from these platforms as permitted by the sites’ legal terms. We may also display interest-based ads to you when you are using these platforms. The platforms allow us to personalize the ads that we display to you, and they may gain insights about individuals who respond to the ads we serve.<br>\n</p>\n"
+                  }
+                }, {
+                  "@type": "Question",
+                  "name": "Mobile Applications",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "<p>When you download our mobile applications, you may allow us to obtain your precise location from your mobile device. We use this information to deliver personalized content and for analytics. We may also offer automatic (&quot;push&quot;) notifications. We will provide push notifications only if you opt-in to receive them. You do not have to provide location information or enable push notifications to use our mobile apps.</p>\n<p>Certain mobile applications controlled by Visa may allow us to share data with advertising platforms for purposes of showing you interest-based ads. We rely on the mobile network operators’ settings to allow you to opt into this type of sharing when you download our applications. However, where able, we will also provide you choices within the account profile section of the application.</p>\n<p>We collect&nbsp;device identifiers&nbsp;and other device-related information, including your device’s advertising ID, if available. This information is used to identify your device and authenticate you. We may also use device-related information to associate you with different devices that you may use, including for fraud-protection purposes and to better target advertising. In many cases, you can reset your device’s advertising ID. Both Android and iOS devices enable you to reset your device identifier under the “settings” menu.&nbsp;&nbsp;<br>\n</p>\n"
+                  }
+                }, {
+                  "@type": "Question",
+                  "name": "Your Privacy Rights",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "<p>We respect your rights to access, correct and delete your information in accordance with applicable laws. If you have an online account with Visa, you can log into your account to access, update, and delete your information. You can also submit requests under relevant laws to us via the <a data-linktype=\"external\" data-conversiontype=\"Not a conversion\" href=\"https://privacyportal.onetrust.com/webform/dd0d9755-b749-45c9-8c89-f768637132db/2820c4d2-137a-425e-bf35-ffb2bab5611d\" target=\"_blank\">Privacy Rights Portal</a>.</p>\n<p>For security reasons and to prevent unauthorized disclosure of Personal Information, cardholders should contact their payment card issuers to access their relevant information. This helps ensure that access to the information is only provided to the authorized individuals, subject to the issuer’s verification processes.Additionally, if you have questions about how your issuer, merchants, or rewards networks handle your Personal Information, please check the privacy notices provided by these companies and contact them directly for assistance with any privacy requests. When Visa acts as a service provider (also called a data processor) for our clients, we only process your information as instructed by our client to provide the services and for other appropriate purposes, such as recordkeeping and compliance. We rely on our clients to provide you with appropriate privacy notices and to manage your privacy rights.<br>\n</p>\n<p><strong>Supplemental Privacy Notices:&nbsp;</strong>Residents of some states and countries have additional privacy rights. Information on these rights is provided in the supplemental privacy notices posted at the bottom of this Global Privacy Notice.</p>\n"
+                  }
+                }, {
+                  "@type": "Question",
+                  "name": "International Transfers",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "<p>Visa is based in the United States and has Affiliates and service providers around the world. Visa may transfer your Personal Information between countries, including to countries which may not have similar privacy or data protection laws as your country of origin. We may transfer your Personal Information to our main data centers in the United States, as well as our other data centers, such as our data center in Europe or a local data center in your country where applicable. However, we will always protect your information as described in the relevant privacy notice(s), no matter where it is stored, and transfer it in accordance with any applicable legal requirements for cross-border transfer of Personal Information.<br>\n</p>\n"
+                  }
+                }, {
+                  "@type": "Question",
+                  "name": "Information Security and Data Retention",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "<p>We use physical, technical, organizational, and administrative safeguards to help protect your Personal Information from unauthorized access or loss. For example, we use encryption and other tools to protect sensitive information. We retain your Personal Information as needed for the purposes listed above and as permitted by law.<br>\n</p>\n"
+                  }
+                }, {
+                  "@type": "Question",
+                  "name": "Privacy Policies of Third Parties",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "<p>This Privacy Notice explains how Visa Inc. and its Affiliates handle your Personal Information. Please also read the privacy notice provided by your Visa card issuer and other applicable clients to learn how each of those companies handle your information. Additionally, if you are participating in offers or promotions, please read the privacy notices provided by the merchant or the rewards network before you sign up.</p>\n<p>Social media platforms and other websites that may be accessed through Visa’s websites also have their own privacy policies. We encourage you to read the privacy notices provided by these sites before you give them your information.<br>\n</p>\n"
+                  }
+                }, {
+                  "@type": "Question",
+                  "name": "Job Applicants",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "<p>If you have applied for a job at Visa, the Personal Information in your application will be used and retained for recruiting, compliance, and other customary human resources purposes. This includes, where permitted, processing information to monitor our pathways for employee recruitment.<br>\n</p>\n"
+                  }
+                }, {
+                  "@type": "Question",
+                  "name": "Children's Data",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "<p>Visa’s platforms are not directed to children, and Visa only collects information from children as permitted by law. For example, we may collect data from children over 16 who are allowed by law to interact with Visa or otherwise if we have appropriate parental or caregiver consent, such as if children attend Visa sponsored events with adult caregivers. If you believe that we are processing a child’s information inappropriately, please <a data-linktype=\"external\" data-conversiontype=\"Not a conversion\" href=\"mailto:privacy@visa.com\" target=\"_blank\">Contact Us</a>.&nbsp;<br>\n</p>\n"
+                  }
+                }, {
+                  "@type": "Question",
+                  "name": "Changes to this Privacy Notice",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "<p>We may update this Privacy Notice from time to time. We will post an alert online if the changes are material. If the changes will materially affect the way we use Personal Information that we have already collected, we will notify you.<br>\n</p>\n"
+                  }
+                }, {
+                  "@type": "Question",
+                  "name": "How to Contact the Visa Privacy Office",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "<p>If you would like to exercise your privacy rights under relevant laws, please reach out us via the <a data-linktype=\"external\" data-conversiontype=\"Not a conversion\" href=\"https://privacyportal.onetrust.com/webform/dd0d9755-b749-45c9-8c89-f768637132db/2820c4d2-137a-425e-bf35-ffb2bab5611d\" target=\"_blank\">Privacy Rights Portal.</a><br>\n</p>\n<p>For any other assistance you may contact us, including any queries to the applicable Data Protection Officers within Visa, at the information below:<br>\n</p>\n<ul>\n<li>Email us:&nbsp;<a data-linktype=\"external\" data-conversiontype=\"Lead generation\" href=\"mailto:privacy@visa.com\" target=\"_blank\">privacy@visa.com</a><br>\n<em>Please do not include sensitive information, such as your account number, in emails.</em></li>\n<li>Mail us a letter:<br>\nVisa Global Privacy Office<br>\n900 Metro Center Blvd.<br>\nFoster City, CA, 94404 USA</li>\n</ul>\n"
+                  }
+                }, {
+                  "@type": "Question",
+                  "name": "Supplemental Privacy Notices",
+                  "acceptedAnswer": {
+                    "@type": "Answer",
+                    "text": "Our&nbsp;<a href=\"/content/VISA/usa/englishlanguagemaster/en_US/home/legal/global-privacy-notice/cookie-notice.html\">Cookie Notice</a>&nbsp;explains our practices regarding cookies, tags, and similar types of online data that we collect."
+                  }
+                }]
+              }
+            </script>
+Deleted Tag: <script src="/etc.clientlibs/rvcom/rvcom-clientlibs/rvcom/containerStack.min.js"></script>
+Deleted Tag: <script src="/etc.clientlibs/rvcom/rvcom-clientlibs/rvcom/relatedLinks.min.js"></script>
+Deleted Tag: <script src="/etc.clientlibs/cms-rest/clientlibs/modal.min.js" type="text/javascript"></script>
+Deleted Tag: <script src="/etc.clientlibs/rvcom/rvcom-clientlibs/global.min.js"></script>
+Deleted Tag: <script src="/etc.clientlibs/rvcom/rvcom-clientlibs/rvcom/tealium.min.js"></script>
+Deleted Tag: <script src="/etc.clientlibs/rvcom/rvcom-clientlibs/rvcom/chatSystem.min.js"></script>
+Deleted Tag: <meta content="VISA" name="tenant"/>
+Deleted Tag: <meta content="usa_visa_com" name="siteid"/>
+Deleted Tag: <meta content="en_us" name="locale"/>
+Deleted Tag: <meta content="default" name="id"/>
+Deleted Tag: <meta charset="utf-8"/>
+Deleted Tag: <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+Deleted Tag: <meta content="width=device-width, initial-scale=1" name="viewport"/>
+Deleted Tag: <meta content="The Global Privacy Notice discusses how Personal Information is collected and used.
+" name="description"/>
+Deleted Tag: <meta content="Visa privacy center, privacy notice, Global Privacy Notice" name="keywords"/>
+Deleted Tag: <meta content="" name="searchdescription"/>
+Deleted Tag: <meta content="" name="thumbnail"/>
+Deleted Tag: <meta content="" name="contentranking"/>
+Deleted Tag: <meta content="website" property="og:type"/>
+Deleted Tag: <meta content="https://usa.visa.com/legal/global-privacy-notice.html" property="og:url"/>
+Deleted Tag: <meta content="Visa Global Privacy Notice" property="og:title"/>
+Deleted Tag: <meta content="en_us" property="pageLanguage"/>
+Deleted Tag: <meta content="The Global Privacy Notice discusses how Personal Information is collected and used.
+" property="og:description"/>
+Deleted Tag: <meta content="The Global Privacy Notice discusses how Personal Information is collected and used.
+" name="twitter:description"/>
+Deleted Tag: <meta content="summary_large_image" name="twitter:card"/>
+Deleted Tag: <meta content="@visa" name="twitter:site"/>
+Deleted Tag: <meta content="@visa" name="twitter:creator"/>
+Deleted Tag: <meta content="Visa Global Privacy Notice" name="twitter:title"/>
+Deleted Tag: <meta content="https://usa.visa.com/content/VISA/usa/englishlanguagemaster/en_US/home/legal/global-privacy-notice.html" property="pageUrl"/>
+Deleted Tag: <meta content="AboutVisa:AboutVisa" name="topic"/>
+Deleted Tag: <meta content="OtherBusinessPriority:LegallyRequired" name="bizPriority"/>
+Deleted Tag: <meta content="OtherBusinessPriority:LegallyRequired" name="primaryTag"/>
+Deleted Tag: <meta content="Audience:General" name="audience"/>
+Deleted Tag: <meta content="PageType:Legal" name="pageContains"/>
+Deleted Tag: <meta content="Find high-level information about Visa" name="userIntent"/>
+Deleted Tag: <meta content="Inner page template" name="template"/>
+Deleted Tag: <meta content="Legally required" name="eyeBrowTag"/>
+Deleted Tag: <meta content="" name="rlDescription"/>
+Deleted Tag: <meta content="" name="rlImagePath"/>
+Deleted Tag: <meta content="" name="rlImageAltText"/>
+Deleted Tag: <meta content="false" name="relatedLinksMetadataExists"/>
+Deleted Tag: <meta content="Content" name="conversionOrContent"/>
+Deleted Tag: <meta content="2023-03-04T00:46:21.550Z" name="lastModifiedDate"/>
+Deleted Tag: <img alt="Visa Home" src="https://cdn.visa.com/v2/assets/images/logos/visa/blue/logo.png"/>
+Deleted Tag: <img alt="" class="vs-submenu-img vs-img-fluid vs-d-none vs-d-xl-block" loading="lazy" src="/content/dam/VCOM/regional/na/us/navigation/images/team-working-together-400x225.jpeg"/>
+Deleted Tag: <img alt="" class="vs-submenu-img vs-img-fluid vs-d-none vs-d-xl-block" loading="lazy" src="/content/dam/VCOM/global/navigation/images/visa-developers-400x225.jpg"/>
+Deleted Tag: <img alt="" class="vs-submenu-img vs-img-fluid vs-d-none vs-d-xl-block" loading="lazy" src="/content/dam/VCOM/global/navigation/images/visa-developer-400x225.jpg"/>
+Deleted Tag: <img alt="" class="vs-submenu-img vs-img-fluid vs-d-none vs-d-xl-block" loading="lazy" src="/content/dam/VCOM/global/navigation/images/leading-by-example-400x225.jpg"/>
+Deleted Tag: <img alt="" class="vs-submenu-img vs-img-fluid vs-d-none vs-d-xl-block" loading="lazy" src="/content/dam/VCOM/global/navigation/images/people-possibilities-400x225.jpg"/>
+Deleted Tag: <img alt="" class="vs-submenu-img vs-img-fluid vs-d-none vs-d-xl-block" loading="lazy" src="/content/dam/VCOM/global/navigation/images/supporting-communities-400x225.jpg"/>
+Deleted Tag: <img alt="" class="vs-submenu-img vs-img-fluid vs-d-none vs-d-xl-block" loading="lazy" src="/content/dam/VCOM/global/navigation/images/caring-for-our-planet-400x225.jpg"/>
+Deleted Tag: <iframe height="0" hidden="" src="https://a10654255723.cdn.optimizely.com/client_storage/a10654255723.html" style="display: none;" tabindex="-1" title="Optimizely Internal Frame" width="0"></iframe>
+Deleted Link: #skipTo
+Deleted Link: 
+Deleted Link: 
+Deleted Link: #
+Deleted Link: 
+Deleted Link: #
+Deleted Link: 
+Deleted Link: #
+Deleted Link: 
+Deleted Link: #
+Deleted Link: 
+Deleted Link: 
+Deleted Link: 
+Deleted Link: 
+Deleted Link: 
+Deleted Link: 
+Deleted Link: 
+Deleted Link: 
+Deleted Link: 
+Deleted Link: 
+Deleted Link: 
+Deleted Link: 
+Deleted Link: 
+Deleted Link: 
+Deleted Link: 
+Deleted Link: 
+Deleted Link: 
+Deleted Link: 
+Deleted Link: 
+Deleted Link: 
+Deleted Link: 
+Deleted Link: 
+Deleted Link: 
+Deleted Link: 
+Deleted Link: 
+Deleted Link: 
+Deleted Link: 
+Deleted Link: 
+Deleted Link: 
+Deleted Link: 

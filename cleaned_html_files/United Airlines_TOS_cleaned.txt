@@ -1,0 +1,206 @@
+Text: Airline Tickets, Travel Deals and Flights
+Text: Navigated to:
+            Fly - United Airlines
+Link: /en/us/
+Text: English - United States $
+Link: /en/us/website-search
+Text: Search
+Text: Sign
+                                                  in
+Text: MileagePlus sign-in is not
+                                                    available when booking with myUAdiscount. You may add your
+                                                    MileagePlus number on the traveler information page during the
+                                                    booking process.
+Text: Sign in
+Link: https://www.united.com/ual/en/US/account/enroll/default
+Text: Join
+                                                    now
+Text: Menu
+Text: Book
+Text: My
+                                            trips
+Text: Travel
+                                            info
+Text: MileagePlus
+Text: Deals
+Link: /en/us/fly/help-center.html
+Text: Help
+Text: Loading...
+Text: About United
+Text: Products and services
+Text: Popular destinations
+Link: https://careers.united.com/
+Text: Careers
+Link: https://www.united.com/en/us/fly/travel/trip-planning/travel-alerts.html
+Text: Important
+                              notices
+Text: Corporate information
+Link: https://www.united.com/en/us/fly/company/brand/good-leads-the-way.html
+Text: Good Leads The
+                                      Way
+Link: https://www.united.com/en/us/newsroom/
+Text: Newsroom
+Link: http://ir.united.com/
+Text: Investor relations
+Link: https://www.united.com/en/us/newsroom/corporate-fact-sheet.html#leader-bios
+Text: Leadership team
+Link: https://www.united.com/ual/en/us/fly/company/united-airlines-ventures.html
+Text: United Airlines
+                                      Ventures
+Link: https://www.united.com/en/us/fly/company/responsibility/global-community-engagement.html
+Text: Global community
+                                      engagement
+Link: https://www.united.com/ual/en/us/fly/company/global-citizenship/diversity.html
+Text: Diversity, Equity and
+                                      Inclusion
+Link: https://www.united.com/ual/en/us/fly/company/global-citizenship/environment.html
+Text: Sustainability
+Link: https://www.united.com/en/us/fly/company/responsibility/chief-trash-officer.html
+Text: Chief Trash
+                                      Officer
+Text: Media and partners
+Link: https://www.united.com/ual/en/us/fly/mileageplus/earn-miles/airline-partners.html
+Text: Global alliances
+Link: https://www.united.com/ual/en/us/fly/company/united-express-partners.html
+Text: United Express®
+                                      partners
+Link: mailto:media@united.com
+Text: Advertise with us
+Link: https://www.united.com/ual/en/us/fly/company/brand.html
+Text: Branding
+Link: http://www.unitedshop.com
+Text: United Shop
+Text: Business services
+Link: https://business.united.com/en/us/index
+Text: United for Business
+Link: https://jetstream.united.com/#/public-landing
+Text: United
+                                      Jetstream
+Link: https://www.united.com/ual/en/us/fly/products/chase/business.html
+Text: United business credit cards
+Link: https://www.united.com/ual/en/us/fly/products/business/corporate-travel-expense-management.html
+Text: United UATP®
+Link: https://www.united.com/en/us/fly/products/business/passplus.html
+Text: United PassPlus℠
+Link: https://united.business/perksplus
+Text: United PerksPlus℠
+Link: https://united.business/
+Text: United for Business
+Link: https://www.united.com/ual/en/us/fly/products/premier-access.html
+Text: Premier Access
+                                      benefits
+Link: https://www.united.com/ual/en/us/fly/products/chase.html
+Text: Credit and prepaid cards
+Link: https://vacations.united.com/?utm_source=united&utm_medium=psite-footer&utm_campaign=united_psite-footer&utm_content=D!footer
+Text: United Vacations®
+Link: https://www.united.com/en/us/fly/travel/airport/united-club-and-lounges.html
+Text: United Club™ and
+                                      lounges
+Link: https://united.business/meetings-group
+Text: Group and meeting
+                                      travel
+Link: https://www.united.com/ual/en/us/fly/products/milgov.html
+Text: U.S. military and government
+                                      travel
+Link: https://www.united.com/ual/en/us/fly/products/travel-options.html
+Text: United Travel
+                                      Options
+Link: https://www.united.com/ual/en/us/fly/products/travel-options/trip-insurance.html
+Text: Trip insurance
+Link: https://www.united.com/ual/en/us/subscription/home
+Text: United Subscriptions
+Link: https://www.united.com/en-us/flights
+Text: United Airlines
+                                      destinations
+Link: https://www.united.com/en-us/flights-to-chicago
+Text: Chicago
+Link: https://www.united.com/en-us/flights-to-denver
+Text: Denver
+Link: https://www.united.com/en-us/flights-to-houston
+Text: Houston
+Link: https://www.united.com/en-us/flights-to-los-angeles
+Text: Los
+                                      Angeles
+Link: https://www.united.com/en-us/flights-to-newark
+Text: New
+                                      York
+Link: https://www.united.com/en-us/flights-to-san-francisco
+Text: San
+                                      Francisco
+Link: https://www.united.com/en-us/flights-to-washington
+Text: Washington,
+                                      D.C.
+Link: https://www.united.com/en-us/flights-to-orlando
+Text: Orlando
+Link: https://www.united.com/en-us/flights-to-fort-lauderdale
+Text: Fort
+                                      Lauderdale
+Link: https://www.united.com/en-us/flights-to-beijing
+Text: Beijing
+Link: https://www.united.com/en-us/flights-to-munich
+Text: Munich
+Link: https://www.united.com/en-us/flights-to-paris
+Text: Paris
+Link: https://www.united.com/en-us/flights-to-tokyo
+Text: Tokyo
+Link: https://www.united.com/en-us/flights-to-london
+Text: London
+Link: https://www.united.com/en-us/sitemap/city-to-city-flights/page-1
+Text: United Airlines routes
+Text: English - United States
+                            $
+Text: Español
+Link: https://www.united.com/xx/xx/fly/about-contract-of-carriage.html
+Text: Contract of carriage
+Link: https://www.united.com/ual/en/us/fly/tarmac-delay.html
+Text: Lengthy tarmac delay plan
+Link: https://www.united.com/ual/en/us/fly/legal.html
+Text: Legal information
+Link: https://www.united.com/ual/en/us/fly/customer-commitment.html
+Text: Our United Customer Commitment
+Link: https://www.united.com/ual/en/us/fly/customer-support.html
+Text: Help Center
+Link: https://www.united.com/ual/en/us/fly/travel/special-needs.html
+Text: Accessible travel
+Link: https://www.united.com/ual/en/us/fly/privacy.html
+Text: Privacy Policy
+Link: https://uniteddigital.iad1.qualtrics.com/jfe/form/SV_88OQmAbr20oeHn8
+Text: Do
+                                Not Sell or Share My Personal Information
+Link: https://www.united.com/privacy-interest-based-ads
+Text: Interest Based Ads
+Link: https://jetstream.united.com/
+Text: United Jetstream
+Link: http://www.unitedcargo.com/
+Text: Cargo
+Text: Search for a topic
+Text: Stay Connected
+Link: /xx/xx/fly/travel-experience/united-app.html
+Link: https://www.tiktok.com/@united
+Link: https://www.united.com/web/en-US/apps/vendors/out.aspx?i=facebook
+Link: https://www.united.com/web/en-US/apps/vendors/out.aspx?i=twitter
+Link: https://www.united.com/web/en-US/apps/vendors/out.aspx?i=youtube
+Link: https://www.united.com/web/en-US/apps/vendors/out.aspx?i=instagram
+Link: https://www.united.com/web/en-US/apps/vendors/out.aspx?i=linkedin
+Text: Indicates an external site that may or may not
+                          meet accessibility guidelines.
+Text: this link is to an external site that may or may not meet accessibility
+                          guidelines.
+Text: opens in a new tab.
+Text: This link is to an external site that may or may not meet accessibility
+                          guidelines, opens in a new tab
+Text: Copyright © 2024 United Airlines, Inc. All rights
+                          reserved.
+Link: https://www.united.com/web/en-US/content/company/alliance/star.aspx
+Text: CoBrowse
+Text: Welcome to CoBrowse united.com!
+Text: During a phone conversation with an agent, we may be able to better assist you with
+                                  CoBrowse, a customer support solution.
+                                  CoBrowse will allow the agent to see what you see and answer your questions.
+                                  They will only be able to see united.com - nothing else.
+                                  Your personal information, such as credit card numbers and passwords, won't be visible
+                                  to the agent.
+                                  When you start a session with an agent, you agree to share your united.com browser
+                                  window.
+Text: Pin
+Text: Start CoBrowse

@@ -1,0 +1,1604 @@
+Text: Terms of Service - American Express US
+Text: Hidden Elements- Commenting the code for now , waiting on to get align with Federated team
+Text: Hidden Filed for Script Supplier
+Text: [if lt IE 8]>
+<p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade
+    your browser</a> to improve your experience.</p>
+<![endif]
+Text: Start Header
+Text: Skip to
+                            content
+Text: Menu
+Text: Menu
+Link: https://www.americanexpress.com?inav=NavLogo
+Text: My
+                                                        Account
+Text: My
+                                                            Account
+Text: Card
+                                                                        Accounts
+Link: https://online.americanexpress.com/myca/gce/us/action/home?request_type=un_Register&Face=en_US#/&inav=menu_myacct_create_online_account
+Text: Create
+                                                                                    Your Online Account
+Link: https://global.americanexpress.com/dashboard?inav=menu_myacct_acctsum
+Text: Account
+                                                                                    Home
+Link: https://online.americanexpress.com/myca/gce/us/action/home?request_type=un_Activation&Face=en_US#/&inav=menu_myacct_confirm_card
+Text: Confirm
+                                                                                    Your Card
+Link: https://global.americanexpress.com/activity?inav=us_menu_myacct_card_accounts_statements_activity
+Text: Statements
+                                                                                    & Activity
+Link: https://global.americanexpress.com/account-management?inav=us_menu_myacct_card_accounts_account_services
+Text: Account
+                                                                                    Services
+Link: https://global.americanexpress.com/card-benefits/view-all?inav=menu_myacct_cardbenefits
+Text: Card
+                                                                                    Benefits
+Text: Business Accounts
+Link: https://global.americanexpress.com/dashboard?inav=menu_myacct_smallbusiness
+Text: Small
+                                                                                    Business
+Link: https://www.americanexpress.com/us/merchant/merchant-home.html?inav=menu_myacct_merchantsolutions
+Text: Merchant
+                                                                                    Home
+Link: https://www347.americanexpress.com/ATWORK/en_US/atwork.do?pageAction=initialize&inav=menu_myacct_atwork
+Text: American
+                                                                                    Express @Work
+Text: Other
+                                                                        Accounts and Payments
+Link: https://www.americanexpress.com/en-us/banking/personal/savings/dashboard/?inav=us_menu_my_account_other_accounts_savings_accounts
+Text: Savings
+                                                                                    Accounts
+Link: https://www.americanexpress.com/us/services/amex-peer-to-peer/send-and-split/?inav=menu_myacct_sendandsplit
+Text: Send
+                                                                                    Money & Split Purchases: Venmo
+                                                                                    and PayPal
+Link: https://global.americanexpress.com/rewards/summary?inav=menu_myacct_mrpointsum
+Text: Membership
+                                                                                    Rewards® Point Summary
+Text: Tools and Support
+Link: https://www.americanexpress.com/en-us/banking/wealth/spendsmart/?inav=us_menu_my_account_tools_and_support_financial_tools
+Text: Financial
+                                                                                    Tools
+Link: https://www.americanexpress.com/us/credit-cards/features-benefits/free-credit-score/?inav=us_menu_myacct_credit_tools_support_fico_score_insights
+Text: FICO®
+                                                                                    Score and Insights
+Link: https://www.americanexpress.com/en-us/benefits/creditsecure/?inav=menu_myacct_creditsecure
+Text: CreditSecure®
+Link: https://www.americanexpress.com/en-us/account/password/recover?inav=menu_myacct_forgot_user_id
+Text: Forgot
+                                                                                    User ID or Password?
+Link: https://www.americanexpress.com/us/security-center/?inav=menu_myacct_security_center
+Text: Security
+                                                                                    Center
+Text: United
+                                                                            States
+Link: https://www.americanexpress.com/change-country/?inav=iNavUtilChangeCountry
+Text: Change
+                                                                                Country
+Text: Cards
+Text: Cards
+Text: Personal Cards
+Link: https://www.americanexpress.com/us/credit-cards/?inav=menu_cards_pc_viewallcards
+Text: View
+                                                                                    All Credit Cards
+Link: https://www.americanexpress.com/us/credit-cards/check-for-offers/?inav=us_menu_cards_pc_check_for_offers
+Text: Interested
+                                                                                    in Amex? See if You’re
+                                                                                    Pre-Qualified
+Link: https://www.americanexpress.com/us/credit-cards/category/travel-rewards/?inav=menu_cards_pc_travelrewardscards
+Text: Travel
+                                                                                    Credit Cards
+Link: https://www.americanexpress.com/us/credit-cards/category/cash-back/?inav=menu_cards_pc_cashbackcards
+Text: Cash
+                                                                                    Back Credit Cards
+Link: https://www.americanexpress.com/us/credit-cards/category/no-annual-fee/?inav=menu_cards_pc_noannual_fee
+Text: No
+                                                                                    Annual Fee Credit Cards
+Link: https://www.americanexpress.com/en-us/credit-cards/credit-intel/?inav=menu_cards_pc_credit_intel_credit_resource_center
+Text: Credit
+                                                                                    Intel – Financial Education
+                                                                                    Center
+Text: Business Credit Cards
+Link: https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/?inav=us_menu_cards_business_credit_cards_view_all_business_credit_cards
+Text: View
+                                                                                    All Business Credit Cards
+Link: https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/compare-credit-cards/best-business-credit-cards/?inav=menu_cards_sbc_best_business_credit_cards
+Text: Most
+                                                                                    Popular Business Credit
+                                                                                    Cards
+Link: https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/compare-credit-cards/compare-travel-rewards-credit-cards/?inav=us_menu_cards_business_credit_cards_travel_business_credit_cards
+Text: Travel
+                                                                                    Business Credit Cards
+Link: https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/compare-credit-cards/compare-no-annual-fee-credit-cards/?inav=us_menu_cards_business_credit_cards_no_annual_fee_business_credit_cards
+Text: No
+                                                                                    Annual Fee Business Credit
+                                                                                    Cards
+Link: https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/compare-credit-cards/compare-flexible-payment-credit-cards/?inav=us_menu_cards_business_credit_cards_flexible_payment_business_credit_cards
+Text: Flexible
+                                                                                    Payment Business Credit
+                                                                                    Cards
+Text: Corporate Programs
+Link: https://www.americanexpress.com/us/credit-cards/business/corporate-credit-cards/?inav=menu_cards_cs_corporate_credit_cards
+Text: View
+                                                                                    All Corporate Cards and
+                                                                                    Programs
+Link: https://www.americanexpress.com/en-us/business/corporate/benefits/?inav=us_menu_cards_corporate_programs_view_corporate_benefits
+Text: View
+                                                                                    All Corporate Benefits
+Link: https://www.americanexpress.com/us/credit-cards/business/corporate-credit-cards/american-express-corporate-green-card-amex/?inav=us_menu_cards_corporate_programs_corporate_green_card
+Text: Corporate
+                                                                                    Green Card
+Link: https://www.americanexpress.com/us/credit-cards/business/corporate-credit-cards/american-express-platinum-corporate-card/?inav=us_menu_cards_corporate_programs_corporate_platinum_card
+Text: Corporate
+                                                                                    Platinum Card
+Link: https://www.americanexpress.com/us/credit-cards/business/corporate-credit-cards/corporate-p-card/?inav=us_menu_cards_corporate_programs_corporate_purchasing_card
+Text: Corporate
+                                                                                    Purchasing Card
+Link: https://www.americanexpress.com/us/credit-cards/gcpadvantage/login/?eep=36021&channel=axpsite&intlink=us-CPS-PCACheader&inav=menu_cards_cs_personal_card_annual
+Text: Personal
+                                                                                    Card Annual Credit
+Text: Prepaid
+                                                                        Cards
+Link: https://www.americanexpress.com/en-us/prepaid/view-all-cards/?inav=us_menu_cards_prepaid_cards_view_all
+Text: View
+                                                                                    All Prepaid & Gift
+                                                                                    Cards
+Text: United
+                                                                            States
+Link: https://www.americanexpress.com/change-country/?inav=iNavUtilChangeCountry
+Text: Change
+                                                                                Country
+Text: Banking
+Text: Banking
+Text: Personal Savings
+Link: https://www.americanexpress.com/en-us/banking/online-savings/account/?extlink=ps2020=GIN-HO-H&inav=us_menu_savings_and_loans_savings_accounts_view_all_savings_products
+Text: View
+                                                                                    All Savings Products
+Link: https://www.americanexpress.com/en-us/banking/online-savings/high-yield-savings/?extlink=ps2020=GIN-HY-H&inav=us_menu_savings_and_loans_savings_accounts_high_yeld_savings
+Text: High
+                                                                                    Yield Savings (HYSA)
+Link: https://www.americanexpress.com/en-us/banking/online-savings/cd/?extlink=ps2020=GIN-CD-H&inav=us_menu_savings_and_loans_savings_accounts_cd
+Text: Certificates
+                                                                                    of Deposit (CD)
+Link: https://www.americanexpress.com/en-us/banking/online-savings/support/?extlink=ps2020=GIN-HS-H&inav=us_menu_savings_and_loans_help_support_savings_help_support
+Text: Savings
+                                                                                    Help & Support
+Text: Personal Checking and Loans
+Link: https://www.americanexpress.com/en-us/banking/checking-account/?eep=90021&inav=us_menu_banking_personal_checking_personal_checking
+Text: Personal
+                                                                                    Checking
+Link: https://www.americanexpress.com/en-us/banking/online-checking/frequently-asked-questions/?eep=90021&inav=us_menu_banking_personal_checking_personal_checking_help
+Text: Personal
+                                                                                    Checking Help
+Link: https://www.americanexpress.com/en-us/banking/personal-loans/?inav=us_menu_banking_personal_checking_and_loans_personal_loans
+Text: Personal
+                                                                                    Loans
+Link: https://www.americanexpress.com/us/loans/personal-loans/faq.html?inav=us_menu_banking_personal_loans_personal_loans_help
+Text: Personal
+                                                                                    Loans Help
+Text: Business Banking
+Link: https://www.americanexpress.com/en-us/business/checking/?inav=us_menu_banking_business_banking_business_checking
+Text: Business
+                                                                                    Checking
+Link: https://www.americanexpress.com/en-us/business/blueprint/business-line-of-credit/?inav=us_menu_banking_business_loc
+Text: Business
+                                                                                    Line of Credit
+Text: United
+                                                                            States
+Link: https://www.americanexpress.com/change-country/?inav=iNavUtilChangeCountry
+Text: Change
+                                                                                Country
+Text: Travel
+Text: Travel
+Text: Book And
+                                                                        Manage Travel
+Link: https://www.americanexpress.com/en-us/travel?inav=menu_nav_bookatrip
+Text: Book
+                                                                                    a Trip
+Link: https://www.amextravel.com/featured-hotel-searches?inav=us_menu_travel_personal_travel_bookfhr
+Text: Book
+                                                                                    Fine Hotels + Resorts®
+Link: https://hotel-booking.americanexpress.com/en-us/thc/welcome?inav=us_menu_travel_personal_travel_bookthc
+Text: Book
+                                                                                    The Hotel Collection
+Link: https://www.americanexpress.com/en-us/travel/international-airline-program/?inav=us_menu_travel_personal_travel_bookiap
+Text: Book
+                                                                                    International Airline
+                                                                                    Program
+Link: https://www.americanexpresscruise.com/promos/cruise?inav=us_menu_travel_book_cruise
+Text: Book
+                                                                                    Cruise Privileges Program
+Link: https://www.americanexpress.com/en-us/travel/my-bookings/summary?intlink=mtsi-US-managemybookings-online-iNav-prod-int&inav=us_menu_travel_pt_pbss
+Text: Manage
+                                                                                    My Trips
+Text: Travel Inspiration
+Link: https://www.americanexpress.com/en-us/travel/cardmember-benefits/?inav=us_menu_travel_travel_inspiration_view_travel_programs_and_benefits
+Text: View
+                                                                                    Travel Programs and
+                                                                                    Benefits
+Link: https://www.americanexpress.com/en-us/travel/get-inspired/?inav=us_menu_travel_travel_inspiration_luxury_travel_trends
+Text: Luxury
+                                                                                    Travel Trends
+Link: https://www.americanexpress.com/en-us/travel/cruises-and-custom-vacations/?inav=us_menu_travel_travel_inspiration_cruises_and_custom_vacations
+Text: Cruises
+                                                                                    and Custom Vacations
+Text: Business Travel
+Link: https://www.amexglobalbusinesstravel.com/?inav=us_menu_travel_business_travel_gbt
+Text: Global
+                                                                                    Business Travel Solutions
+Text: Services and Support
+Link: https://aeti.americanexpress.com/travel-insurance/home.do?inav=us_menu_travel_services_and_support_puchase_travel_or_car_rental_insurance
+Text: Purchase
+                                                                                    Travel or Car Rental
+                                                                                    Insurance
+Link: https://www.americanexpress.com/en-us/travel/how-to-pay-with-points/?inav=us_menu_travel_support_how_to_book_a_trip_with_points
+Text: How
+                                                                                    to Book a Trip with
+                                                                                    Points
+Link: https://www.americanexpress.com/us/travel/travelers-cheques/?inav=us_menu_travel_support_how_to_redeem_travelers_cheques
+Text: How
+                                                                                    to Redeem Travelers
+                                                                                    Cheques
+Link: https://www.americanexpress.com/en-us/travel/help-center/?inav=menu_travel_help_center
+Text: Travel
+                                                                                    Help Center
+Link: https://www.americanexpress.com/us/credit-cards/features-benefits/policies/global-assist-terms.html?inav=menu_travel_global_assist
+Text: Global
+                                                                                    Assist Hotline
+Text: United
+                                                                            States
+Link: https://www.americanexpress.com/change-country/?inav=iNavUtilChangeCountry
+Text: Change
+                                                                                Country
+Text: Rewards &
+                                                        Benefits
+Text: Rewards &
+                                                            Benefits
+Text: Rewards
+Link: https://www.americanexpress.com/en-us/benefits/rewards/membership-rewards/?inav=us_menu_rewards_benefits_rewards_membership_rewards
+Text: Membership
+                                                                                    Rewards® Program
+Link: https://www.americanexpress.com/en-us/benefits/cashback/?inav=us_menu_rewards_benefits_rewards_cash_back
+Text: Cash
+                                                                                    back
+Link: https://www.americanexpress.com/en-us/referral?id=201279&intlink=US-MGM-Nav&inav=us_menu_rewards_benefits_rewards_refer_a_friend
+Text: Refer
+                                                                                    a Friend
+Text: Benefits and Offers
+Link: https://www.americanexpress.com/en-us/benefits/?inav=us_menu_rewards_benefits_benefits_view_all_benefits
+Text: View
+                                                                                    All Benefits
+Link: https://www.americanexpress.com/en-us/benefits/travel/resources/?inav=us_menu_rewards_benefits_benefits_travel
+Text: Travel
+Link: https://www.americanexpress.com/en-us/benefits/offers/?inav=us_menu_rewards_benefits_benefits_offers
+Text: Amex
+                                                                                    Offers
+Link: https://global.americanexpress.com/entertainment/home?inav=us_menu_rewards_benefits_benefits_entertainment_events
+Text: Entertainment
+                                                                                    and Events
+Link: https://www.americanexpress.com/us/security-center/?inav=us_menu_rewards_benefits_benefits_security
+Text: Security
+Text: Manage Membership
+Link: https://global.americanexpress.com/rewards?inav=us_menu_rewards_benefits_manage_membership_dashboard
+Text: Dashboard
+Link: https://global.americanexpress.com/rewards/summary?inav=us_menu_rewards_benefits_manage_membership_rewards_summary
+Text: Rewards
+                                                                                    Summary
+Link: https://global.americanexpress.com/rewards/calculator?inav=us_menu_rewards_benefits_manage_membership_points_value_calculator
+Text: Points
+                                                                                    Value Calculator
+Link: https://global.americanexpress.com/rewards/points-for-charges?inav=us_menu_rewards_benefits_manage_membership_cover_card_charges
+Text: Cover
+                                                                                    Card Charges
+Link: https://global.americanexpress.com/rewards/pay-with-points?inav=us_menu_rewards_benefits_manage_membership_pay_with_points
+Text: Pay
+                                                                                    with Points
+Link: https://global.americanexpress.com/rewards/gift-cards?inav=us_menu_rewards_benefits_manage_membership_redeem_points_gift_cards
+Text: Redeem
+                                                                                    points for Gift Cards
+Text: Support
+Link: https://www.americanexpress.com/us/customer-service/faq.benefits-rewards-and-offers.find-add-amex-offers.html?inav=us_menu_rewards_benefits_support_how_do_i_find_and_add_offers_to_my_card
+Text: How
+                                                                                    do I find and add Amex Offers to my
+                                                                                    Card?
+Link: https://www.americanexpress.com/us/customer-service/benefits-rewards-and-offers/?inav=us_menu_rewards_benefits_support_view_all_faqs
+Text: View
+                                                                                    all FAQs
+Text: United
+                                                                            States
+Link: https://www.americanexpress.com/change-country/?inav=iNavUtilChangeCountry
+Text: Change
+                                                                                Country
+Text: Business
+Text: Business
+Text: Business Services
+Link: https://www.americanexpress.com/us/credit-cards/business/?inav=menu_business_business_solutions
+Text: Business
+                                                                                    Services Home
+Link: https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/?inav=menu_business_business_credit_cards
+Text: View
+                                                                                    All Business Credit Cards
+Link: https://www.americanexpress.com/us/credit-cards/business/corporate-credit-cards/?inav=menu_business_corporate_credit_cards
+Text: View
+                                                                                    All Corporate Cards and
+                                                                                    Programs
+Link: https://www.americanexpress.com/en-us/business/corporate/benefits/?inav=us_menu_business_business_solutions_view_corporate_benefits
+Text: View
+                                                                                    All Corporate Benefits
+Link: https://www.americanexpress.com/en-us/business/trends-and-insights/?inav=menu_business_trends_and_insights
+Text: Business
+                                                                                    Class: Trends &
+                                                                                    Insights
+Text: Checking & Payment Products
+Link: https://www.americanexpress.com/en-us/business/checking/?inav=menu_business_checking_payment_products_business_checking
+Text: Business
+                                                                                    Checking
+Link: https://www.americanexpress.com/en-us/business/payments/vpayment/?inav=menu_business_vpay
+Text: vPayment
+Link: https://www.americanexpress.com/en-us/business/global-pay/?inav=us_menu_business_checking_payment_products_international_payments
+Text: International
+                                                                                    Payments
+Link: https://www.americanexpress.com/en-us/business/payment-solutions/?inav=us_menu_business_checking_payment_products_view_all_payment_solutions
+Text: View
+                                                                                    All Payment Solutions
+Text: Funding Products
+Link: https://www.americanexpress.com/en-us/business/blueprint/business-line-of-credit/?inav=us_menu_business_funding_products_loc
+Text: Business
+                                                                                    Line of Credit
+Text: Merchant Services
+Link: https://www.americanexpress.com/us/merchant/merchant-home.html?inav=menu_business_merchhome
+Text: Merchant
+                                                                                    Home
+Link: https://www.americanexpress.com/us/merchant/accept-the-card.html?inav=menu_business_merchant_account
+Text: Accept
+                                                                                    the Card
+Link: https://www.americanexpress.com/us/merchant/payment-processing.html?inav=menu_business_merchant_services_merchant_payment_solutions
+Text: Merchant
+                                                                                    Payment Solutions
+Link: https://www.americanexpress.com/us/merchant/support-center.html?inav=menu_business_merchsupport
+Text: Get
+                                                                                    Support
+Text: United
+                                                                            States
+Link: https://www.americanexpress.com/change-country/?inav=iNavUtilChangeCountry
+Text: Change
+                                                                                Country
+Text: Search
+Text: clear search input
+Text: search
+Link: https://global.americanexpress.com/en-us/help?inav=iNUtlContact
+Text: Help
+Link: https://www.americanexpress.com/en-us/account/login?inav=iNavLnkLog
+Text: Log In
+Link: https://www.americanexpress.com/en-us/account/logout?inav=iNLogBtn
+Text: Log
+                                                            Out
+Text: My Account
+Text: Card Accounts
+Link: https://online.americanexpress.com/myca/gce/us/action/home?request_type=un_Register&Face=en_US#/&inav=menu_myacct_create_online_account
+Text: Create
+                                                                                Your Online Account
+Link: https://global.americanexpress.com/dashboard?inav=menu_myacct_acctsum
+Text: Account
+                                                                                Home
+Link: https://online.americanexpress.com/myca/gce/us/action/home?request_type=un_Activation&Face=en_US#/&inav=menu_myacct_confirm_card
+Text: Confirm
+                                                                                Your Card
+Link: https://global.americanexpress.com/activity?inav=us_menu_myacct_card_accounts_statements_activity
+Text: Statements
+                                                                                & Activity
+Link: https://global.americanexpress.com/account-management?inav=us_menu_myacct_card_accounts_account_services
+Text: Account
+                                                                                Services
+Link: https://global.americanexpress.com/card-benefits/view-all?inav=menu_myacct_cardbenefits
+Text: Card
+                                                                                Benefits
+Text: Business Accounts
+Link: https://global.americanexpress.com/dashboard?inav=menu_myacct_smallbusiness
+Text: Small
+                                                                                Business
+Link: https://www.americanexpress.com/us/merchant/merchant-home.html?inav=menu_myacct_merchantsolutions
+Text: Merchant
+                                                                                Home
+Link: https://www347.americanexpress.com/ATWORK/en_US/atwork.do?pageAction=initialize&inav=menu_myacct_atwork
+Text: American
+                                                                                Express @Work
+Text: Other Accounts and Payments
+Link: https://www.americanexpress.com/en-us/banking/personal/savings/dashboard/?inav=us_menu_my_account_other_accounts_savings_accounts
+Text: Savings
+                                                                                Accounts
+Link: https://www.americanexpress.com/us/services/amex-peer-to-peer/send-and-split/?inav=menu_myacct_sendandsplit
+Text: Send
+                                                                                Money & Split Purchases: Venmo and
+                                                                                PayPal
+Link: https://global.americanexpress.com/rewards/summary?inav=menu_myacct_mrpointsum
+Text: Membership
+                                                                                Rewards® Point Summary
+Text: Tools and Support
+Link: https://www.americanexpress.com/en-us/banking/wealth/spendsmart/?inav=us_menu_my_account_tools_and_support_financial_tools
+Text: Financial
+                                                                                Tools
+Link: https://www.americanexpress.com/us/credit-cards/features-benefits/free-credit-score/?inav=us_menu_myacct_credit_tools_support_fico_score_insights
+Text: FICO®
+                                                                                Score and Insights
+Link: https://www.americanexpress.com/en-us/benefits/creditsecure/?inav=menu_myacct_creditsecure
+Text: CreditSecure®
+Link: https://www.americanexpress.com/en-us/account/password/recover?inav=menu_myacct_forgot_user_id
+Text: Forgot
+                                                                                User ID or Password?
+Link: https://www.americanexpress.com/us/security-center/?inav=menu_myacct_security_center
+Text: Security
+                                                                                Center
+Text: Cards
+Text: Personal Cards
+Link: https://www.americanexpress.com/us/credit-cards/?inav=menu_cards_pc_viewallcards
+Text: View
+                                                                                All Credit Cards
+Link: https://www.americanexpress.com/us/credit-cards/check-for-offers/?inav=us_menu_cards_pc_check_for_offers
+Text: Interested
+                                                                                in Amex? See if You’re
+                                                                                Pre-Qualified
+Link: https://www.americanexpress.com/us/credit-cards/category/travel-rewards/?inav=menu_cards_pc_travelrewardscards
+Text: Travel
+                                                                                Credit Cards
+Link: https://www.americanexpress.com/us/credit-cards/category/cash-back/?inav=menu_cards_pc_cashbackcards
+Text: Cash
+                                                                                Back Credit Cards
+Link: https://www.americanexpress.com/us/credit-cards/category/no-annual-fee/?inav=menu_cards_pc_noannual_fee
+Text: No
+                                                                                Annual Fee Credit Cards
+Link: https://www.americanexpress.com/en-us/credit-cards/credit-intel/?inav=menu_cards_pc_credit_intel_credit_resource_center
+Text: Credit
+                                                                                Intel – Financial Education
+                                                                                Center
+Text: Business Credit Cards
+Link: https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/?inav=us_menu_cards_business_credit_cards_view_all_business_credit_cards
+Text: View
+                                                                                All Business Credit Cards
+Link: https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/compare-credit-cards/best-business-credit-cards/?inav=menu_cards_sbc_best_business_credit_cards
+Text: Most
+                                                                                Popular Business Credit Cards
+Link: https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/compare-credit-cards/compare-travel-rewards-credit-cards/?inav=us_menu_cards_business_credit_cards_travel_business_credit_cards
+Text: Travel
+                                                                                Business Credit Cards
+Link: https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/compare-credit-cards/compare-no-annual-fee-credit-cards/?inav=us_menu_cards_business_credit_cards_no_annual_fee_business_credit_cards
+Text: No
+                                                                                Annual Fee Business Credit
+                                                                                Cards
+Link: https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/compare-credit-cards/compare-flexible-payment-credit-cards/?inav=us_menu_cards_business_credit_cards_flexible_payment_business_credit_cards
+Text: Flexible
+                                                                                Payment Business Credit Cards
+Text: Corporate Programs
+Link: https://www.americanexpress.com/us/credit-cards/business/corporate-credit-cards/?inav=menu_cards_cs_corporate_credit_cards
+Text: View
+                                                                                All Corporate Cards and
+                                                                                Programs
+Link: https://www.americanexpress.com/en-us/business/corporate/benefits/?inav=us_menu_cards_corporate_programs_view_corporate_benefits
+Text: View
+                                                                                All Corporate Benefits
+Link: https://www.americanexpress.com/us/credit-cards/business/corporate-credit-cards/american-express-corporate-green-card-amex/?inav=us_menu_cards_corporate_programs_corporate_green_card
+Text: Corporate
+                                                                                Green Card
+Link: https://www.americanexpress.com/us/credit-cards/business/corporate-credit-cards/american-express-platinum-corporate-card/?inav=us_menu_cards_corporate_programs_corporate_platinum_card
+Text: Corporate
+                                                                                Platinum Card
+Link: https://www.americanexpress.com/us/credit-cards/business/corporate-credit-cards/corporate-p-card/?inav=us_menu_cards_corporate_programs_corporate_purchasing_card
+Text: Corporate
+                                                                                Purchasing Card
+Link: https://www.americanexpress.com/us/credit-cards/gcpadvantage/login/?eep=36021&channel=axpsite&intlink=us-CPS-PCACheader&inav=menu_cards_cs_personal_card_annual
+Text: Personal
+                                                                                Card Annual Credit
+Text: Prepaid Cards
+Link: https://www.americanexpress.com/en-us/prepaid/view-all-cards/?inav=us_menu_cards_prepaid_cards_view_all
+Text: View
+                                                                                All Prepaid & Gift Cards
+Text: Banking
+Text: Personal Savings
+Link: https://www.americanexpress.com/en-us/banking/online-savings/account/?extlink=ps2020=GIN-HO-H&inav=us_menu_savings_and_loans_savings_accounts_view_all_savings_products
+Text: View
+                                                                                All Savings Products
+Link: https://www.americanexpress.com/en-us/banking/online-savings/high-yield-savings/?extlink=ps2020=GIN-HY-H&inav=us_menu_savings_and_loans_savings_accounts_high_yeld_savings
+Text: High
+                                                                                Yield Savings (HYSA)
+Link: https://www.americanexpress.com/en-us/banking/online-savings/cd/?extlink=ps2020=GIN-CD-H&inav=us_menu_savings_and_loans_savings_accounts_cd
+Text: Certificates
+                                                                                of Deposit (CD)
+Link: https://www.americanexpress.com/en-us/banking/online-savings/support/?extlink=ps2020=GIN-HS-H&inav=us_menu_savings_and_loans_help_support_savings_help_support
+Text: Savings
+                                                                                Help & Support
+Text: Personal Checking and Loans
+Link: https://www.americanexpress.com/en-us/banking/checking-account/?eep=90021&inav=us_menu_banking_personal_checking_personal_checking
+Text: Personal
+                                                                                Checking
+Link: https://www.americanexpress.com/en-us/banking/online-checking/frequently-asked-questions/?eep=90021&inav=us_menu_banking_personal_checking_personal_checking_help
+Text: Personal
+                                                                                Checking Help
+Link: https://www.americanexpress.com/en-us/banking/personal-loans/?inav=us_menu_banking_personal_checking_and_loans_personal_loans
+Text: Personal
+                                                                                Loans
+Link: https://www.americanexpress.com/us/loans/personal-loans/faq.html?inav=us_menu_banking_personal_loans_personal_loans_help
+Text: Personal
+                                                                                Loans Help
+Text: Business Banking
+Link: https://www.americanexpress.com/en-us/business/checking/?inav=us_menu_banking_business_banking_business_checking
+Text: Business
+                                                                                Checking
+Link: https://www.americanexpress.com/en-us/business/blueprint/business-line-of-credit/?inav=us_menu_banking_business_loc
+Text: Business
+                                                                                Line of Credit
+Text: Travel
+Text: Book And Manage Travel
+Link: https://www.americanexpress.com/en-us/travel?inav=menu_nav_bookatrip
+Text: Book
+                                                                                a Trip
+Link: https://www.amextravel.com/featured-hotel-searches?inav=us_menu_travel_personal_travel_bookfhr
+Text: Book
+                                                                                Fine Hotels + Resorts®
+Link: https://hotel-booking.americanexpress.com/en-us/thc/welcome?inav=us_menu_travel_personal_travel_bookthc
+Text: Book
+                                                                                The Hotel Collection
+Link: https://www.americanexpress.com/en-us/travel/international-airline-program/?inav=us_menu_travel_personal_travel_bookiap
+Text: Book
+                                                                                International Airline Program
+Link: https://www.americanexpresscruise.com/promos/cruise?inav=us_menu_travel_book_cruise
+Text: Book
+                                                                                Cruise Privileges Program
+Link: https://www.americanexpress.com/en-us/travel/my-bookings/summary?intlink=mtsi-US-managemybookings-online-iNav-prod-int&inav=us_menu_travel_pt_pbss
+Text: Manage
+                                                                                My Trips
+Text: Travel Inspiration
+Link: https://www.americanexpress.com/en-us/travel/cardmember-benefits/?inav=us_menu_travel_travel_inspiration_view_travel_programs_and_benefits
+Text: View
+                                                                                Travel Programs and Benefits
+Link: https://www.americanexpress.com/en-us/travel/get-inspired/?inav=us_menu_travel_travel_inspiration_luxury_travel_trends
+Text: Luxury
+                                                                                Travel Trends
+Link: https://www.americanexpress.com/en-us/travel/cruises-and-custom-vacations/?inav=us_menu_travel_travel_inspiration_cruises_and_custom_vacations
+Text: Cruises
+                                                                                and Custom Vacations
+Text: Business Travel
+Link: https://www.amexglobalbusinesstravel.com/?inav=us_menu_travel_business_travel_gbt
+Text: Global
+                                                                                Business Travel Solutions
+Text: Services and Support
+Link: https://aeti.americanexpress.com/travel-insurance/home.do?inav=us_menu_travel_services_and_support_puchase_travel_or_car_rental_insurance
+Text: Purchase
+                                                                                Travel or Car Rental
+                                                                                Insurance
+Link: https://www.americanexpress.com/en-us/travel/how-to-pay-with-points/?inav=us_menu_travel_support_how_to_book_a_trip_with_points
+Text: How
+                                                                                to Book a Trip with Points
+Link: https://www.americanexpress.com/us/travel/travelers-cheques/?inav=us_menu_travel_support_how_to_redeem_travelers_cheques
+Text: How
+                                                                                to Redeem Travelers Cheques
+Link: https://www.americanexpress.com/en-us/travel/help-center/?inav=menu_travel_help_center
+Text: Travel
+                                                                                Help Center
+Link: https://www.americanexpress.com/us/credit-cards/features-benefits/policies/global-assist-terms.html?inav=menu_travel_global_assist
+Text: Global
+                                                                                Assist Hotline
+Text: Rewards & Benefits
+Text: Rewards
+Link: https://www.americanexpress.com/en-us/benefits/rewards/membership-rewards/?inav=us_menu_rewards_benefits_rewards_membership_rewards
+Text: Membership
+                                                                                Rewards® Program
+Link: https://www.americanexpress.com/en-us/benefits/cashback/?inav=us_menu_rewards_benefits_rewards_cash_back
+Text: Cash
+                                                                                back
+Link: https://www.americanexpress.com/en-us/referral?id=201279&intlink=US-MGM-Nav&inav=us_menu_rewards_benefits_rewards_refer_a_friend
+Text: Refer
+                                                                                a Friend
+Text: Benefits and Offers
+Link: https://www.americanexpress.com/en-us/benefits/?inav=us_menu_rewards_benefits_benefits_view_all_benefits
+Text: View
+                                                                                All Benefits
+Link: https://www.americanexpress.com/en-us/benefits/travel/resources/?inav=us_menu_rewards_benefits_benefits_travel
+Text: Travel
+Link: https://www.americanexpress.com/en-us/benefits/offers/?inav=us_menu_rewards_benefits_benefits_offers
+Text: Amex
+                                                                                Offers
+Link: https://global.americanexpress.com/entertainment/home?inav=us_menu_rewards_benefits_benefits_entertainment_events
+Text: Entertainment
+                                                                                and Events
+Link: https://www.americanexpress.com/us/security-center/?inav=us_menu_rewards_benefits_benefits_security
+Text: Security
+Text: Manage Membership
+Link: https://global.americanexpress.com/rewards?inav=us_menu_rewards_benefits_manage_membership_dashboard
+Text: Dashboard
+Link: https://global.americanexpress.com/rewards/summary?inav=us_menu_rewards_benefits_manage_membership_rewards_summary
+Text: Rewards
+                                                                                Summary
+Link: https://global.americanexpress.com/rewards/calculator?inav=us_menu_rewards_benefits_manage_membership_points_value_calculator
+Text: Points
+                                                                                Value Calculator
+Link: https://global.americanexpress.com/rewards/points-for-charges?inav=us_menu_rewards_benefits_manage_membership_cover_card_charges
+Text: Cover
+                                                                                Card Charges
+Link: https://global.americanexpress.com/rewards/pay-with-points?inav=us_menu_rewards_benefits_manage_membership_pay_with_points
+Text: Pay
+                                                                                with Points
+Link: https://global.americanexpress.com/rewards/gift-cards?inav=us_menu_rewards_benefits_manage_membership_redeem_points_gift_cards
+Text: Redeem
+                                                                                points for Gift Cards
+Text: Support
+Link: https://www.americanexpress.com/us/customer-service/faq.benefits-rewards-and-offers.find-add-amex-offers.html?inav=us_menu_rewards_benefits_support_how_do_i_find_and_add_offers_to_my_card
+Text: How
+                                                                                do I find and add Amex Offers to my
+                                                                                Card?
+Link: https://www.americanexpress.com/us/customer-service/benefits-rewards-and-offers/?inav=us_menu_rewards_benefits_support_view_all_faqs
+Text: View
+                                                                                all FAQs
+Text: Business
+Text: Business Services
+Link: https://www.americanexpress.com/us/credit-cards/business/?inav=menu_business_business_solutions
+Text: Business
+                                                                                Services Home
+Link: https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/?inav=menu_business_business_credit_cards
+Text: View
+                                                                                All Business Credit Cards
+Link: https://www.americanexpress.com/us/credit-cards/business/corporate-credit-cards/?inav=menu_business_corporate_credit_cards
+Text: View
+                                                                                All Corporate Cards and
+                                                                                Programs
+Link: https://www.americanexpress.com/en-us/business/corporate/benefits/?inav=us_menu_business_business_solutions_view_corporate_benefits
+Text: View
+                                                                                All Corporate Benefits
+Link: https://www.americanexpress.com/en-us/business/trends-and-insights/?inav=menu_business_trends_and_insights
+Text: Business
+                                                                                Class: Trends & Insights
+Text: Checking & Payment Products
+Link: https://www.americanexpress.com/en-us/business/checking/?inav=menu_business_checking_payment_products_business_checking
+Text: Business
+                                                                                Checking
+Link: https://www.americanexpress.com/en-us/business/payments/vpayment/?inav=menu_business_vpay
+Text: vPayment
+Link: https://www.americanexpress.com/en-us/business/global-pay/?inav=us_menu_business_checking_payment_products_international_payments
+Text: International
+                                                                                Payments
+Link: https://www.americanexpress.com/en-us/business/payment-solutions/?inav=us_menu_business_checking_payment_products_view_all_payment_solutions
+Text: View
+                                                                                All Payment Solutions
+Text: Funding Products
+Link: https://www.americanexpress.com/en-us/business/blueprint/business-line-of-credit/?inav=us_menu_business_funding_products_loc
+Text: Business
+                                                                                Line of Credit
+Text: Merchant Services
+Link: https://www.americanexpress.com/us/merchant/merchant-home.html?inav=menu_business_merchhome
+Text: Merchant
+                                                                                Home
+Link: https://www.americanexpress.com/us/merchant/accept-the-card.html?inav=menu_business_merchant_account
+Text: Accept
+                                                                                the Card
+Link: https://www.americanexpress.com/us/merchant/payment-processing.html?inav=menu_business_merchant_services_merchant_payment_solutions
+Text: Merchant
+                                                                                Payment Solutions
+Link: https://www.americanexpress.com/us/merchant/support-center.html?inav=menu_business_merchsupport
+Text: Get
+                                                                                Support
+Link: https://global.americanexpress.com/en-us/help?inav=iNUtlContact
+Text: Help
+Text: United
+                                                    States
+Link: https://www.americanexpress.com/change-country/?inav=iNavUtilChangeCountry
+Text: Change
+                                                        Country
+Text: My Account
+Text: Card Accounts
+Link: https://online.americanexpress.com/myca/gce/us/action/home?request_type=un_Register&Face=en_US#/&inav=menu_myacct_create_online_account
+Text: Create
+                                                                                                Your Online
+                                                                                                Account
+Link: https://global.americanexpress.com/dashboard?inav=menu_myacct_acctsum
+Text: Account
+                                                                                                Home
+Link: https://online.americanexpress.com/myca/gce/us/action/home?request_type=un_Activation&Face=en_US#/&inav=menu_myacct_confirm_card
+Text: Confirm
+                                                                                                Your Card
+Link: https://global.americanexpress.com/activity?inav=us_menu_myacct_card_accounts_statements_activity
+Text: Statements
+                                                                                                &
+                                                                                                Activity
+Link: https://global.americanexpress.com/account-management?inav=us_menu_myacct_card_accounts_account_services
+Text: Account
+                                                                                                Services
+Link: https://global.americanexpress.com/card-benefits/view-all?inav=menu_myacct_cardbenefits
+Text: Card
+                                                                                                Benefits
+Text: Business Accounts
+Link: https://global.americanexpress.com/dashboard?inav=menu_myacct_smallbusiness
+Text: Small
+                                                                                                Business
+Link: https://www.americanexpress.com/us/merchant/merchant-home.html?inav=menu_myacct_merchantsolutions
+Text: Merchant
+                                                                                                Home
+Link: https://www347.americanexpress.com/ATWORK/en_US/atwork.do?pageAction=initialize&inav=menu_myacct_atwork
+Text: American
+                                                                                                Express @Work
+Text: Other Accounts and Payments
+Link: https://www.americanexpress.com/en-us/banking/personal/savings/dashboard/?inav=us_menu_my_account_other_accounts_savings_accounts
+Text: Savings
+                                                                                                Accounts
+Link: https://www.americanexpress.com/us/services/amex-peer-to-peer/send-and-split/?inav=menu_myacct_sendandsplit
+Text: Send
+                                                                                                Money & Split
+                                                                                                Purchases: Venmo and
+                                                                                                PayPal
+Link: https://global.americanexpress.com/rewards/summary?inav=menu_myacct_mrpointsum
+Text: Membership
+                                                                                                Rewards® Point
+                                                                                                Summary
+Text: Tools and Support
+Link: https://www.americanexpress.com/en-us/banking/wealth/spendsmart/?inav=us_menu_my_account_tools_and_support_financial_tools
+Text: Financial
+                                                                                                Tools
+Link: https://www.americanexpress.com/us/credit-cards/features-benefits/free-credit-score/?inav=us_menu_myacct_credit_tools_support_fico_score_insights
+Text: FICO®
+                                                                                                Score and
+                                                                                                Insights
+Link: https://www.americanexpress.com/en-us/benefits/creditsecure/?inav=menu_myacct_creditsecure
+Text: CreditSecure®
+Link: https://www.americanexpress.com/en-us/account/password/recover?inav=menu_myacct_forgot_user_id
+Text: Forgot
+                                                                                                User ID or
+                                                                                                Password?
+Link: https://www.americanexpress.com/us/security-center/?inav=menu_myacct_security_center
+Text: Security
+                                                                                                Center
+Text: Cards
+Text: Personal Cards
+Link: https://www.americanexpress.com/us/credit-cards/?inav=menu_cards_pc_viewallcards
+Text: View
+                                                                                                All Credit
+                                                                                                Cards
+Link: https://www.americanexpress.com/us/credit-cards/check-for-offers/?inav=us_menu_cards_pc_check_for_offers
+Text: Interested
+                                                                                                in Amex? See if You’re
+                                                                                                Pre-Qualified
+Link: https://www.americanexpress.com/us/credit-cards/category/travel-rewards/?inav=menu_cards_pc_travelrewardscards
+Text: Travel
+                                                                                                Credit Cards
+Link: https://www.americanexpress.com/us/credit-cards/category/cash-back/?inav=menu_cards_pc_cashbackcards
+Text: Cash
+                                                                                                Back Credit
+                                                                                                Cards
+Link: https://www.americanexpress.com/us/credit-cards/category/no-annual-fee/?inav=menu_cards_pc_noannual_fee
+Text: No
+                                                                                                Annual Fee Credit
+                                                                                                Cards
+Link: https://www.americanexpress.com/en-us/credit-cards/credit-intel/?inav=menu_cards_pc_credit_intel_credit_resource_center
+Text: Credit
+                                                                                                Intel – Financial
+                                                                                                Education
+                                                                                                Center
+Text: Business Credit Cards
+Link: https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/?inav=us_menu_cards_business_credit_cards_view_all_business_credit_cards
+Text: View
+                                                                                                All Business Credit
+                                                                                                Cards
+Link: https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/compare-credit-cards/best-business-credit-cards/?inav=menu_cards_sbc_best_business_credit_cards
+Text: Most
+                                                                                                Popular Business Credit
+                                                                                                Cards
+Link: https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/compare-credit-cards/compare-travel-rewards-credit-cards/?inav=us_menu_cards_business_credit_cards_travel_business_credit_cards
+Text: Travel
+                                                                                                Business Credit
+                                                                                                Cards
+Link: https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/compare-credit-cards/compare-no-annual-fee-credit-cards/?inav=us_menu_cards_business_credit_cards_no_annual_fee_business_credit_cards
+Text: No
+                                                                                                Annual Fee Business
+                                                                                                Credit Cards
+Link: https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/compare-credit-cards/compare-flexible-payment-credit-cards/?inav=us_menu_cards_business_credit_cards_flexible_payment_business_credit_cards
+Text: Flexible
+                                                                                                Payment Business Credit
+                                                                                                Cards
+Text: Corporate Programs
+Link: https://www.americanexpress.com/us/credit-cards/business/corporate-credit-cards/?inav=menu_cards_cs_corporate_credit_cards
+Text: View
+                                                                                                All Corporate Cards and
+                                                                                                Programs
+Link: https://www.americanexpress.com/en-us/business/corporate/benefits/?inav=us_menu_cards_corporate_programs_view_corporate_benefits
+Text: View
+                                                                                                All Corporate
+                                                                                                Benefits
+Link: https://www.americanexpress.com/us/credit-cards/business/corporate-credit-cards/american-express-corporate-green-card-amex/?inav=us_menu_cards_corporate_programs_corporate_green_card
+Text: Corporate
+                                                                                                Green Card
+Link: https://www.americanexpress.com/us/credit-cards/business/corporate-credit-cards/american-express-platinum-corporate-card/?inav=us_menu_cards_corporate_programs_corporate_platinum_card
+Text: Corporate
+                                                                                                Platinum Card
+Link: https://www.americanexpress.com/us/credit-cards/business/corporate-credit-cards/corporate-p-card/?inav=us_menu_cards_corporate_programs_corporate_purchasing_card
+Text: Corporate
+                                                                                                Purchasing
+                                                                                                Card
+Link: https://www.americanexpress.com/us/credit-cards/gcpadvantage/login/?eep=36021&channel=axpsite&intlink=us-CPS-PCACheader&inav=menu_cards_cs_personal_card_annual
+Text: Personal
+                                                                                                Card Annual
+                                                                                                Credit
+Text: Prepaid Cards
+Link: https://www.americanexpress.com/en-us/prepaid/view-all-cards/?inav=us_menu_cards_prepaid_cards_view_all
+Text: View
+                                                                                                All Prepaid & Gift
+                                                                                                Cards
+Text: Banking
+Text: Personal Savings
+Link: https://www.americanexpress.com/en-us/banking/online-savings/account/?extlink=ps2020=GIN-HO-H&inav=us_menu_savings_and_loans_savings_accounts_view_all_savings_products
+Text: View
+                                                                                                All Savings
+                                                                                                Products
+Link: https://www.americanexpress.com/en-us/banking/online-savings/high-yield-savings/?extlink=ps2020=GIN-HY-H&inav=us_menu_savings_and_loans_savings_accounts_high_yeld_savings
+Text: High
+                                                                                                Yield Savings
+                                                                                                (HYSA)
+Link: https://www.americanexpress.com/en-us/banking/online-savings/cd/?extlink=ps2020=GIN-CD-H&inav=us_menu_savings_and_loans_savings_accounts_cd
+Text: Certificates
+                                                                                                of Deposit
+                                                                                                (CD)
+Link: https://www.americanexpress.com/en-us/banking/online-savings/support/?extlink=ps2020=GIN-HS-H&inav=us_menu_savings_and_loans_help_support_savings_help_support
+Text: Savings
+                                                                                                Help &
+                                                                                                Support
+Text: Personal Checking and Loans
+Link: https://www.americanexpress.com/en-us/banking/checking-account/?eep=90021&inav=us_menu_banking_personal_checking_personal_checking
+Text: Personal
+                                                                                                Checking
+Link: https://www.americanexpress.com/en-us/banking/online-checking/frequently-asked-questions/?eep=90021&inav=us_menu_banking_personal_checking_personal_checking_help
+Text: Personal
+                                                                                                Checking Help
+Link: https://www.americanexpress.com/en-us/banking/personal-loans/?inav=us_menu_banking_personal_checking_and_loans_personal_loans
+Text: Personal
+                                                                                                Loans
+Link: https://www.americanexpress.com/us/loans/personal-loans/faq.html?inav=us_menu_banking_personal_loans_personal_loans_help
+Text: Personal
+                                                                                                Loans Help
+Text: Business Banking
+Link: https://www.americanexpress.com/en-us/business/checking/?inav=us_menu_banking_business_banking_business_checking
+Text: Business
+                                                                                                Checking
+Link: https://www.americanexpress.com/en-us/business/blueprint/business-line-of-credit/?inav=us_menu_banking_business_loc
+Text: Business
+                                                                                                Line of
+                                                                                                Credit
+Text: Travel
+Text: Book And Manage Travel
+Link: https://www.americanexpress.com/en-us/travel?inav=menu_nav_bookatrip
+Text: Book
+                                                                                                a Trip
+Link: https://www.amextravel.com/featured-hotel-searches?inav=us_menu_travel_personal_travel_bookfhr
+Text: Book
+                                                                                                Fine Hotels +
+                                                                                                Resorts®
+Link: https://hotel-booking.americanexpress.com/en-us/thc/welcome?inav=us_menu_travel_personal_travel_bookthc
+Text: Book
+                                                                                                The Hotel
+                                                                                                Collection
+Link: https://www.americanexpress.com/en-us/travel/international-airline-program/?inav=us_menu_travel_personal_travel_bookiap
+Text: Book
+                                                                                                International Airline
+                                                                                                Program
+Link: https://www.americanexpresscruise.com/promos/cruise?inav=us_menu_travel_book_cruise
+Text: Book
+                                                                                                Cruise Privileges
+                                                                                                Program
+Link: https://www.americanexpress.com/en-us/travel/my-bookings/summary?intlink=mtsi-US-managemybookings-online-iNav-prod-int&inav=us_menu_travel_pt_pbss
+Text: Manage
+                                                                                                My Trips
+Text: Travel Inspiration
+Link: https://www.americanexpress.com/en-us/travel/cardmember-benefits/?inav=us_menu_travel_travel_inspiration_view_travel_programs_and_benefits
+Text: View
+                                                                                                Travel Programs and
+                                                                                                Benefits
+Link: https://www.americanexpress.com/en-us/travel/get-inspired/?inav=us_menu_travel_travel_inspiration_luxury_travel_trends
+Text: Luxury
+                                                                                                Travel Trends
+Link: https://www.americanexpress.com/en-us/travel/cruises-and-custom-vacations/?inav=us_menu_travel_travel_inspiration_cruises_and_custom_vacations
+Text: Cruises
+                                                                                                and Custom
+                                                                                                Vacations
+Text: Business Travel
+Link: https://www.amexglobalbusinesstravel.com/?inav=us_menu_travel_business_travel_gbt
+Text: Global
+                                                                                                Business Travel
+                                                                                                Solutions
+Text: Services and Support
+Link: https://aeti.americanexpress.com/travel-insurance/home.do?inav=us_menu_travel_services_and_support_puchase_travel_or_car_rental_insurance
+Text: Purchase
+                                                                                                Travel or Car Rental
+                                                                                                Insurance
+Link: https://www.americanexpress.com/en-us/travel/how-to-pay-with-points/?inav=us_menu_travel_support_how_to_book_a_trip_with_points
+Text: How
+                                                                                                to Book a Trip with
+                                                                                                Points
+Link: https://www.americanexpress.com/us/travel/travelers-cheques/?inav=us_menu_travel_support_how_to_redeem_travelers_cheques
+Text: How
+                                                                                                to Redeem Travelers
+                                                                                                Cheques
+Link: https://www.americanexpress.com/en-us/travel/help-center/?inav=menu_travel_help_center
+Text: Travel
+                                                                                                Help Center
+Link: https://www.americanexpress.com/us/credit-cards/features-benefits/policies/global-assist-terms.html?inav=menu_travel_global_assist
+Text: Global
+                                                                                                Assist
+                                                                                                Hotline
+Text: Rewards & Benefits
+Text: Rewards
+Link: https://www.americanexpress.com/en-us/benefits/rewards/membership-rewards/?inav=us_menu_rewards_benefits_rewards_membership_rewards
+Text: Membership
+                                                                                                Rewards®
+                                                                                                Program
+Link: https://www.americanexpress.com/en-us/benefits/cashback/?inav=us_menu_rewards_benefits_rewards_cash_back
+Text: Cash
+                                                                                                back
+Link: https://www.americanexpress.com/en-us/referral?id=201279&intlink=US-MGM-Nav&inav=us_menu_rewards_benefits_rewards_refer_a_friend
+Text: Refer
+                                                                                                a Friend
+Text: Benefits and Offers
+Link: https://www.americanexpress.com/en-us/benefits/?inav=us_menu_rewards_benefits_benefits_view_all_benefits
+Text: View
+                                                                                                All Benefits
+Link: https://www.americanexpress.com/en-us/benefits/travel/resources/?inav=us_menu_rewards_benefits_benefits_travel
+Text: Travel
+Link: https://www.americanexpress.com/en-us/benefits/offers/?inav=us_menu_rewards_benefits_benefits_offers
+Text: Amex
+                                                                                                Offers
+Link: https://global.americanexpress.com/entertainment/home?inav=us_menu_rewards_benefits_benefits_entertainment_events
+Text: Entertainment
+                                                                                                and Events
+Link: https://www.americanexpress.com/us/security-center/?inav=us_menu_rewards_benefits_benefits_security
+Text: Security
+Text: Manage Membership
+Link: https://global.americanexpress.com/rewards?inav=us_menu_rewards_benefits_manage_membership_dashboard
+Text: Dashboard
+Link: https://global.americanexpress.com/rewards/summary?inav=us_menu_rewards_benefits_manage_membership_rewards_summary
+Text: Rewards
+                                                                                                Summary
+Link: https://global.americanexpress.com/rewards/calculator?inav=us_menu_rewards_benefits_manage_membership_points_value_calculator
+Text: Points
+                                                                                                Value
+                                                                                                Calculator
+Link: https://global.americanexpress.com/rewards/points-for-charges?inav=us_menu_rewards_benefits_manage_membership_cover_card_charges
+Text: Cover
+                                                                                                Card Charges
+Link: https://global.americanexpress.com/rewards/pay-with-points?inav=us_menu_rewards_benefits_manage_membership_pay_with_points
+Text: Pay
+                                                                                                with Points
+Link: https://global.americanexpress.com/rewards/gift-cards?inav=us_menu_rewards_benefits_manage_membership_redeem_points_gift_cards
+Text: Redeem
+                                                                                                points for Gift
+                                                                                                Cards
+Text: Support
+Link: https://www.americanexpress.com/us/customer-service/faq.benefits-rewards-and-offers.find-add-amex-offers.html?inav=us_menu_rewards_benefits_support_how_do_i_find_and_add_offers_to_my_card
+Text: How
+                                                                                                do I find and add Amex
+                                                                                                Offers to my
+                                                                                                Card?
+Link: https://www.americanexpress.com/us/customer-service/benefits-rewards-and-offers/?inav=us_menu_rewards_benefits_support_view_all_faqs
+Text: View
+                                                                                                all FAQs
+Text: Business
+Text: Business Services
+Link: https://www.americanexpress.com/us/credit-cards/business/?inav=menu_business_business_solutions
+Text: Business
+                                                                                                Services Home
+Link: https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/?inav=menu_business_business_credit_cards
+Text: View
+                                                                                                All Business Credit
+                                                                                                Cards
+Link: https://www.americanexpress.com/us/credit-cards/business/corporate-credit-cards/?inav=menu_business_corporate_credit_cards
+Text: View
+                                                                                                All Corporate Cards and
+                                                                                                Programs
+Link: https://www.americanexpress.com/en-us/business/corporate/benefits/?inav=us_menu_business_business_solutions_view_corporate_benefits
+Text: View
+                                                                                                All Corporate
+                                                                                                Benefits
+Link: https://www.americanexpress.com/en-us/business/trends-and-insights/?inav=menu_business_trends_and_insights
+Text: Business
+                                                                                                Class: Trends &
+                                                                                                Insights
+Text: Checking & Payment Products
+Link: https://www.americanexpress.com/en-us/business/checking/?inav=menu_business_checking_payment_products_business_checking
+Text: Business
+                                                                                                Checking
+Link: https://www.americanexpress.com/en-us/business/payments/vpayment/?inav=menu_business_vpay
+Text: vPayment
+Link: https://www.americanexpress.com/en-us/business/global-pay/?inav=us_menu_business_checking_payment_products_international_payments
+Text: International
+                                                                                                Payments
+Link: https://www.americanexpress.com/en-us/business/payment-solutions/?inav=us_menu_business_checking_payment_products_view_all_payment_solutions
+Text: View
+                                                                                                All Payment
+                                                                                                Solutions
+Text: Funding Products
+Link: https://www.americanexpress.com/en-us/business/blueprint/business-line-of-credit/?inav=us_menu_business_funding_products_loc
+Text: Business
+                                                                                                Line of
+                                                                                                Credit
+Text: Merchant Services
+Link: https://www.americanexpress.com/us/merchant/merchant-home.html?inav=menu_business_merchhome
+Text: Merchant
+                                                                                                Home
+Link: https://www.americanexpress.com/us/merchant/accept-the-card.html?inav=menu_business_merchant_account
+Text: Accept
+                                                                                                the Card
+Link: https://www.americanexpress.com/us/merchant/payment-processing.html?inav=menu_business_merchant_services_merchant_payment_solutions
+Text: Merchant
+                                                                                                Payment
+                                                                                                Solutions
+Link: https://www.americanexpress.com/us/merchant/support-center.html?inav=menu_business_merchsupport
+Text: Get
+                                                                                                Support
+Text: United
+                                                                    States
+Link: https://www.americanexpress.com/change-country/?inav=iNavUtilChangeCountry
+Text: Change
+                                                                        Country
+Text: End Header
+Text: Start Main Container
+Text: Terms of
+                                                    Service
+Text: (formerly known as Rules, Regulations and Disclaimers)
+Text: Last Modified: March 1, 2019
+Text: American Express Company, its subsidiaries and affiliates ("American
+                                            Express", “we”, “our”) requires that all visitors to our website(s),
+                                            mobile application(s) or other digital properties and services (each, a
+                                            "Site") adhere to the following rules and regulations. By accessing a
+                                            Site you indicate your acknowledgment and agreement to these terms and
+                                            conditions.
+Text: 1. LAWS AND REGULATIONS
+Text: User access to and use of any Site is subject to all applicable
+                                            international, federal, state and local laws and regulations.
+Text: 2. COPYRIGHT/TRADEMARKS
+Text: The trademarks, logos and service marks ("Marks") displayed on the Sites
+                                            are the property of American Express and other parties. Users are
+                                            prohibited from using any Marks for any purpose including, but not
+                                            limited to use as metatags on other pages, websites or digital
+                                            properties without the written permission of American Express or such
+                                            third party which may own the Marks. All information and content
+                                            including any software programs available on or through a Site
+                                            ("Content") is protected by copyright. Users are prohibited from
+                                            modifying, copying, distributing, transmitting, displaying, publishing,
+                                            selling, licensing, creating derivative works or using any Content
+                                            available on or through a Site for commercial or public purposes.
+Text: 3. HYPERLINKING TO OTHER WEBSITES
+Text: THE SITES MAY PROVIDE LINKS TO OTHER WEBSITES OR DIGITAL PROPERTIES TO
+                                            ACCESS THIRD-PARTY MATERIAL OR BY BRINGING THE THIRD-PARTY MATERIAL INTO
+                                            A SITE VIA "INVERSE" HYPERLINKS AND FRAMING TECHNOLOGY (A "LINKED
+                                            SITE"). AMERICAN EXPRESS HAS NO DISCRETION TO ALTER, UPDATE, OR CONTROL
+                                            THE CONTENT ON A LINKED SITE. THE FACT THAT AMERICAN EXPRESS HAS
+                                            PROVIDED A LINK TO A SITE IS NOT AN ENDORSEMENT, AUTHORIZATION,
+                                            SPONSORSHIP, OR AFFILIATION WITH RESPECT TO SUCH LINKED SITE, ITS
+                                            OWNERS, OR ITS PROVIDERS. THERE ARE INHERENT RISKS IN RELYING UPON
+                                            USING, OR RETRIEVING ANY INFORMATION FOUND ON THE INTERNET, AND AMERICAN
+                                            EXPRESS URGES YOU TO MAKE SURE YOU UNDERSTAND THESE RISKS BEFORE RELYING
+                                            UPON, USING, OR RETRIEVING ANY SUCH INFORMATION ON A LINKED SITE.
+Text: 4. NO WARRANTIES
+Text: ALL CONTENT, PRODUCTS, AND SERVICES ON THE SITES, OR OBTAINED FROM A
+                                            LINKED SITE, ARE PROVIDED TO YOU "AS IS" WITHOUT WARRANTY OF ANY KIND
+                                            EITHER EXPRESS OR IMPLIED INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+                                            WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE,
+                                            TITLE, NON-INFRINGEMENT, SECURITY OR ACCURACY.
+Text: AMERICAN EXPRESS DOES NOT ENDORSE AND IS NOT RESPONSIBLE FOR (A) THE
+                                            ACCURACY OR RELIABILITY OF ANY OPINION, ADVICE OR STATEMENT MADE THROUGH
+                                            A SITE BY ANY PARTY OTHER THAN AMERICAN EXPRESS, (B) ANY CONTENT
+                                            PROVIDED ON LINKED SITES OR (C) THE CAPABILITIES OR RELIABILITY OF ANY
+                                            PRODUCT OR SERVICE OBTAINED FROM A LINKED SITE.
+Text: OTHER THAN AS REQUIRED UNDER APPLICABLE CONSUMER PROTECTION LAW, UNDER NO
+                                            CIRCUMSTANCE WILL AMERICAN EXPRESS BE LIABLE FOR ANY LOSS OR DAMAGE
+                                            CAUSED BY A USER'S RELIANCE ON INFORMATION OBTAINED THROUGH A SITE OR A
+                                            LINKED SITE, OR USER'S RELIANCE ON ANY PRODUCT OR SERVICE OBTAINED FROM
+                                            A LINKED SITE. IT IS THE RESPONSIBILITY OF THE USER TO EVALUATE THE
+                                            ACCURACY, COMPLETENESS OR USEFULNESS OF ANY OPINION, ADVICE OR OTHER
+                                            CONTENT AVAILABLE THROUGH THE SITE, OR OBTAINED FROM A LINKED SITE.
+                                            PLEASE SEEK THE ADVICE OF PROFESSIONALS, AS APPROPRIATE, REGARDING THE
+                                            EVALUATION OF ANY SPECIFIC OPINION, ADVICE, PRODUCT, SERVICE, OR OTHER
+                                            CONTENT.
+Text: 5. LIMITATION OF LIABILITY FOR USE OF THE SITE AND LINKED SITES
+Text: THE INFORMATION, SOFTWARE, PRODUCTS AND DESCRIPTIONS OF SERVICES
+                                            PUBLISHED ON A SITE OR A LINKED SITE MAY INCLUDE INACCURACIES OR
+                                            TYPOGRAPHICAL ERRORS, AND AMERICAN EXPRESS SPECIFICALLY DISCLAIMS ANY
+                                            LIABILITY FOR SUCH INACCURACIES OR ERRORS. AMERICAN EXPRESS DOES NOT
+                                            WARRANT OR REPRESENT THAT THE CONTENT ON ITS SITES IS COMPLETE OR
+                                            UP-TO-DATE. AMERICAN EXPRESS IS UNDER NO OBLIGATION TO UPDATE ANY
+                                            CONTENT ON ITS SITES. AMERICAN EXPRESS MAY CHANGE THE CONTENT ON ITS
+                                            SITES AT ANY TIME WITHOUT NOTICE. AMERICAN EXPRESS MAY MAKE IMPROVEMENTS
+                                            OR CHANGES TO ITS SITES AT ANY TIME.
+Text: YOU AGREE THAT AMERICAN EXPRESS, ITS AFFILIATES AND ANY OF THEIR
+                                            RESPECTIVE OFFICERS, DIRECTORS, EMPLOYEES, OR AGENTS WILL NOT BE LIABLE,
+                                            WHETHER IN CONTRACT, TORT, STRICT LIABILITY OR OTHERWISE, FOR ANY
+                                            DIRECT, PUNITIVE, SPECIAL, CONSEQUENTIAL, INCIDENTAL OR INDIRECT DAMAGES
+                                            (INCLUDING WITHOUT LIMITATION LOST PROFITS, COST OF PROCURING SUBSTITUTE
+                                            SERVICE OR LOST OPPORTUNITY) ARISING OUT OF OR IN CONNECTION WITH THE
+                                            USE OF ITS SITES OR A LINKED SITE, OR WITH THE DELAY OR INABILITY TO USE
+                                            ITS SITES OR A LINKED SITE, EVEN IF AMERICAN EXPRESS IS MADE AWARE OF
+                                            THE POSSIBILITY OF SUCH DAMAGES. THIS LIMITATION ON LIABILITY INCLUDES,
+                                            BUT IS NOT LIMITED TO, THE TRANSMISSION OF ANY VIRUSES WHICH MAY INFECT
+                                            A USER'S EQUIPMENT, FAILURE OF MECHANICAL OR ELECTRONIC EQUIPMENT OR
+                                            COMMUNICATION LINES, TELEPHONE OR OTHER INTERCONNECT PROBLEMS (e.g., YOU
+                                            CANNOT ACCESS YOUR INTERNET SERVICE PROVIDER), UNAUTHORIZED ACCESS,
+                                            THEFT, OPERATOR ERRORS, STRIKES OR OTHER LABOR PROBLEMS OR ANY FORCE
+                                            MAJEURE. AMERICAN EXPRESS CANNOT AND DOES NOT GUARANTEE CONTINUOUS,
+                                            UNINTERRUPTED OR SECURE ACCESS TO ITS SITES.
+Text: 6. LIMITATION OF LIABILITY FOR SERVICES ARRANGED THROUGH THE SITES
+Text: YOU AGREE THAT AMERICAN EXPRESS IS A MERE AGENT FOR THE PROVIDERS OF
+                                            SERVICES AVAILABLE THROUGH THE SITES, INCLUDING BUT NOT LIMITED TO
+                                            TRAVEL SERVICES. ANY AND ALL CLAIMS REGARDING ANY FAILURE OR BREACH WITH
+                                            RESPECT TO THE SERVICES OFFERED THROUGH THE SITES ARE LIMITED TO CLAIMS
+                                            AGAINST ANY AND ALL SERVICE PROVIDERS. AMERICAN EXPRESS HEREBY DISCLAIMS
+                                            ANY LIABILITY, WHETHER BASED ON CONTRACT, TORT, STRICT LIABILITY OR
+                                            OTHERWISE, INCLUDING WITHOUT LIMITATION LIABILITY FOR ANY DIRECT,
+                                            PUNITIVE, SPECIAL, CONSEQUENTIAL, INCIDENTAL OUR INDIRECT DAMAGES, IN
+                                            CONNECTION WITH THE GOODS OR SERVICES PROVIDED BY ANY CARRIER OR OTHER
+                                            SUPPLIER THROUGH THE SITES, INCLUDING WITHOUT LIMITATION LIABILITY FOR
+                                            ANY ACT, ERROR, OMISSION, INJURY, LOSS, ACCIDENT, DELAY OR IRREGULARITY
+                                            WHICH MAY BE INCURRED THROUGH THE FAULT, NEGLIGENT OR OTHERWISE, OF SUCH
+                                            CARRIER OR SUPPLIER AND YOU HEREBY EXONERATE AMERICAN EXPRESS FROM ANY
+                                            LIABILITY WITH RESPECT TO THE SAME.
+Text: 7. CONFIDENTIALITY OF USER COMMUNICATIONS
+Text: Except as required by law and in accordance with the American Express
+                                            Internet Privacy Statement, [
+Link: https://www.americanexpress.com/us/content/legal-disclosures/online-privacy-statement.html
+Text: view American Express Internet Privacy
+                                                Statement
+Text: ]. American Express will maintain the confidentiality
+                                            of all user communications which contain personal user information and
+                                            which are transmitted directly to American Express. Postings by a user
+                                            on any message board or in any chat room will not be protected as
+                                            confidential and American Express may use and provide information
+                                            contained in any such postings (including any ideas, concepts, know-how
+                                            or other intellectual property) to any of its parent company,
+                                            subsidiaries and affiliates for any purpose whatsoever and as deemed
+                                            appropriate by American Express.
+Text: User should be aware that Linked Sites may contain confidentiality
+                                            provisions that differ from the provisions provided herein. American
+                                            Express is not responsible for such provisions, and expressly disclaims
+                                            any and all liability related to such provisions.
+Text: 8. YOUR CONTACT WITH ADVERTISERS
+Text: Your dealings or correspondence with, or participation in promotions of,
+                                            advertisers found on or through its Sites (including, without
+                                            limitation, payment and delivery of related products or services, and
+                                            any other terms, conditions, representations or warranties associated
+                                            with such dealings or correspondence) are solely between you and such
+                                            advertisers. American Express makes no representations or warranties
+                                            with respect to any advertising content of, or any products or services
+                                            that may be obtained from, such advertisers. You agree that American
+                                            Express will not be responsible or liable with respect to any loss or
+                                            damage of any kind incurred as a result of: (a) any such dealings or
+                                            correspondence between you and such advertisers, (b) content, products
+                                            or services of such advertisers, or (c) the presence of such advertisers
+                                            on a Site.
+Text: 9. LINKED INTERNET SITES
+Text: American Express prohibits caching, unauthorized hypertext links to the
+                                            Sites and the framing of any Content available through its Sites.
+                                            American Express reserves the right to disable any unauthorized links or
+                                            frames and specifically disclaims any responsibility for the Content
+                                            available on any other  websites or digital properties linked to a
+                                            Site. Access to any other Internet sites linked to a Site is at the
+                                            user's own risk.
+Text: User should be aware that Linked Sites may contain rules and regulations,
+                                            privacy provisions, confidentiality provisions, transmission of personal
+                                            data provisions, and other provisions that differ from the provisions
+                                            provided on the Site. American Express is not responsible for such
+                                            provisions, and expressly disclaims any and all liability related to
+                                            such provisions.
+Text: UNLESS OTHERWISE STATED, ALL USE OF LINKED SITES IS GOVERNED BY THE
+                                                LINKED SITE’S TERMS AND CONDITIONS AND SUBJECT TO ITS PRIVACY AND
+                                                SECURITY POLICIES AND PRACTICES.
+Text: 10. NO INVESTMENT ADVICE OR OFFERS
+Text: Nothing in the Sites constitutes investment advice, including American
+                                            Express' filings with the Securities and Exchange Commission. American
+                                            Express provides investor relations materials for convenience and
+                                            information only. In addition, investor relations materials and other
+                                            Site content are not offers to sell or solicitation of an offer to buy
+                                            any security.
+Text: 11. FORWARD LOOKING INFORMATION
+Text: Certain information on the Sites contains certain forward-looking
+                                            statements, which are subject to risks and uncertainties and speak only
+                                            as of the date on which they are made. The words "believe", "expect",
+                                            "anticipate", "optimistic", "intend", "aim", "will" or similar
+                                            expressions are intended to identify forward-looking statements. Readers
+                                            are cautioned not to place undue reliance on these forward-looking
+                                            statements, which speak only as of the date on which they are made.
+                                            American Express undertakes no obligation to update publicly or revise
+                                            any forward-looking statements. Important factors that could cause
+                                            actual results to differ materially from the company's forward-looking
+                                            statements are described in American Express' periodic reports,
+                                            including the Annual Report on Form 10-K, quarterly reports on Form 10-Q
+                                            filed with the Securities and Exchange Commission and the Annual Report
+                                            to Shareholders. Please click here to view such factors contained in
+                                            American Express' latest Form 10-K.
+Text: 12. PRESS RELEASES
+Text: All press releases and other materials presented or released to the
+                                            financial community that are contained on the Sites were, to the best of
+                                            American Express' knowledge, timely and accurate when issued. However,
+                                            the passage of time can render information stale, and you should not
+                                            rely on the continued accuracy of any such material beyond the date of
+                                            issuance. American Express has no responsibility to update any
+                                            information contained in any such material. All viewers should carefully
+                                            check the dates of issuance of the material contained in the Sites.
+Text: 13. POSTINGS
+Text: American Express is under no obligation to review any messages,
+                                            information or content ("Postings") posted on the Sites by users and
+                                            assumes no responsibility or liability relating to any such Postings.
+                                            Notwithstanding the above, American Express may from time to time
+                                            monitor the Postings on the Sites and may decline to accept and/or
+                                            remove any Postings that contain:
+Text: Any unlawful, harmful, threatening, abusive, harassing, defamatory,
+                                                vulgar, obscene, profane, hateful, racially, ethnically or otherwise
+                                                objectionable material of any kind, including, but not limited to,
+                                                any material which encourages conduct that would constitute a
+                                                criminal offense, give rise to civil liability or otherwise violate
+                                                any applicable local, state, national or international law.
+Text: Advertisements or solicitations of any kind. [Note - This is not
+                                                applicable for those Sites with message boards containing classified
+                                                advertisements.]
+Text: Messages posted by users impersonating others.
+Text: Personal information such as messages which state phone numbers,
+                                                social security numbers, account numbers, addresses, or employer
+                                                references.
+Text: Messages by non-spokesperson employees of American Express
+                                                purporting to speak on behalf of American Express or containing
+                                                confidential information or expressing opinions concerning American
+                                                Express.
+Text: Messages that offer unauthorized downloads of any copyrighted or
+                                                private information.
+Text: Multiple messages placed within individual folders by the same user
+                                                restating the same point.
+Text: Chain letters of any kind.
+Text: 14. TRANSMISSION OF PERSONAL DATA
+Text: User acknowledges and agrees that by providing American Express with any
+                                            personal or proprietary user information through the Sites, user
+                                            consents to the transmission of such personal or proprietary user
+                                            information over international borders as necessary for processing in
+                                            accordance with American Express' standard business practices.
+Text: User should be aware that Linked Sites may contain transmission of
+                                            personal data provisions that differ from the provisions provided
+                                            herein. American Express is not responsible for such provisions, and
+                                            expressly disclaims any and all liability related to such provisions.
+Link: https://www.americanexpress.com/us/content/legal-disclosures/online-privacy-statement.html
+Text: View American Express Internet Privacy Statement.
+Text: 15. CHANGES TO THESE TERMS OF SERVICE
+Text: American Express reserves the right to revise these Terms of Service at
+                                            any time and users are deemed to be apprised of and bound by any changes
+                                            to these Terms of Service. American Express will indicate that changes
+                                            to these Terms of Service have been made by updating the date indicated
+                                            after "Last Modified" at the end of these Terms of Service. Your
+                                            continued use of the Sites after that date constitutes your agreement to
+                                            the revised modified Terms of Service.
+Text: 16. VIOLATIONS OF RULES AND REGULATIONS
+Text: American Express reserves the right to seek all remedies available at law
+                                            and in equity for violations of these Terms of Service, including the
+                                            right to block access from a particular Internet address or user to a
+                                            Site.
+Text: 17. ACCESS TO PASSWORD PROTECTED/SECURE AREAS
+Text: Access to and use of password protected and/or secure areas of the Sites
+                                            is restricted to authorized users only. Unauthorized individuals
+                                            attempting to access these areas of the Sites may be subject to
+                                            prosecution.
+Text: 18. USE OF "COOKIE" FILE FEATURES
+Text: American Express reserves the right to store information on a user's
+                                            computer in the form of a "cookie" or similar file for purposes of
+                                            modifying our Sites to reflect users' preferences. The American Express
+                                            Internet Privacy Statement provides additional information regarding
+                                            American Express' use of cookies as well as procedures for disabling
+                                            cookies.
+Link: http://www.americanexpress.com/us/content/cookies.html
+Text: View American Express Internet Privacy Statement,
+                                                "about Cookies".
+Text: 19. DIGITAL MILLENNIUM COPYRIGHT ACT - NOTIFICATION TO AMERICAN
+                                                EXPRESS REGARDING ALLEGED COPYRIGHT INFRINGEMENT
+Text: American Express has registered an agent with the United States Copyright
+                                            Office in accordance with the terms of the Digital Millennium Copyright
+                                            Act (the "Act") and avails itself of the protections under the Act.
+                                            American Express reserves the right to remove any Content on the Site
+                                            which allegedly infringes another person's copyright. Notices to
+                                            American Express regarding any alleged copyright infringement on the
+                                            Site should be directed to American Express' General Counsel's
+                                            Organization Attn.: Technology Counsel at dmca@aexp.com.
+Text: 20. JURISDICTION/GOVERNING LAW
+Text: Users of this Sites agree to submit to the laws of the State of New York,
+                                            USA and applicable federal law without regard to conflicts of laws
+                                            principles.
+Text: 21. TRAVEL RELATED SERVICES
+Text: Please be aware that additional notices, terms and conditions regarding
+                                            travel related services, products and content available on or through
+                                            the Sites are incorporated herein by reference. View Important
+Link: https://www.americanexpress.com/us/content/legal-disclosures/travel-notices-terms-and-conditions.html
+Text: Travel Notices, Terms and Conditions
+Text: 22. NOTIFICATION TO AMERICAN EXPRESS REGARDING SALES OVER THE INTERNET
+                                                OF ILLEGITIMATE PRODUCTS
+Text: Merchants must not accept American Express Cards for sales of products
+                                            over the Internet that would constitute a violation of copyright or
+                                            trademark laws applicable to the merchant or Cardmember (such
+                                            copyright-infringing or counterfeit trademark products, collectively,
+                                            "Illegitimate Products").
+Text: You may notify American Express regarding sales by merchants of alleged
+                                            Illegitimate Products by completing this
+Link: https://www.americanexpress.com/content/dam/amex/us/staticassets/pdf/legal-disclosures/website-rules-and-regulations/Antipiracy%20Notice%20Form%20-%20Updated%20Oct%202011w.pdf
+Text: Notice Form
+Text: and sending it by email to
+                                            antipiracy@aexp.com. The form must be submitted by a person or entity
+                                            having the legal standing and authority to assert the applicable
+                                            copyright or trademark right concerning the products (a
+                                            "Rights-Holder").
+Text: Trademarks and Service Marks
+Text: The following are trademarks and service marks of American Express
+                                            Company, its subsidiaries and/or affiliates which may appear on the
+                                            Sites. This is not a comprehensive list.
+Text: AMERICAN EXPRESS
+Text: AMERICAN EXPRESS Box Logo
+Text: AMERICAN EXPRESS Card Design
+Text: AMERICAN EXPRESS NATIONAL BANK
+Text: AMERICAN EXPRESS SELECTS
+Text: AMERICAN EXPRESS SAFEKEY
+Text: AMERICAN EXPRESS WORLD SERVICE & Design
+Text: AMERICAN EXPRESS @ WORK
+Text: AMEX
+Text: BLUE FROM AMERICAN EXPRESS
+Text: BLUE FROM AMERICAN EXPRESS Card Design
+Text: CASH MAGNET
+Text: CENTURION
+Text: DON’T LIVE LIFE WITHOUT IT
+Text: DON’T DO BUSINESS WITHOUT IT
+Text: Gladiator Head Design
+Text: GLOBAL ASSIST
+Text: Globe Design
+Text: MEMBERSHIP REWARDS
+Text: OPTBLUE
+Text: PAY IT PLAN IT
+Text: PLATINUM CARD
+Text: PLUM CARD
+Text: POWERFUL BACKING
+Text: SHOP SMALL
+Text: SMALL BUSINESS SATURDAY
+Text: THE CENTURION
+Text: Patents
+Text: The following are U.S. patents that American Express Company, its
+                                            subsidiaries or/or affiliates own or hold a license to, which relate to
+                                            products or services that may appear on our Sites. This is not a
+                                            comprehensive list.
+Text: 6,182,894
+Text: 6,290,137
+Text: 6,296,188
+Text: 6,324,524
+Text: 6,405,181
+Text: 6,490,601
+Text: 6,567,791
+Text: 6,581,839
+Text: 6,705,530
+Text: 6,718,313
+Text: 6,732,936
+Text: 6,742,704
+Text: 6,749,123
+Text: 6,764,014
+Text: 6,795,812
+Text: 6,796,497
+Text: 6,820,802
+Text: 6,931,381
+Text: 6,986,461
+Text: 6,986,465
+Text: 6,988,658
+Text: 6,991,157
+Text: 6,997,378
+Text: 7,035,872
+Text: 7,070,095
+Text: 7,070,112
+Text: 7,093,767
+Text: 7,110,980
+Text: 7,119,659
+Text: 7,124,955
+Text: 7,137,552
+Text: 7,143,063
+Text: 7,147,151
+Text: 7,163,145
+Text: 7,172,112
+Text: 7,203,838
+Text: 7,207,479
+Text: 7,213,764
+Text: 7,222,363
+Text: 7,228,155
+Text: 7,228,313
+Text: 7,239,226
+Text: 7,249,092
+Text: 7,249,112
+Text: 7,268,667
+Text: 7,268,668
+Text: 7,328,176
+Text: 7,334,184
+Text: 7,343,351
+Text: 7,346,576
+Text: 7,350,139
+Text: 7,356,694
+Text: 7,373,314
+Text: 7,377,443
+Text: 7,383,190
+Text: 7,412,409
+Text: 7,415,443
+Text: 7,421,739
+Text: 7,441,697
+Text: 7,451,925
+Text: 7,840,484
+Text: 8,694,435
+Text: 9,087,335
+Text: 9,542,690
+Text: 9,589,264
+Text: 9,607,308
+Text: 9,769,157
+Text: 9,934,537
+Text: Previous Version(s):
+Link: http://americanexpress.com/us/legal-disclosures/website-rules-and-regulations-03012011.html
+Text: November 1, 2011
+Link: https://www.americanexpress.com/us/legal-disclosures/website-rules-and-regulations_04182007.html
+Text: April 18, 2007
+Text: End Main Container
+Text: Start Footer
+Text: ​
+Text: About
+Link: https://www.americanexpress.com/en-us/company/?inav=us_footer_about_about_american_express
+Text: About
+                                                American Express
+Link: https://ir.americanexpress.com/investor-relations/default.aspx?inav=us_footer_about_investor_relations
+Text: Investor
+                                                Relations
+Link: https://www.americanexpress.com/en-us/careers/?inav=footer_careers
+Text: Careers
+Link: https://network.americanexpress.com/globalnetwork/v4/?inav=us_footer_about_global_network
+Text: Global
+                                                Network
+Link: https://global.americanexpress.com/help?inav=footer_contact
+Text: Contact
+                                                Us
+Link: https://www.americanexpress.com/en-us/support/digital/amex-mobile-app/?inav=footer_mobile_app
+Text: Amex
+                                                Mobile App
+Text: Products & Services
+Link: https://www.americanexpress.com/us/credit-cards/?inav=us_footer_credit_cards
+Text: Credit
+                                                Cards
+Link: https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/?inav=footer_cards_bus_crdt_crd
+Text: Business
+                                                Credit Cards
+Link: https://www.americanexpress.com/us/credit-cards/business/corporate-credit-cards/?inav=footer_corp_prg
+Text: Corporate
+                                                Programs
+Link: https://www.americanexpress.com/en-us/prepaid/view-all-cards/?inav=us_footer_products_services_view_all_prepaid_gift_cards
+Text: View
+                                                All Prepaid & Gift Cards
+Link: https://www.americanexpress.com/en-us/banking/online-savings/account/?extlink=ps2020=GIN-F&inav=footer_savings
+Text: Savings
+                                                Accounts & CDs
+Text: Links You May Like
+Link: https://www.americanexpress.com/en-us/benefits/rewards/membership-rewards/?inav=us_footer_links_you_may_like_mr
+Text: Membership
+                                                Rewards
+Link: https://www.americanexpress.com/us/credit-cards/features-benefits/free-credit-score/?inav=us_footer_links_you_may_like_fico_score_insights
+Text: FICO®
+                                                Score and Insights
+Link: https://www.americanexpress.com/en-us/benefits/creditsecure/?inav=footer_creditsecure
+Text: CreditSecure®
+Link: https://www.americanexpress.com/us/merchant/accept-the-card.html?inav=footer_accept_amex
+Text: Accept
+                                                Amex Cards
+Link: https://www.americanexpress.com/en-us/referral?id=201279&intlink=US-MGM-Inav&inav=us_footer_links_you_may_like_refer_a_friend
+Text: Refer
+                                                A Friend
+Text: Additional Information
+Link: https://www.americanexpress.com/en-us/credit-cards/credit-intel/?inav=footer_financial_ed
+Text: Credit
+                                                Intel – Financial Education Center
+Link: https://www.americanexpress.com/en-us/company/supplier-management/?inav=footer_supplier_supplier
+Text: Supplier
+                                                Diversity
+Link: https://www.americanexpress.com/en-us/credit-cards/credit-intel/credit-score/?inav=footer_credit_101
+Text: Credit
+                                                Score 101
+Link: https://www.americanexpress.com/us/credit-cards/features-benefits/us-newcomers/?inav=us_footer_additional_information_us_newcomers
+Text: US
+                                                Newcomers
+Link: https://www.americanexpress.com/us/customer-service/?inav=footer_faqs
+Text: Frequently
+                                                Asked Questions
+Text: About
+Link: https://www.americanexpress.com/en-us/company/?inav=us_footer_about_about_american_express
+Text: About
+                                                        American Express
+Link: https://ir.americanexpress.com/investor-relations/default.aspx?inav=us_footer_about_investor_relations
+Text: Investor
+                                                        Relations
+Link: https://www.americanexpress.com/en-us/careers/?inav=footer_careers
+Text: Careers
+Link: https://network.americanexpress.com/globalnetwork/v4/?inav=us_footer_about_global_network
+Text: Global
+                                                        Network
+Link: https://global.americanexpress.com/help?inav=footer_contact
+Text: Contact
+                                                        Us
+Link: https://www.americanexpress.com/en-us/support/digital/amex-mobile-app/?inav=footer_mobile_app
+Text: Amex
+                                                        Mobile App
+Text: Products & Services
+Link: https://www.americanexpress.com/us/credit-cards/?inav=us_footer_credit_cards
+Text: Credit
+                                                        Cards
+Link: https://www.americanexpress.com/us/credit-cards/business/business-credit-cards/?inav=footer_cards_bus_crdt_crd
+Text: Business
+                                                        Credit Cards
+Link: https://www.americanexpress.com/us/credit-cards/business/corporate-credit-cards/?inav=footer_corp_prg
+Text: Corporate
+                                                        Programs
+Link: https://www.americanexpress.com/en-us/prepaid/view-all-cards/?inav=us_footer_products_services_view_all_prepaid_gift_cards
+Text: View
+                                                        All Prepaid & Gift Cards
+Link: https://www.americanexpress.com/en-us/banking/online-savings/account/?extlink=ps2020=GIN-F&inav=footer_savings
+Text: Savings
+                                                        Accounts & CDs
+Text: Links You May Like
+Link: https://www.americanexpress.com/en-us/benefits/rewards/membership-rewards/?inav=us_footer_links_you_may_like_mr
+Text: Membership
+                                                        Rewards
+Link: https://www.americanexpress.com/us/credit-cards/features-benefits/free-credit-score/?inav=us_footer_links_you_may_like_fico_score_insights
+Text: FICO®
+                                                        Score and Insights
+Link: https://www.americanexpress.com/en-us/benefits/creditsecure/?inav=footer_creditsecure
+Text: CreditSecure®
+Link: https://www.americanexpress.com/us/merchant/accept-the-card.html?inav=footer_accept_amex
+Text: Accept
+                                                        Amex Cards
+Link: https://www.americanexpress.com/en-us/referral?id=201279&intlink=US-MGM-Inav&inav=us_footer_links_you_may_like_refer_a_friend
+Text: Refer
+                                                        A Friend
+Text: Additional Information
+Link: https://www.americanexpress.com/en-us/credit-cards/credit-intel/?inav=footer_financial_ed
+Text: Credit
+                                                        Intel – Financial Education Center
+Link: https://www.americanexpress.com/en-us/company/supplier-management/?inav=footer_supplier_supplier
+Text: Supplier
+                                                        Diversity
+Link: https://www.americanexpress.com/en-us/credit-cards/credit-intel/credit-score/?inav=footer_credit_101
+Text: Credit
+                                                        Score 101
+Link: https://www.americanexpress.com/us/credit-cards/features-benefits/us-newcomers/?inav=us_footer_additional_information_us_newcomers
+Text: US
+                                                        Newcomers
+Link: https://www.americanexpress.com/us/customer-service/?inav=footer_faqs
+Text: Frequently
+                                                        Asked Questions
+Text: United States
+Link: https://www.americanexpress.com/change-country/
+Text: Change
+                                            Country
+Link: https://www.facebook.com/AmericanExpressUS
+Link: https://x.com/americanexpress
+Link: https://www.instagram.com/AmericanExpress
+Link: https://www.linkedin.com/company/american-express
+Link: https://www.youtube.com/user/AmericanExpress
+Link: https://www.americanexpress.com/us/legal-disclosures/website-rules-and-regulations.html?inav=footer_Terms_of_Use
+Text: Terms
+                                                    of Service
+Link: https://www.americanexpress.com/us/privacy-center/?inav=footer_privacy_statement
+Text: Privacy
+                                                    Center
+Link: javascript:void(0)?inav=footer_Personal_Information
+Text: Do
+                                                    Not Sell or Share My Personal Information
+Link: https://www.americanexpress.com/us/company/privacy-center/online-privacy-disclosures/?inav=us_footer_adChoices#what-are-your-choices
+Text: AdChoices
+Link: https://www.americanexpress.com/us/security-center/?inav=footer_fraud_protection_center
+Text: Security
+                                                    Center
+Link: https://www.americanexpress.com/en-us/company/legal/cardmember-agreements/?inav=us_footer_card_agreements
+Text: Card
+                                                    Agreements
+Link: https://www.americanexpress.com/us/help-support/service-members-civil-relief/?inav=us_footer_servicemember_benefits
+Text: Servicemember
+                                                    Benefits
+Link: https://www.americanexpress.com/en-us/sitemap/personal.html/?inav=us_footer_sitemap
+Text: Site
+                                                    Map
+Text: All users of our online services are subject to our Privacy Statement and
+                                            agree to be bound by the Terms of Service. Please review.
+Text: © 2024 American Express. All rights reserved
+Text: ​
+Text: End Footer
+Text: <sly data-sly-call="" />

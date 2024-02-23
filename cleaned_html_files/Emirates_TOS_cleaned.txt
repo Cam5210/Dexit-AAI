@@ -1,10 +1,12 @@
 Text: Emirates | Fly Better
 Text: Important:
 Link: /english/help/travel-updates/#5064
-Text: Suspension of flights to/from Tel Aviv
+Text: Suspension of flights to/from
+            Tel Aviv
 Text: Show more
 Text: Show less
-Text: Skip to the main content
+Text: Skip to the
+            main content
 Link: /english/information/accessibility/
 Text: Accessibility information
 Link: /english/
@@ -74,7 +76,8 @@ Text: About booking online
 Link: /english/book/about-booking-online/emirates-app/
 Text: The Emirates App
 Link: /english/book/about-booking-online/emirates-best-price-guarantee/
-Text: Emirates Best Price guarantee
+Text: Emirates Best
+      Price guarantee
 Link: /english/book/about-booking-online/emirates-best-price-guarantee/
 Text: Emirates Best Price guarantee
 Link: /english/book/about-booking-online/emirates-seat-selection/
@@ -97,7 +100,8 @@ Text: Cancel your booking
 Link: /english/manage-booking/change-flight/
 Text: Change your booking
 Link: /english/manage-booking/
-Text: Choose your seat
+Text: Choose
+      your seat
 Link: /english/manage-booking/upgrade-flight/
 Text: Upgrade your flight
 Link: /english/manage-booking/
@@ -131,11 +135,14 @@ Text: Health
 Link: /english/before-you-fly/health/
 Text: Health
 Link: /english/before-you-fly/health/medical-information-form/
-Text: Medical information form (MEDIF)
+Text: Medical information form
+      (MEDIF)
 Link: /english/before-you-fly/travel/dietary-requirements/
-Text: Dietary information
+Text: Dietary
+      information
 Link: /english/before-you-fly/travel/dangerous-goods-policy/
-Text: Banned substances in the UAE
+Text: Banned
+      substances in the UAE
 Link: /english/before-you-fly/dubai-international-airport/
 Text: Dubai International
 Link: /english/before-you-fly/dubai-international-airport/
@@ -143,7 +150,8 @@ Text: Dubai International
 Link: /english/before-you-fly/dubai-international-airport/shuttle-service-dubai/
 Text: Shuttle service in Dubai
 Link: /english/before-you-fly/dubai-international-airport/emirates-terminal-3/
-Text: Emirates Terminal 3
+Text: Emirates
+      Terminal 3
 Link: /english/book/transportation/
 Text: To and from the airport
 Link: /english/before-you-fly/baggage/
@@ -159,19 +167,23 @@ Text: Checked baggage
 Link: /english/before-you-fly/baggage/cabin-baggage-rules/
 Text: Cabin baggage
 Link: /english/before-you-fly/baggage/purchase-additional-baggage-allowance/
-Text: Purchase more baggage
+Text: Purchase
+      more baggage
 Link: /english/before-you-fly/baggage/unusual-baggage-and-special-allowances/
 Text: Extra checked baggage allowances
 Link: /english/before-you-fly/baggage/baggage-services-dubai/
 Text: Baggage services in Dubai
 Link: /english/before-you-fly/baggage/delayed-damaged-baggage/
-Text: Delayed or damaged baggage
+Text: Delayed or damaged
+      baggage
 Link: /english/before-you-fly/baggage/delayed-damaged-baggage/
-Text: Delayed or damaged baggage
+Text: Delayed or
+      damaged baggage
 Link: /english/before-you-fly/visa-passport-information/find-uae-visa-requirements/
 Text: Visa and passport
 Link: /english/before-you-fly/visa-passport-information/find-uae-visa-requirements/
-Text: Find your visa requirements
+Text: Find
+      your visa requirements
 Link: /english/before-you-fly/visa-passport-information/
 Text: Visa and passport information
 Link: /english/before-you-fly/visa-passport-information/
@@ -181,7 +193,8 @@ Text: USA travel authorisation
 Link: /english/before-you-fly/visa-passport-information/uae-visa-information/
 Text: UAE visas
 Link: /english/before-you-fly/visa-passport-information/uae-visa-information/
-Text: UAE visas
+Text: UAE
+      visas
 Text: EXPERIENCE
 Link: /english/experience/woyf/
 Text: Inflight experience
@@ -210,9 +223,11 @@ Text: ice TV Live
 Link: /english/experience/inflight-entertainment/onboard-wifi/
 Text: Onboard Wi-Fi
 Link: /english/experience/inflight-entertainment/children-entertainment/
-Text: Children's entertainment
+Text: Children's
+      entertainment
 Link: /english/experience/inflight-entertainment/podcasts/
-Text: Emirates World Interviews
+Text: Emirates
+      World Interviews
 Link: /english/experience/dining/
 Text: Dining
 Link: /english/experience/dining/
@@ -246,7 +261,8 @@ Text: The Emirates Experience
 Link: /english/experience/
 Text: Your journey starts here
 Link: /english/experience/
-Text: The Emirates Experience
+Text: The
+      Emirates Experience
 Link: /english/experience/
 Text: The Emirates Experience
 Link: /english/experience/chauffeur-drive/
@@ -292,11 +308,13 @@ Text: Planning your family trip
 Link: /english/family/planning-your-family-trip/
 Text: Planning your family trip
 Link: /english/family/planning-your-family-trip/unaccompanied-minors/
-Text: Unaccompanied minors
+Text: Unaccompanied
+      minors
 Link: /english/before-you-fly/health/before-you-leave/
 Text: Pregnancy
 Link: /english/before-you-fly/baggage/unusual-baggage-and-special-allowances/
-Text: Baggage allowances
+Text: Baggage
+      allowances
 Link: /english/help/faq-topics/special-assistance-and-requests/faq/what-are-the-ticketing-rules-for-child-and-infant-passengers-on-emirates/
 Text: Child and infant fare rules
 Link: /english/help/faq-topics/special-assistance-and-requests/faq/are-there-special-services-if-i-m-travelling-with-young-children-or-infants/
@@ -304,7 +322,8 @@ Text: Car seats and bassinets
 Link: /english/family/at-the-airport/
 Text: At the airport
 Link: /english/family/at-the-airport/
-Text: At the airport
+Text: At
+      the airport
 Link: /english/family/on-board/
 Text: On board
 Link: /english/family/on-board/
@@ -320,7 +339,8 @@ Text: Child and infant meals
 Link: /english/family/fun-for-kids/
 Text: Fun for kids
 Link: /english/family/fun-for-kids/
-Text: Fun for kids
+Text: Fun for
+      kids
 Link: /english/experience/inflight-entertainment/children-entertainment/
 Text: Children’s entertainment
 Link: /english/family/fun-for-kids/toys/
@@ -366,11 +386,14 @@ Text: Our planet
 Link: /english/about-us/our-planet/
 Text: Our planet
 Link: /english/about-us/our-planet/sustainability-in-operations/
-Text: Sustainability in operations
+Text: Sustainability in
+      operations
 Link: /english/about-us/our-planet/environmental-policy/
-Text: Environmental policy
+Text: Environmental
+      policy
 Link: /english/about-us/our-planet/environmental-reports/
-Text: Environmental reports
+Text: Environmental
+      reports
 Link: /english/about-us/our-communities/
 Text: Our communities
 Link: /english/about-us/our-communities/
@@ -383,7 +406,8 @@ Link: /english/about-us/our-communities/open-sky/
 Text: Government affairs
 Text: WHERE WE FLY
 Link: /english/destinations/
-Text: Our destinations
+Text: Our
+      destinations
 Link: /english/destinations/
 Text: Destinations
 Link: /english/destinations/
@@ -405,7 +429,8 @@ Text: Discover Dubai
 Link: /english/discover-dubai/
 Text: Discover Dubai
 Link: /english/travel-partners/
-Text: Our travel partners
+Text: Our travel
+      partners
 Link: /english/travel-partners/
 Text: Air and ground partners
 Link: /english/travel-partners/
@@ -427,7 +452,8 @@ Text: Explore Emirates destinations
 Link: /english/destinations/route-map/
 Text: Route map
 Link: /english/destinations/route-map/
-Text: Route map
+Text: Route
+      map
 Link: /english/destinations/holiday-inspiration/
 Text: Holiday inspiration
 Link: /english/destinations/holiday-inspiration/
@@ -441,7 +467,8 @@ Text: History and culture holidays
 Link: /english/destinations/holiday-inspiration/shop/
 Text: City breaks
 Link: /english/destinations/holiday-inspiration/backpacking/
-Text: Backpacking and hiking holidays
+Text: Backpacking and hiking
+      holidays
 Text: LOYALTY
 Link: /english/skywards/registration/
 Text: Emirates Skywards
@@ -517,15 +544,19 @@ Text: Visa and passport help
 Link: /english/help/forms/complaint/
 Text: Feedback and complaints
 Link: /english/help/covid-19/travel-requirements-by-destination/
-Text: Checking your travel requirements
+Text: Checking your travel
+      requirements
 Link: /english/help/covid-19/ticket-options/
-Text: Keeping your ticket or refunds
+Text: Keeping your ticket or
+      refunds
 Link: /english/before-you-fly/baggage/delayed-damaged-baggage/
-Text: Delayed or damage baggage support
+Text: Delayed or
+      damage baggage support
 Link: /english/help/forms/lost-property/
 Text: Lost property
 Link: /english/before-you-fly/dubai-international-airport/dubai-connect/
-Text: Dubai Connect
+Text: Dubai
+      Connect
 Link: /english/help/travel-updates/
 Text: Changes to our operations
 Link: /english/help/travel-updates/
@@ -541,7 +572,8 @@ Text: Special assistance
 Link: /english/before-you-fly/health/accessible-travel/
 Text: Accessible travel with Emirates
 Link: /english/help/faq-topics/special-assistance-and-requests/
-Text: Special assistance and requests
+Text: Special assistance
+      and requests
 Link: /english/help/covid-19/
 Text: COVID-19 travel support
 Link: /english/help/covid-19/
@@ -553,9 +585,11 @@ Text: COVID-19 information hub
 Link: /english/help/covid-19/dubai-travel-requirements/
 Text: Travel requirements for Dubai
 Link: /english/help/covid-19/travel-requirements-by-destination/
-Text: Travel requirements by destination
+Text: Travel
+      requirements by destination
 Link: /english/help/covid-19/ticket-options/
-Text: Your ticket options
+Text: Your
+      ticket options
 Link: /english/help/forms/refund-request/
 Text: Request a refund
 Link: /english/help/covid-19/safety/
@@ -575,11 +609,14 @@ Text: Our network and codeshares
 Link: /english/help/faq-topics/our-other-products/
 Text: Our other products
 Link: /english/help/faq-topics/special-assistance-and-requests/
-Text: Special assistance and requests
+Text: Special assistance and
+      requests
 Link: /english/help/faq-topics/baggage-and-lost-property/
-Text: Baggage and lost property
+Text: Baggage and
+      lost property
 Link: /english/help/faq-topics/preparing-to-travel/
-Text: Preparing to travel
+Text: Preparing to
+      travel
 Link: /english/help/faq-topics/at-the-airport/
 Text: At the airport
 Link: /english/help/faq-topics/emirates-skywards/
@@ -593,7 +630,8 @@ Text: Tools and resources
 Link: /english/help/faq-topics/mobile-and-the-emirates-app/
 Text: Mobile and The Emirates App
 Link: /english/help/faq-topics/cancelling-or-changing-a-booking/
-Text: Cancelling or changing a booking
+Text: Cancelling or
+      changing a booking
 Link: /english/help/faq-topics/covid-19-information-and-disrupted-travel/
 Text: COVID-19 information and disrupted travel
 Link: /english/help/faq-topics/about-emirates/
@@ -604,8 +642,10 @@ Text: It’s arrived, the
 Text: PREMIUM ECONOMY
 Text: you’ve been waiting for
 Link: /english/experience/cabin-features/premium-economy-class/
-Text: Learn more It’s arrived, the  PREMIUM ECONOMY you’ve been waiting for
-Text: Learn more
+Text: Learn more It’s arrived, the
+                PREMIUM ECONOMY you’ve been waiting for
+Text: Learn
+                more
 Link: /english/experience/fly-better/
 Text: Search flights
 Text: Manage booking / Check in
@@ -615,31 +655,43 @@ Text: Search flights
 Link: /transfer.aspx?pageurl=/account/english/light-registration/&section=MYA&th=ec6cfba112ac9ecc6bf2912b0461aa72c23ddf9b
 Text: MISSING RESOURCE BookManage/search-flight/join-now__text
 Link: /english/sso/login-redirect?state=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWxsYmFja1VybCI6Ii9lbmdsaXNoLyIsInB1YiI6Ii9lbmdsaXNoIiwibm9Qcm9maWxlIjoxfQ.lIbcrEcNgfIMXQQXvOmuhFyYwemAoD0q4mjOqV8pfU4
-Text: Log in to earn and spend Skywards Miles
+Text: Log in to earn and
+                            spend Skywards Miles
 Link: /sessionhandler.aspx?pageurl=/IBE.aspx&pub=/english&j=f&section=IBE
-Text: Advanced search: multi-city, promo codes, partner airlines
+Text: Advanced search:
+                            multi-city, promo codes, partner airlines
 Text: There are errors on this page
 Text: Please choose a departure airport
 Text: Please choose an arrival airport
 Text: Please choose a departure date
 Text: Please choose a return date
 Text: Back
-Text: Departure airport
+Text: Departure
+                                        airport
 Text: All locations
 Text: Back
-Text: Arrival airport
+Text: Arrival
+                                        airport
 Text: All locations
 Text: Departing
-Text: Please choose your departure date Use the page up key to select the next month and the page down key to select the previous month. Use arrow keys to select the dates. After selecting the dates, use tab key to select one way or flexible dates options.
+Text: Please choose your departure date
+                                  Use the page up key to select the next month and the page down key to select the
+                                  previous month. Use arrow keys to select the dates. After selecting the dates, use tab
+                                  key to select one way or flexible dates options.
 Text: -
 Text: Returning
-Text: Add Return
-Text: Choose your return date  Use the page up key to select the next month and the page down key to select the previous month. Use arrow keys to select the dates. After selecting the dates, use tab key to select one way or flexible dates options.
+Text: Add
+                                    Return
+Text: Choose your return date Use the page
+                                  up key to select the next month and the page down key to select the previous month.
+                                  Use arrow keys to select the dates. After selecting the dates, use tab key to select
+                                  one way or flexible dates options.
 Text: My dates are flexible (-/+ 3 days)
 Text: One way
 Text: February
 Text: 2024
-Text: Previous Month
+Text: Previous
+                                        Month
 Text: Mon
 Text: Tue
 Text: Wed
@@ -678,7 +730,8 @@ Text: 28
 Text: 29
 Text: March
 Text: 2024
-Text: Next Month
+Text: Next
+                                        Month
 Text: Mon
 Text: Tue
 Text: Wed
@@ -720,68 +773,103 @@ Text: 31
 Text: Continue
 Text: Back
 Text: Passengers
-Text: This section is to increase and decrease all passenger categories. Use only tab key to navigate between increase and decrease buttons of each passenger type. Use buttons by pressing Enter key. Please note: You can book a maximum of nine passengers per booking.
-Text: Please enter between one and six characters.
+Text: This section is to increase and decrease all passenger
+                                    categories. Use only tab key to navigate between increase and decrease buttons of
+                                    each passenger type. Use buttons by pressing Enter key. Please note: You can book a
+                                    maximum of nine passengers per booking.
+Text: Please enter
+                                    between one and six characters.
 Link: javascript:void(0)
 Text: Passengers
 Text: Error message
-Text: Increase number of Adult passengers
+Text: Increase number of Adult
+                                        passengers
 Text: 1
 Text: Adult
 Text: Ages 12+
-Text: Decrease number of Adult passengers
-Text: increment accessibility
-Text: Increase number of OFW passengers
+Text: Decrease number of Adult
+                                        passengers
+Text: increment
+                                      accessibility
+Text: Increase number of OFW
+                                          passengers
 Text: 0
 Text: OFW
 Text: Overseas Filipino Workers
-Text: Decrease number of OFW passengers
-Text: increment accessibility
-Text: Increase number of Teenager passengers
+Text: Decrease number of OFW
+                                          passengers
+Text: increment
+                                        accessibility
+Text: Increase number of Teenager
+                                          passengers
 Text: 0
 Text: Teenager
 Text: Ages 12-15
-Text: Decrease number of Teenager passengers
-Text: increment accessibility
-Text: Increase number of Child passengers
+Text: Decrease number of Teenager
+                                          passengers
+Text: increment
+                                        accessibility
+Text: Increase number of Child
+                                        passengers
 Text: 0
 Text: Child
 Text: Ages 2-11
-Text: Decrease number of Child passengers
-Text: increment accessibility
-Text: Increase number of Infant passengers
+Text: Decrease number of Child
+                                        passengers
+Text: increment
+                                      accessibility
+Text: Increase number of Infant
+                                        passengers
 Text: 0
 Text: Infant
 Text: Age under 2, on lap
-Text: Decrease number of Infant passengers
-Text: increment accessibility
-Text: Please note: You can book for a maximum of nine passengers.
-Text: You can book up to nine passengers per booking, including adults, children and infants.
+Text: Decrease number of Infant
+                                        passengers
+Text: increment
+                                      accessibility
+Text: Please note: You can book for a maximum of
+                                      nine passengers.
+Text: You can book up to nine passengers per booking, including adults, children and
+                                      infants.
 Text: Each adult passenger can bring one infant.
-Text: Children travelling alone, or in a different cabin class to their parents, are considered Unaccompanied Minors and pay the full adult fare. Please get in touch with us to book this service.
-Text: You can book up to nine passengers per booking, including adults, children and infants.
+Text: Children travelling alone, or in a different cabin class to their parents, are
+                                      considered Unaccompanied Minors and pay the full adult fare. Please get
+                                      in touch with us to book this service.
+Text: You can book up to nine passengers per booking, including adults, children and
+                                        infants.
 Text: Each adult passenger can bring one infant.
-Text: Children travelling alone, or in a different cabin class to their parents, are considered Unaccompanied Minors and pay the full adult fare. Please get in touch with us to book this service.
-Text: You can book up to nine passengers per booking, including adults, teenagers, children and infants.
+Text: Children travelling alone, or in a different cabin class to their parents, are
+                                        considered Unaccompanied Minors and pay the full adult fare. Please get
+                                        in touch with us to book this service.
+Text: You can book up to nine passengers per booking, including adults, teenagers,
+                                        children and infants.
 Text: Each adult passenger can bring one infant.
-Text: Children travelling alone, or in a different cabin class to their parents, are considered Unaccompanied Minors and pay the full adult fare. Please
+Text: Children travelling alone, or in a different cabin class to their parents, are
+                                        considered Unaccompanied Minors and pay the full adult fare. Please
 Link: /english/help/
 Text: get in touch with us
-Text: to book this service.
-Text: You can book up to nine passengers per booking, including adults, children and infants.
+Text: to book this
+                                        service.
+Text: You can book up to nine passengers per booking, including adults, children and
+                                        infants.
 Text: Each adult & OFW passenger can bring one infant.
 Text: All OFWs must submit the required documents to avail the tax exemption.
-Text: Children travelling alone, or in a different cabin class to their parents, are considered Unaccompanied Minors and pay the full adult fare. Please
+Text: Children travelling alone, or in a different cabin class to their parents, are
+                                        considered Unaccompanied Minors and pay the full adult fare. Please
 Link: /english/help/
 Text: get in touch with us
-Text: to book this service.
-Text: You can book up to nine passengers per booking, including adults, Overseas Filippino Workers (OFW), teenagers, children and infants.
+Text: to book this
+                                        service.
+Text: You can book up to nine passengers per booking, including adults, Overseas
+                                        Filippino Workers (OFW), teenagers, children and infants.
 Text: Each adult & OFW passenger can bring one infant.
 Text: All OFWs must submit the required documents to avail the tax exemption.
-Text: Children travelling alone, or in a different cabin class to their parents, are considered Unaccompanied Minors and pay the full adult fare. Please
+Text: Children travelling alone, or in a different cabin class to their parents, are
+                                        considered Unaccompanied Minors and pay the full adult fare. Please
 Link: /english/help/
 Text: get in touch with us
-Text: to book this service.
+Text: to book this
+                                        service.
 Text: Back
 Text: Class
 Link: javascript:void(0)
@@ -794,7 +882,8 @@ Text: Search flights
 Text: Manage booking / Check in
 Text: What's on your flight
 Link: /english/sso/login-redirect?state=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWxsYmFja1VybCI6Ii9lbmdsaXNoLyIsInB1YiI6Ii9lbmdsaXNoIiwibm9Qcm9maWxlIjoxfQ.lIbcrEcNgfIMXQQXvOmuhFyYwemAoD0q4mjOqV8pfU4
-Text: Log in to see what's on your flight
+Text: Log in to see what's
+                        on your flight
 Text: Route or Flight Number
 Text: Route
 Text: Flight number
@@ -805,16 +894,21 @@ Text: Please choose a departure date
 Text: Please enter a flight number
 Text: Please choose a departure date
 Text: Back
-Text: Departure airport
+Text: Departure
+                                        airport
 Text: All locations
 Text: Back
-Text: Arrival airport
+Text: Arrival
+                                        airport
 Text: All locations
 Text: Departing
-Text: When would you like to leave? Use the page up key to select the next month and the page down key to select the previous month. Use arrow keys to select the dates.
+Text: When would you like to leave?
+                                      Use the page up key to select the next month and the page down key to select the
+                                      previous month. Use arrow keys to select the dates.
 Text: February
 Text: 2024
-Text: Previous Month
+Text: Previous
+                                            Month
 Text: Mon
 Text: Tue
 Text: Wed
@@ -853,7 +947,8 @@ Text: 28
 Text: 29
 Text: March
 Text: 2024
-Text: Next Month
+Text: Next
+                                            Month
 Text: Mon
 Text: Tue
 Text: Wed
@@ -896,12 +991,16 @@ Text: See what's on
 Text: Flight number error
 Text: Flight number
 Text: EK-
-Text: Please enter between one and six characters.
+Text: Please enter between
+                                one and six characters.
 Text: Departing
-Text: When would you like to leave? Use the page up key to select the next month and the page down key to select the previous month. Use arrow keys to select the dates.
+Text: When would you like to leave?
+                                      Use the page up key to select the next month and the page down key to select the
+                                      previous month. Use arrow keys to select the dates.
 Text: February
 Text: 2024
-Text: Previous Month
+Text: Previous
+                                            Month
 Text: Mon
 Text: Tue
 Text: Wed
@@ -940,7 +1039,8 @@ Text: 28
 Text: 29
 Text: March
 Text: 2024
-Text: Next Month
+Text: Next
+                                            Month
 Text: Mon
 Text: Tue
 Text: Wed
@@ -983,7 +1083,8 @@ Text: See what's on
 Text: See what's on
 Text: Flight status
 Link: /english/sso/login-redirect?state=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjYWxsYmFja1VybCI6Ii9lbmdsaXNoLyIsInB1YiI6Ii9lbmdsaXNoIiwibm9Qcm9maWxlIjoxfQ.lIbcrEcNgfIMXQQXvOmuhFyYwemAoD0q4mjOqV8pfU4
-Text: Log in to see your trips
+Text: Log in to see your
+                        trips
 Text: Route or Flight Number
 Text: Route
 Text: Flight number
@@ -997,13 +1098,17 @@ Text: Please choose a departure date
 Text: Please enter a flight number
 Text: Please choose a departure date
 Text: Back
-Text: Departure airport
+Text: Departure
+                                        airport
 Text: All locations
 Text: Back
-Text: Arrival airport
+Text: Arrival
+                                        airport
 Text: All locations
-Text: Departure day
-Text: Arrival day
+Text: Departure
+                              day
+Text: Arrival
+                              day
 Text: Back
 Text: Date
 Link: javascript:void(0)
@@ -1018,7 +1123,8 @@ Text: Check status
 Text: Flight number error
 Text: Flight number
 Text: EK-
-Text: Please enter between one and six characters.
+Text: Please enter between
+                                one and six characters.
 Text: Back
 Text: Date
 Link: javascript:void(0)
@@ -1035,21 +1141,26 @@ Link: /english/book/planning-your-trip/hotels/
 Text: Hotels
 Link: https://cars.cartrawler.com/emirates/en/?clientID=606868#/searchcars
 Text: Car rentals
-Text: Opens an external link in a new tab
+Text: Opens an
+                      external link in a new tab
 Link: https://www.getyourguide.com/?cmp=HomePage&partner_id=0DAB4&utm_medium=booking_partner
 Text: Tours & activities
-Text: Opens an external link in a new tab
+Text: Opens an
+                      external link in a new tab
 Link: /english/experience/chauffeur-drive/
 Text: Chauffeur-drive
 Link: https://www.marhabaservices.com/
 Text: Meet & Greet
-Text: Opens an external link in a new tab
+Text: Opens an
+                      external link in a new tab
 Link: https://cars.cartrawler.com/emirates/en-us/transfers?clientId=659585#/search
 Text: Airport transfers
-Text: Opens an external link in a new tab
+Text: Opens an
+                      external link in a new tab
 Link: https://emirates.eurail.com/en
 Text: Eurail
-Text: Opens an external link in a new tab
+Text: Opens an
+                      external link in a new tab
 Text: Featured destinations from
 Link: javascript:void(0)
 Text: New York
@@ -1062,7 +1173,8 @@ Text: Dallas
 Text: DFW
 Text: Houston
 Text: IAH
-Text: Los Angeles
+Text: Los
+                                Angeles
 Text: LAX
 Text: Miami
 Text: MIA
@@ -1070,9 +1182,11 @@ Text: New York
 Text: JFK
 Text: Newark
 Text: EWR
-Text: Orlando (near Jacksonville, Tampa)
+Text: Orlando (near Jacksonville,
+                                Tampa)
 Text: MCO
-Text: San Francisco
+Text: San
+                                Francisco
 Text: SFO
 Text: Seattle
 Text: SEA
@@ -1453,17 +1567,24 @@ Text: Hyderabad
 Text: Book Economy Class Return until 29 Feb 24
 Text: from USD 1494*
 Link: /english/book/featured-fares/
-Text: See more fares
-Text: *Terms and conditions apply
+Text: See more
+                  fares
+Text: *Terms and
+                conditions apply
 Link: /english/destinations/route-map/
 Text: Be inspired by our route map
-Text: EMIRATES SKYWARDS PARTNERS
-Text: Enjoy 25% bonus Skywards Miles
-Text: Convert your reward points into Miles and earn more Miles with participating partners
+Text: EMIRATES SKYWARDS
+                    PARTNERS
+Text: Enjoy 25% bonus Skywards
+                    Miles
+Text: Convert your reward points
+                    into Miles and earn more Miles with participating partners
 Link: /english/special-offers/earn-up-to-25-bonus-skywards-miles/
 Text: Learn more
-Text: Learn more:Enjoy 25% bonus Skywards Miles
-Text: Flying with Emirates
+Text: Learn more:Enjoy 25% bonus
+                        Skywards Miles
+Text: Flying
+          with Emirates
 Text: Make it an incredible journey
 Text: Explore the Emirates experience and plan an unforgettable trip beyond your flight.
 Link: /english/discover-dubai/
@@ -1518,21 +1639,26 @@ Link: /english/about-us/our-communities/
 Text: Our communities
 Text: return CTA block is removed EKWEB-2894
 Text: About us
-Text: About us
+Text: About
+                  us
 Text: About us
 Text: About us
 Link: /english/about-us/
 Text: About us
 Link: https://www.emiratesgroupcareers.com/
 Text: Careers
-Text: Opens an external link in a new tab
+Text: Opens
+                    an external link in a new tab
 Link: https://www.emirates.com/media-centre/
 Text: Media Centre
-Text: Opens an external link in a new tab
+Text: Opens an
+                    external link in a new tab
 Link: /english/about-us/our-planet/
-Text: Our planet
+Text: Our
+                planet
 Link: /english/about-us/our-people/
-Text: Our people
+Text: Our
+                people
 Link: /english/about-us/our-communities/
 Text: Our communities
 Text: Help
@@ -1542,7 +1668,8 @@ Text: Help
 Link: /english/help/
 Text: Help and Contact
 Link: /english/help/travel-updates/
-Text: Travel Updates
+Text: Travel
+                Updates
 Link: /english/before-you-fly/health/
 Text: Special Assistance
 Link: /english/help/faqs/
@@ -1554,7 +1681,8 @@ Text: Book
 Link: /english/book/
 Text: Book flights
 Link: /english/book/travel-services/
-Text: Travel services
+Text: Travel
+                services
 Link: /english/book/transportation/
 Text: Transportation
 Link: /english/book/planning-your-trip/
@@ -1568,7 +1696,8 @@ Text: Manage
 Link: /english/manage-booking/online-check-in/
 Text: Check-in
 Link: /english/manage-booking/
-Text: Manage your booking
+Text: Manage
+                your booking
 Link: /english/experience/chauffeur-drive/
 Text: Chauffeur drive
 Link: /english/manage-booking/flight-status/
@@ -1636,7 +1765,8 @@ Text: Log in to Emirates Skywards
 Link: /english/skywards/registration/
 Text: Join Emirates Skywards
 Link: /english/skywards/partners/
-Text: Our partners
+Text: Our
+                partners
 Link: /english/business-rewards/benefits/
 Text: Business Rewards benefits
 Link: /english/business-rewards/registration.aspx
@@ -1646,12 +1776,14 @@ Text: Emirates Skywards Programme Rules
 Text: Subscribe to our special offers
 Text: Save with our latest fares and offers.
 Link: /english/special-offers/unsubscribe/
-Text: Unsubscribe or change your preferences
+Text: Unsubscribe or change your
+              preferences
 Text: Email address
 Link: /english/special-offers/subscribe-to-offers/
 Text: Subscribe
 Text: privacy policy section begin
-Text: For details on how we use your information, please see our
+Text: For details on how we use your information, please
+            see our
 Link: /english/information/privacy-policy/
 Text: privacy policy
 Text: .
@@ -1677,8 +1809,10 @@ Text: Connect with us on Youtube - Opens an external link in a new tab
 Link: https://www.instagram.com/emirates/
 Text: Connect with us on Instagram - Opens an external link in a new tab
 Link: https://www.emirates.com/media-centre/emirates-crowned-world-class-airline-at-the-apex-official-airline-ratings/
-Text: Opens an external link in a new tab
-Text: Opens an external link in a new tab
+Text: Opens an external link in a new
+                tab
+Text: Opens an external link in a new
+                tab
 Text: Opens an external link in a new tab
 Link: /english/information/accessibility/
 Text: Accessibility statement
@@ -1696,7 +1830,8 @@ Link: /english/before-you-fly/travel/rules-and-notices/
 Text: Modern Slavery Act transparency statement
 Link: /english/information/sitemap/
 Text: Sitemap
-Text: © 2024 The Emirates Group. All Rights Reserved.
+Text: © 2024 The Emirates Group. All
+              Rights Reserved.
 Link: /english/
 Text: Google Tag Manager
 Text: End Google Tag Manager

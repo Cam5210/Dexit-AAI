@@ -1,0 +1,187 @@
+Deleted Tag: <link href="//content.delta.com/etc/designs/deltaApps/mobile/lib.0.css" rel="stylesheet"/>
+Deleted Tag: <link as="script" href="https://s.go-mpulse.net/boomerang/PWV8J-R2M7Y-67AAN-EA9TD-6DRAX" rel="preload"/>
+Deleted Tag: <script async="" src="https://www.delta.com/resources/b270526c9363120c0d0265eb98f27f913a30d77a1d98e" type="text/javascript"></script>
+Deleted Tag: <script data-dtconfig="rid=RID_793859624|rpid=-459212893|domain=delta.com|reportUrl=https://dlt-beacon.dynatrace-managed.com/bf/dbbe1fe6-c1b9-4ef5-9063-f51ccbac76c8|app=9912e316bf6ad580|ssc=1|cors=1|cssm=s|featureHash=ICA27NVfghjqrx|vcv=2|xb=.*TealeafTarget.jsp.*^p.*tt^bs.omtrdc^bs.net.*^p.*capture^bs.trackjs^bs.com.*|rdnt=1|bp=3|cuc=q0gt3kdt|mdl=mdcc3=20,mdcc6=20|mel=100000|md=mdcc1=cTLTSID,mdcc2=a#custlogin-user-link,mdcc3=adiv.dl_alert:not(.dl_alert-success):not(.dl_alert-primary):not(.dl_alert-secondary):not(.dl_alert-info):not(.dl_alert-light):not(.dl_alert-dark),mdcc4=cTLTSID,mdcc5=bdocument.referrer,mdcc6=bnavigator.userAgent,mdcc7=dutm_source,mdcc8=dutm_medium,mdcc9=dutm_campaign,mdcc11=dutm_content,mdcc12=bwindow.idp.shoppingLite.dynamicBannerRequest.userdata.originDestinationPair,mdcc13=bwindow.idp.shoppingLite.dynamicBannerRequest.userdata.triptype,mdcc14=bwindow.idp.shoppingLite.dynamicBannerRequest.userdata.origin,mdcc15=bwindow.idp.shoppingLite.dynamicBannerRequest.userdata.destination,mdcc16=bwindow.idp.shoppingLite.dynamicBannerRequest.userdata.departuredate,mdcc17=bwindow.idp.shoppingLite.dynamicBannerRequest.userdata.returndate,mdcc18=bwindow.idp.checkout.tripTotalData.subTotal.currency.amount,mdcc19=bwindow.idp.dataLayer.digitalData.attributes.searchType,mdcc20=cfrEndpoint|ssv=4|lastModification=1708421119058|mdp=mdcc3,mdcc4,mdcc13,mdcc19,mdcc20|tp=500,50,0,1|agentUri=/ruxitagentjs_ICA27NVfghjqrx_10259230221142207.js" src="/ruxitagentjs_ICA27NVfghjqrx_10259230221142207.js" type="text/javascript">
+	</script>
+Deleted Tag: <script>
+		(window.BOOMR_mq = window.BOOMR_mq || []).push(["addVar", {
+			"rua.upush": "false",
+			"rua.cpush": "false",
+			"rua.upre": "false",
+			"rua.cpre": "false",
+			"rua.uprl": "false",
+			"rua.cprl": "false",
+			"rua.cprf": "false",
+			"rua.trans": "",
+			"rua.cook": "false",
+			"rua.ims": "false",
+			"rua.ufprl": "false",
+			"rua.cfprl": "false",
+			"rua.isuxp": "false",
+			"rua.texp": "norulematch"
+		}]);
+	</script>
+Deleted Tag: <script>
+		! function (e) {
+			var n = "https://s.go-mpulse.net/boomerang/";
+			if ("False" == "True") e.BOOMR_config = e.BOOMR_config || {}, e.BOOMR_config.PageParams = e.BOOMR_config
+				.PageParams || {}, e.BOOMR_config.PageParams.pci = !0, n = "https://s2.go-mpulse.net/boomerang/";
+			if (window.BOOMR_API_key = "PWV8J-R2M7Y-67AAN-EA9TD-6DRAX", function () {
+					function e() {
+						if (!r) {
+							var e = document.createElement("script");
+							e.id = "boomr-scr-as", e.src = window.BOOMR.url, e.async = !0, o.appendChild(e), r = !0
+						}
+					}
+
+					function t(e) {
+						r = !0;
+						var n, t, a, i, d = document,
+							O = window;
+						if (window.BOOMR.snippetMethod = e ? "if" : "i", t = function (e, n) {
+								var t = d.createElement("script");
+								t.id = n || "boomr-if-as", t.src = window.BOOMR.url, BOOMR_lstart = (new Date).getTime(), e =
+									e || d.body, e.appendChild(t)
+							}, !window.addEventListener && window.attachEvent && navigator.userAgent.match(/MSIE [67]\./))
+							return window.BOOMR.snippetMethod = "s", void t(o, "boomr-async");
+						a = document.createElement("IFRAME"), a.src = "about:blank", a.title = "", a.role = "presentation", a
+							.loading = "eager", i = (a.frameElement || a).style, i.width = 0, i.height = 0, i.border = 0, i
+							.display = "none", o.appendChild(a);
+						try {
+							O = a.contentWindow, d = O.document.open()
+						} catch (_) {
+							n = document.domain, a.src = "javascript:var d=document.open();d.domain='" + n + "';void 0;", O =
+								a.contentWindow, d = O.document.open()
+						}
+						if (n) d._boomrl = function () {
+							this.domain = n, t()
+						}, d.write("<bo" + "dy onload='document._boomrl();'>");
+						else if (O._boomrl = function () {
+								t()
+							}, O.addEventListener) O.addEventListener("load", O._boomrl, !1);
+						else if (O.attachEvent) O.attachEvent("onload", O._boomrl);
+						d.close()
+					}
+
+					function a(e) {
+						window.BOOMR_onload = e && e.timeStamp || (new Date).getTime()
+					}
+					if (!window.BOOMR || !window.BOOMR.version && !window.BOOMR.snippetExecuted) {
+						window.BOOMR = window.BOOMR || {}, window.BOOMR.snippetStart = (new Date).getTime(), window.BOOMR
+							.snippetExecuted = !0, window.BOOMR.snippetVersion = 14, window.BOOMR.url = n +
+							"PWV8J-R2M7Y-67AAN-EA9TD-6DRAX";
+						var i = document.currentScript || document.getElementsByTagName("script")[0],
+							o = i.parentNode,
+							r = !1,
+							d = document.createElement("link");
+						if (d.relList && "function" == typeof d.relList.supports && d.relList.supports("preload") && "as" in
+							d) window.BOOMR.snippetMethod = "p", d.href = window.BOOMR.url, d.rel = "preload", d.as =
+							"script", d.addEventListener("load", e), d.addEventListener("error", function () {
+								t(!0)
+							}), setTimeout(function () {
+								if (!r) t(!0)
+							}, 3e3), BOOMR_lstart = (new Date).getTime(), o.appendChild(d);
+						else t(!1);
+						if (window.addEventListener) window.addEventListener("load", a, !1);
+						else if (window.attachEvent) window.attachEvent("onload", a)
+					}
+				}(), "".length > 0)
+				if (e && "performance" in e && e.performance && "function" == typeof e.performance
+					.setResourceTimingBufferSize) e.performance.setResourceTimingBufferSize();
+			! function () {
+				if (BOOMR = e.BOOMR || {}, BOOMR.plugins = BOOMR.plugins || {}, !BOOMR.plugins.AK) {
+					var n = "" == "true" ? 1 : 0,
+						t = "",
+						a = "mafkeuaxz4zlszowyiya-f-6846715ee-clientnsv4-s.akamaihd.net",
+						i = "false" == "true" ? 2 : 1,
+						o = {
+							"ak.v": "36",
+							"ak.cp": "542017",
+							"ak.ai": parseInt("237743", 10),
+							"ak.ol": "0",
+							"ak.cr": 35,
+							"ak.ipv": 4,
+							"ak.proto": "h2",
+							"ak.rid": "2aa5509",
+							"ak.r": 40959,
+							"ak.a2": n,
+							"ak.m": "x",
+							"ak.n": "essl",
+							"ak.bpcip": "96.10.162.0",
+							"ak.cport": 8544,
+							"ak.gh": "23.77.200.176",
+							"ak.quicv": "",
+							"ak.tlsv": "tls1.3",
+							"ak.0rtt": "",
+							"ak.csrc": "-",
+							"ak.acc": "",
+							"ak.t": "1708573232",
+							"ak.ak": "hOBiQwZUYzCg5VSAfCLimQ==PW4jRv217Q3Wl6hGZc0zlPdoL/mCu+0YIGk75gCZxKUHtGBFkyLn3y3ZSRjLyfvnWMyVzJtNAwkUbsFZIYE8zqrHrhxK1frSAZb5VueW2VyWFAkmQ3p7nSee44kw09bPoE5uGo5/B5tYbk9ji/IIe4Qu7cBRoY6M1gn88gLDAho6bR0qrO5VTkKtQQ1oPvKqmSS13tn+poL34EK7COKHKi3mtI5Ir+j7YtPOCnb7AIWRii7tM07f3B5x6bF2qK//1qvvaRIqdH3/OF8CrR6f6q49heo2k+mROd0Nqh/7zreCFoeza3rmU3HFnrNxka2AqJIxrPDVG8b+RJ9LfYpeh7746QjjhCqxxtYH2dyIc6uZpNu+Lgu+Zw1252aFFr02WZyDgGZIiw2N6B19OTzKbTpG74WLZ4OqJlAsLEQu5Sg=",
+							"ak.pv": "305",
+							"ak.dpoabenc": "",
+							"ak.tf": i
+						};
+					if ("" !== t) o["ak.ruds"] = t;
+					var r = {
+						i: !1,
+						av: function (n) {
+							var t = "http.initiator";
+							if (n && (!n[t] || "spa_hard" === n[t])) o["ak.feo"] = void 0 !== e.aFeoApplied ? 1 : 0,
+								BOOMR.addVar(o)
+						},
+						rv: function () {
+							var e = ["ak.bpcip", "ak.cport", "ak.cr", "ak.csrc", "ak.gh", "ak.ipv", "ak.m", "ak.n",
+								"ak.ol", "ak.proto", "ak.quicv", "ak.tlsv", "ak.0rtt", "ak.r", "ak.acc", "ak.t",
+								"ak.tf"
+							];
+							BOOMR.removeVar(e)
+						}
+					};
+					BOOMR.plugins.AK = {
+						akVars: o,
+						akDNSPreFetchDomain: a,
+						init: function () {
+							if (!r.i) {
+								var e = BOOMR.subscribe;
+								e("before_beacon", r.av, null, null), e("onbeacon", r.rv, null, null), r.i = !0
+							}
+							return this
+						},
+						is_complete: function () {
+							return !0
+						}
+					}
+				}
+			}()
+		}(window);
+	</script>
+Deleted Tag: <script>
+		bazadebezolkohpepadr = "1591455707"
+	</script>
+Deleted Tag: <script defer="" src="https://www.delta.com/akam/13/5edbad18" type="text/javascript"></script>
+Deleted Tag: <script async="" id="boomr-scr-as" src="https://s.go-mpulse.net/boomerang/PWV8J-R2M7Y-67AAN-EA9TD-6DRAX"></script>
+Deleted Tag: <script src="/25qVjDRnyX-gXJEt5UKeXEV5qH0/bOaSJfV3Sabu1N/Ay4KP0QVAw/OU5hXVAM/B28" type="text/javascript"></script>
+Deleted Tag: <meta charset="utf-8"/>
+Deleted Tag: <meta content="" name="description"/>
+Deleted Tag: <meta content="True" name="HandheldFriendly"/>
+Deleted Tag: <meta content="320" name="MobileOptimized"/>
+Deleted Tag: <meta content="width=device-width, height=device-height, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" name="viewport"/>
+Deleted Tag: <img src="https://www.delta.com/akam/13/pixel_5edbad18?a=dD1jNWUwNTBjMThlOGUxY2Q1YTZkZmFjMjg5YjhmNjE1NTM0ZmQxZDRjJmpzPW9mZg==" style="visibility: hidden; position: absolute; left: -999px; top: -999px;"/>
+Deleted Tag: <noscript></noscript>
+Deleted Tag: <iframe style="width: 0px; height: 0px; display: none;"></iframe>
+Deleted Tag: <iframe id="f6l9CbjKUQBM98B5" style="display: none;"></iframe>
+Deleted Link: #wifi
+Deleted Link: #priority
+Deleted Link: #mileage
+Deleted Link: #lift
+Deleted Link: #ascend
+Deleted Link: 
+Deleted Link: 
+Deleted Link: #
+Deleted Link: 
+Deleted Link: #
+Deleted Link: 
+Deleted Link: #
+Deleted Link: 
+Deleted Link: 
+Deleted Link: #

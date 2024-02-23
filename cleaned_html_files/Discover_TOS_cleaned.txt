@@ -1,0 +1,383 @@
+Text: Interest-Only Terms and Conditions | Discover Student Loans
+Text: Start Favicon Image
+Text: End Favicon Image
+Text: Start Adobe Tags
+Text: End Launch Tags
+Text: Discover is no longer accepting new student loan
+                                                                applications.
+Text: Applications received on or before January 31, 2024, 11:59
+                                                            pm CT will be processed as usual.
+Link: javascript:;
+Text: Skip to main content
+Link: https://www.discover.com
+Link: javascript:;
+Text: All Products
+Link: https://www.discover.com/credit-cards/?ICMPGN=HDR_ALLPS_CC_IT
+Text: Credit
+                                                                    Cards
+Link: https://www.discover.com/online-banking/?ICMPGN=HDR_ALLPS_BANKING_INDEX
+Text: Banking
+Link: https://www.discover.com/home-loans/?sc=HC637&ICMPGN=HDR_ALLPS_LOAN_HOME
+Text: Home
+                                                                    Loans
+Link: https://www.discover.com/personal-loans/?ICMPGN=HDR_ALLPS_LOAN_PERS
+Text: Personal
+                                                                    Loans
+Link: tel:+18007883368
+Text: 1-800-STUDENT
+Link: javascript:;
+Text: Search
+Text: Search
+                                                                    Discover
+Text: When
+                                                                    autocomplete results are available use up and down
+                                                                    arrows to review and enter to select. Touch device
+                                                                    users, explore by touch or with swipe
+                                                                    gestures.
+Link: javascript:;
+Text: .
+Text: Log In
+Text: Header for Ipad and Mobile view
+Link: https://www.discover.com
+Text: Log In
+Text: Log In pop up on hover
+Text: Discover Student Loans secure account login
+Text: User
+                                                            ID
+Text: User ID
+Text: Password
+Text: Show
+Text: Password
+Text: Remember User
+                                                        ID
+Text: Log
+                                                    In
+Link: https://studentloans.discover.com/MFA/ForgotPassword/PersonalInfo.aspx
+Text: Forgot
+                                                    User ID / Password?
+Link: https://studentloans.discover.com/MFA/Registration/PersonalInfo.aspx
+Text: Register Now
+Text: .
+Link: /student-loans/
+Text: Student Loans
+Link: /student-loans/private.html
+Text: Private Student Loans
+Link: /student-loans/undergraduate.html
+Text: Undergraduate
+                                                                Loans
+Text: Graduate
+Link: /student-loans/graduate.html
+Text: Graduate Loans
+Link: /student-loans/mba.html
+Text: MBA Loans
+Link: /student-loans/health-professions.html
+Text: Health
+                                                                Professions Loans
+Link: /student-loans/law.html
+Text: Law Loans
+Text: Post
+                                                            Graduate
+Link: /student-loans/residency.html
+Text: Residency Loans
+Link: /student-loans/bar-exam-study.html
+Text: Bar Exam
+                                                                Loans
+Text: Parent
+                                                            Loans
+Link: /student-loans/parent-loans
+Text: Parent Loans
+Text: Consolidation
+                                                            Loans
+Link: /student-loans/consolidation.html
+Text: Consolidation
+                                                                Loans
+Link: /student-loans/college-planning
+Text: College Planning
+Link: /student-loans/college-planning/prep
+Text: College
+                                                                Prep
+Link: /student-loans/college-planning/how-to-pay
+Text: Paying
+                                                                for College
+Link: /student-loans/college-planning/scholarships
+Text: Scholarships
+Link: /student-loans/college-planning/college-life
+Text: College
+                                                                Life
+Link: /student-loans/college-planning/for-parents
+Text: For
+                                                                Parents
+Link: /student-loans/calculators
+Text: Calculators & Tools
+Text: Calculators
+Link: /student-loans/calculators/loan-calculator
+Text: Student
+                                                                Loan Calculator
+Link: /student-loans/calculators/repayment-calculator
+Text: Repayment
+                                                                Calculator
+Link: /student-loans/calculators/award-letter-comparison-tool
+Text: College
+                                                                Cost Comparison
+Text: Tools
+Link: /student-loans/calculators/college-plan
+Text: My College
+                                                                Plan
+Link: /student-loans/college-planning/scholarships/directory/general
+Text: Scholarship
+                                                                Directory
+Link: /student-loans/college-planning/scholarships/search
+Text: Scholarship
+                                                                Search
+Text: Help Center
+Link: /student-loans/help/customer-service
+Text: Contact Us
+Link: /student-loans/repayment
+Text: Repayment
+                                                                Help
+Link: /student-loans/application/faq
+Text: Application Help
+Link: /student-loans/rewards
+Text: Rewards
+Link: javascript:;
+Text: Search
+Text: Overlay Background
+Text: Interest-Only Repayment Option Rate Discount Terms and Conditions
+Text: These Terms and Conditions describe the eligibility and policies for the
+                                                interest rate reduction associated with the interest-only repayment
+                                                option. "You" refers to the customer. "We" refers to Discover® Bank.
+Text: Note: If you choose an in-school repayment loan option during the
+                                                application process, you are also eligible for the Auto Debit Reward.
+                                                You can receive the Auto Debit Reward, while enrolled in automatic
+                                                payments for the agreed in-school payment amount during the in-school
+                                                and grace periods. Full principal and interest payments will be debited
+                                                when the loan enters the Repayment Period, as defined in the Promissory
+                                                Note. See
+Link: /student-loans/rewards/auto-debit-reward-policy
+Text: Automatic
+                                                    Payments & Auto Debit Reward Terms and Conditions
+Text: for
+                                                eligibility and enrollment information.
+Text: Interest-Only Repayment Option Interest Rate Discount
+Text: You will receive an interest rate discount (0.35%) if, during the
+                                                application process, you selected the interest-only repayment option and
+                                                make interest-only payments during the in-school and grace
+                                                periods. If you are applying for a Bar Exam or Residency loan, you
+                                                must be enrolled in school at least half-time at the time you submit
+                                                your application to be eligible for the interest-only repayment option
+                                                and discount.
+Text: The interest rate discount will be applied to your loan with an
+                                                interest-only repayment option once the loan is disbursed and will
+                                                continue if you make timely monthly interest payments during the
+                                                in-school and grace periods.
+Text: Before your loan with an interest-only repayment option enters the
+                                                Repayment Period, you must pay off unpaid accrued interest on your loan
+                                                to continue receiving the interest-only discount during the Repayment
+                                                Period.
+Text: If your unpaid accrued interest at the start of the Repayment Period
+                                                exceeds 60 days of accrued interest, you may not receive the interest
+                                                rate discount during the Repayment Period. Sixty days of accrued
+                                                interest will be calculated based on your original loan amount and the
+                                                greater of your interest rate reflected on your Final Disclosure or at
+                                                the end of your Grace Period (excluding any interest rate discount
+                                                benefits).
+Text: Any unpaid accrued interest on your loan before it enters the Repayment
+                                                Period will be capitalized and added to the principal balance of your
+                                                loan. This may increase the principal balance of your loan, the amount
+                                                of your monthly payment and the total cost of your loan.
+Text: Interest-Only Repayment Option Interest Rate Discount Exceptions
+Text: If you fail to make timely monthly interest payments, your loan will be
+                                                placed in a suspension period of up to six months at a time, which will
+                                                increase the amount you pay over the life of the loan.
+Text: The suspension of your required interest payments while in-school and
+                                                during the grace period and prior to the Repayment Period will result in
+                                                the loss of the 0.35% interest rate discount during the suspension
+                                                period.
+Text: When the suspension ends, you will again be required to make monthly
+                                                interest payments on your loan and the discount will be reapplied if you
+                                                do so. If your interest-only loan enters a deferment period, following
+                                                entry into the Repayment Period, you will again be required to make your
+                                                monthly interest-only payments.
+Text: Payment suspensions that occur during in-school or other types of
+                                                deferment periods that follow entry into the Repayment Period will not
+                                                result in the loss of the interest rate discount.
+Text: You can make payments while your loan is on a payment suspension. You may
+                                                also call us to cancel the payment suspension at any time if you are
+                                                able to resume your scheduled monthly payments before your payment
+                                                suspension ends and resume your interest rate discount.
+Text: Changes to These Terms and Conditions
+Text: These Terms and Conditions are subject to change without notice. We may
+                                                change them at any time including, but not limited to, changing criteria
+                                                or imposing additional conditions.
+Text: IOTC202307
+Text: Horizontal
+Link: /student-loans/college-planning/scholarships
+Text: Find College Scholarships
+Link: /student-loans/calculators
+Text: Student Loan Calculators
+Text: Student Loan Products
+Link: /student-loans/private.html
+Text: Private
+                                                                                                Student Loans
+Link: /student-loans/undergraduate.html
+Text: Undergraduate
+                                                                                                Loans
+Link: /student-loans/graduate.html
+Text: Graduate
+                                                                                                Loans
+Link: /student-loans/mba.html
+Text: MBA
+                                                                                                Loans
+Link: /student-loans/health-professions.html
+Text: Health
+                                                                                                Professions Loans
+Link: /student-loans/law.html
+Text: Law
+                                                                                                Loans
+Link: /student-loans/residency.html
+Text: Residency
+                                                                                                Loans
+Link: /student-loans/bar-exam-study.html
+Text: Bar
+                                                                                                Exam Loans
+Link: /student-loans/parent-loans
+Text: Parent
+                                                                                                Loans
+Link: /student-loans/consolidation.html
+Text: Private
+                                                                                                Consolidation Loans
+Text: Discover Student Loans
+Link: /student-loans/college-planning
+Text: College
+                                                                                                Planning
+Link: /student-loans/interest-rates
+Text: Interest
+                                                                                                Rates
+Link: /student-loans/rewards/rewards-for-good-grades-policy
+Text: Rewards
+                                                                                                for Good Grades
+                                                                                                Policy
+Link: /student-loans/rewards/auto-debit-reward-policy
+Text: Auto
+                                                                                                Debit Reward Policy
+Link: /student-loans/college-planning/scholarships/award?icmpgn=sch_home_footer_apply
+Text: Scholarship
+                                                                                                Sweepstakes
+Link: https://www.discover.com/privacy-statement/student-loans-privacy-policy.html?ICMPGN=SUB_DSL_FTR_PRVCY
+Text: Privacy
+                                                                                                Policy
+Link: https://www.discover.com/privacy-statement/sms-terms-conditions.html
+Text: SMS Terms &
+                                                                                                Conditions
+Text: Help & Support
+Link: /student-loans/help/customer-service
+Text: Customer
+                                                                                                Service
+Link: /student-loans/application/download-student-loan-forms
+Text: Download
+                                                                                                Forms
+Link: /student-loans/application/faq
+Text: Application
+                                                                                                Help
+Link: /student-loans/repayment
+Text: Repayment
+                                                                                                Help
+Link: /student-loans/help/student-loan-glossary
+Text: Glossary
+Link: /student-loans/schools
+Text: Information
+                                                                                                for Schools
+Text: Other Products
+Link: https://www.discover.com/credit-cards/?ICMPGN=HDR_ALLPS_CC_IT
+Text: Credit
+                                                                                                Cards
+Link: https://www.discover.com/home-loans/?sc=HC638&ICMPGN=FTR_ALLPS_LOAN_HOME
+Text: Home
+                                                                                                Loans
+Link: https://www.discover.com/online-banking/?ICMPGN=HDR_ALLPS_BANKING_INDEX
+Text: Banking
+Link: https://www.discover.com/personal-loans/?ICMPGN=HDR_ALLPS_LOAN_PERS
+Text: Personal
+                                                                                                Loans
+Link: /student-loans/help/site-map
+Text: Sitemap
+Link: https://www.discover.com/discover-terms-of-use?ICMPGN=PUB_FTR_DSL_TERMS
+Text: Terms of Use
+Link: https://www.discover.com/online-banking/security-center/
+Text: Security Center
+Link: https://www.discover.com/company/newsroom/?ICMPGN=DSL_FTR_ABTUS_NEWS
+Text: Newsroom
+Link: https://www.discover.com/privacy-statement/index.html?ICMPGN=SUB_DSL_FTR_PRVCY
+Text: Privacy
+Link: /student-loans/help/customer-service
+Text: Contact Us
+Link: http://info.evidon.com/pub_info/1142?v=1
+Text: AdChoices
+Link: https://www.discover.com/cpra/form
+Text: Your California Privacy Choices
+Link: https://twitter.com/discover
+Text: Twitter opens in a new window
+Link: https://www.facebook.com/discover
+Text: Facebook opens in a new window
+Link: https://www.linkedin.com/company/discover-financial-services
+Text: LinkedIn opens in a new window
+Link: https://www.youtube.com/channel/UCP2So5mX-uUtGITuOl5gOfw
+Text: Youtube opens in a new window
+Text: ©
+Text: 2024
+Text: Discover
+                                                        Bank, Member FDIC | Lender ID 831312
+Link: https://www.bbb.org/us/il/riverwoods/profile/credit-cards-and-plans/discover-financial-services-0654-1004324
+Link: https://www.fdic.gov/
+Text: .
+Text: You
+                                                        are leaving Discover.com
+Text: You are leaving Discover.com and
+                                                    entering a website operated by a third party. We are providing the
+                                                    link to this website for your convenience, or because we have a
+                                                    relationship with the third party. Discover Bank does not provide
+                                                    the products and services on the website. Please review the
+                                                    applicable privacy and security policies and terms and conditions
+                                                    for the website you are visiting. Discover Bank does not guarantee
+                                                    the accuracy of any financial tools that may be available on the
+                                                    website or their applicability to your circumstances. For personal
+                                                    advice regarding your financial situation, please consult with a
+                                                    financial advisor.
+Text: Continue
+Text: Leave Discover.com
+                                                    and continue to external website
+Text: Cancel
+Text: ›
+Text: Cancel and return to Discover.com
+Text: Close
+                                            X
+Text: Close and return to Discover.com
+Text: .
+Text: Campaign Tracker Script
+Text: End Campaign Tracker Script
+Text: BEGIN: OnlineOpinion v5.6.4
+Text: MAIN OL STYLESHEET
+Text: MAIN OL STYLESHEET JS
+Text: MAIN OL ENGINE MINI
+Text: FEEDBACK CONFIGURATION
+Text: END: OnlineOpinion v5.6.4
+Text: Start Environs Script
+Text: End Environs Script
+Text: Start DSL Login Script
+Text: End DSL Login Script
+Text: Start TLS Script
+Text: End TLS Script
+Text: Bot Manager
+Text: End Bot Manager
+Text: Start Release Fixes
+Text: End Release Fixes
+Text: Event snippet for DSL-All Pages-Standard on https://www.discover.com/student-loans/: Please do not remove.
+Text: End of event snippet: Please do not remove
+Text: Global site tag (gtag.js) - BaseTag
+Text: End of global snippet: Please do not remove
+Text: Global site tag (gtag.js) - Gtag Library Call
+Text: End of global snippet: Please do not remove
+Text: Bing UET
+Text: Feedback
+Text: Launches comment card in new
+            window

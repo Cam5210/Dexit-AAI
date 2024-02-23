@@ -1,154 +1,21 @@
-<html lang="en-US" class="bwc-page-template-powered">
-
-<head>
-    <meta charset="utf-8">
-    <base href="/">
-
-    <script defer="" src="https://js-cdn.dynatrace.com/jstag/168990811ca/bf19952pmx/7c7dae02c5380f0b_complete.js">
-    </script>
-    <script async="" src="//tdn.r42tag.com/lib/1205-v1.js"></script>
-    <script defer="" src="https://rda00747.jscrambler.com/cc/1588655105.js"></script>
-    <script>
-        var bwTimestampLoadStart = Date.now();
-
-        // Inform relay that we are using our own cookie banner
-        window.uses_own_tracking_banner = true;
-    </script>
-    <link rel="preload" href="https://www.static-af.com/assets/css/af.eabcf913b00a114472b2a8716fc270bd061fbd5f.css"
-        as="style">
-
-
-
-
-    <link rel="preload"
-        href="https://www.static-af.com/assets/components/32.1.0/af/fonts/ExcellenceInMotionScreen-Bold.woff" as="font"
-        crossorigin="">
-    <link rel="preload"
-        href="https://www.static-af.com/assets/components/32.1.0/af/fonts/ExcellenceInMotionScreen-Regular.woff"
-        as="font" crossorigin="">
-
-
-    <link rel="preconnect" href="https://www.static-af.com">
-
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="mobile-web-app-capable" content="yes">
-    <meta name="theme-color" content="#051039">
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-status-bar-style" content="default">
-    <meta name="cookie-banner-brand" content="af">
-    <meta name="cookie-banner-language" content="en-US">
-    <meta name="cookie-banner-country" content="FR">
-
-    <title>General conditions of carriage, legal information | Air France</title>
-
-
-    <script>
-        (function (i, s) {
-            var a = s.createElement("script");
-            var m = document.getElementsByTagName("script")[0];
-            a.defer = 1;
-            a.src = "https://rda00747.jscrambler.com/cc/1588655105.js";
-            m.parentNode.insertBefore(a, m);
-        })(window, document);
-    </script>
-
-
-
-    <script type="text/javascript" defer="">
-        // Relay42
-        (function (a, d, e, b, f, c, s) {
-            a[b] =
-                a[b] ||
-                function () {
-                    a[b].q.push(arguments);
-                };
-            a[b].q = [];
-            c = d.createElement(e);
-            c.async = 1;
-            c.src = '//tdn.r42tag.com/lib/' + f + '.js';
-            s = d.getElementsByTagName(e)[0];
-
-            function createCustomEvent(event, params) {
-                var p = params || {
-                    bubbles: false,
-                    cancelable: false,
-                    detail: undefined
-                };
-
-                if (typeof window.CustomEvent === 'function') {
-                    return new CustomEvent(event, p);
-                }
-
-                var evt = document.createEvent('CustomEvent');
-                evt.initCustomEvent(event, params.bubbles, params.cancelable, params.detail);
-                return evt;
-            }
-
-            c.addEventListener('load', function () {
-                var _ge = createCustomEvent('gtm_loaded', {
-                    bubbles: true
-                });
-                d.dispatchEvent(_ge);
-            });
-
-            s.parentNode.insertBefore(c, s);
-        })(window, document, 'script', '_st', '1205-v1');
-    </script>
-
-
-
-    <script async="">
-        addEventListener('OptimizelySnippetLoaded', function () {
-            window['optimizely'] = window['optimizely'] || [];
-            window['optimizely'].push(
-                // Segmenting visitors brand | https://docs.developers.optimizely.com/web/docs/user
-                {
-                    type: 'user',
-                    attributes: {
-                        '18163354898': 'af'
-                    }
-                }
-            );
-        });
-    </script>
-
-    <script src="https://cdn.optimizely.com/datafiles/U5ip7dvEQh4CtQGK8dUdrJ.json/tag.js" defer=""></script>
-
-
-    <link rel="apple-touch-icon" sizes="120x120" href="https://www.static-af.com/assets/af/img/logo-120.png">
-    <link rel="shortcut icon" sizes="48x48" href="https://www.static-af.com/assets/af/img/logo-48.png">
-    <link rel="shortcut icon" href="https://www.static-af.com/assets/af/favicon.ico" type="image/x-icon">
-    <link rel="manifest" href="https://www.static-af.com/assets/af/manifest.webmanifest">
-    <link rel="stylesheet" href="https://www.static-af.com/assets/css/af.eabcf913b00a114472b2a8716fc270bd061fbd5f.css"
-        id="bw-stylesheet">
-    <link rel="stylesheet" media="print"
-        href="https://www.static-af.com/assets/css/af-print.eabcf913b00a114472b2a8716fc270bd061fbd5f.css"
-        id="bw-print-stylesheet">
-
-
-    <script defer="" type="text/javascript" src="https://www.static-af.com/assets/cookie-banner/cookie-banner.js">
-    </script>
-
-
-    <link rel="preload"
-        href="https://www.static-af.com/assets/css/af/information.eabcf913b00a114472b2a8716fc270bd061fbd5f.css"
-        as="style" id="BwCss-information-preload">
-    <link rel="stylesheet"
-        href="https://www.static-af.com/assets/css/af/information.eabcf913b00a114472b2a8716fc270bd061fbd5f.css"
-        type="text/css" id="BwCss-information" media="all">
-    <link rel="preload"
-        href="https://www.static-af.com/assets/css/af/seatmap.eabcf913b00a114472b2a8716fc270bd061fbd5f.css" as="style"
-        id="BwCss-seatmap-preload">
-    <link rel="stylesheet"
-        href="https://www.static-af.com/assets/css/af/seatmap.eabcf913b00a114472b2a8716fc270bd061fbd5f.css"
-        type="text/css" id="BwCss-seatmap" media="all">
-    <link rel="preload"
-        href="https://www.static-af.com/assets/css/af/contact-us.eabcf913b00a114472b2a8716fc270bd061fbd5f.css"
-        as="style" id="BwCss-contact-us-preload">
-    <link rel="stylesheet"
-        href="https://www.static-af.com/assets/css/af/contact-us.eabcf913b00a114472b2a8716fc270bd061fbd5f.css"
-        type="text/css" id="BwCss-contact-us" media="all">
-    <style ng-app-id="server-app">
+Deleted Tag: <link as="style" href="https://www.static-af.com/assets/css/af.eabcf913b00a114472b2a8716fc270bd061fbd5f.css" rel="preload"/>
+Deleted Tag: <link as="font" crossorigin="" href="https://www.static-af.com/assets/components/32.1.0/af/fonts/ExcellenceInMotionScreen-Bold.woff" rel="preload"/>
+Deleted Tag: <link as="font" crossorigin="" href="https://www.static-af.com/assets/components/32.1.0/af/fonts/ExcellenceInMotionScreen-Regular.woff" rel="preload"/>
+Deleted Tag: <link href="https://www.static-af.com" rel="preconnect"/>
+Deleted Tag: <link href="https://www.static-af.com/assets/af/img/logo-120.png" rel="apple-touch-icon" sizes="120x120"/>
+Deleted Tag: <link href="https://www.static-af.com/assets/af/img/logo-48.png" rel="shortcut icon" sizes="48x48"/>
+Deleted Tag: <link href="https://www.static-af.com/assets/af/favicon.ico" rel="shortcut icon" type="image/x-icon"/>
+Deleted Tag: <link href="https://www.static-af.com/assets/af/manifest.webmanifest" rel="manifest"/>
+Deleted Tag: <link href="https://www.static-af.com/assets/css/af.eabcf913b00a114472b2a8716fc270bd061fbd5f.css" id="bw-stylesheet" rel="stylesheet"/>
+Deleted Tag: <link href="https://www.static-af.com/assets/css/af-print.eabcf913b00a114472b2a8716fc270bd061fbd5f.css" id="bw-print-stylesheet" media="print" rel="stylesheet"/>
+Deleted Tag: <link as="style" href="https://www.static-af.com/assets/css/af/information.eabcf913b00a114472b2a8716fc270bd061fbd5f.css" id="BwCss-information-preload" rel="preload"/>
+Deleted Tag: <link href="https://www.static-af.com/assets/css/af/information.eabcf913b00a114472b2a8716fc270bd061fbd5f.css" id="BwCss-information" media="all" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link as="style" href="https://www.static-af.com/assets/css/af/seatmap.eabcf913b00a114472b2a8716fc270bd061fbd5f.css" id="BwCss-seatmap-preload" rel="preload"/>
+Deleted Tag: <link href="https://www.static-af.com/assets/css/af/seatmap.eabcf913b00a114472b2a8716fc270bd061fbd5f.css" id="BwCss-seatmap" media="all" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link as="style" href="https://www.static-af.com/assets/css/af/contact-us.eabcf913b00a114472b2a8716fc270bd061fbd5f.css" id="BwCss-contact-us-preload" rel="preload"/>
+Deleted Tag: <link href="https://www.static-af.com/assets/css/af/contact-us.eabcf913b00a114472b2a8716fc270bd061fbd5f.css" id="BwCss-contact-us" media="all" rel="stylesheet" type="text/css"/>
+Deleted Tag: <link href="https://wwws.airfrance.fr/en/information/legal/edito-cg-airfrance" rel="canonical"/>
+Deleted Tag: <style ng-app-id="server-app">
         [_nghost-server-app-c915333575] {
             display: block;
             will-change: height;
@@ -158,7 +25,7 @@
             flex-shrink: 0;
         }
     </style>
-    <style ng-app-id="server-app">
+Deleted Tag: <style ng-app-id="server-app">
         [_nghost-server-app-c1494823503] {
             display: inline-block;
         }
@@ -167,21 +34,7 @@
             display: inline-block;
         }
     </style>
-    <script type="application/ld+json">
-        {
-            "@context": "https://schema.org/",
-            "@type": "WebSite",
-            "name": "Air France France",
-            "url": "https://wwws.airfrance.fr",
-            "creator": {
-                "@type": "Organization",
-                "name": "Air France France",
-                "alternateName": "Air France",
-                "url": "https://wwws.airfrance.fr"
-            }
-        }
-    </script>
-    <style ng-app-id="server-app">
+Deleted Tag: <style ng-app-id="server-app">
         .mdc-touch-target-wrapper {
             display: inline
         }
@@ -718,7 +571,7 @@
             margin: calc(calc(var(--mat-mdc-focus-indicator-border-width, 3px) + 3px) * -1)
         }
     </style>
-    <style ng-app-id="server-app">
+Deleted Tag: <style ng-app-id="server-app">
         .cdk-high-contrast-active .mat-mdc-button:not(.mdc-button--outlined),
         .cdk-high-contrast-active .mat-mdc-unelevated-button:not(.mdc-button--outlined),
         .cdk-high-contrast-active .mat-mdc-raised-button:not(.mdc-button--outlined),
@@ -727,7 +580,7 @@
             outline: solid 1px
         }
     </style>
-    <style ng-app-id="server-app">
+Deleted Tag: <style ng-app-id="server-app">
         mat-menu {
             display: none
         }
@@ -908,7 +761,7 @@
             pointer-events: none
         }
     </style>
-    <style ng-app-id="server-app">
+Deleted Tag: <style ng-app-id="server-app">
         @media screen and (forced-colors: active),
         (-ms-high-contrast: active) {
             .mdc-list-divider::after {
@@ -2606,7 +2459,7 @@
             border: 0
         }
     </style>
-    <style ng-app-id="server-app">
+Deleted Tag: <style ng-app-id="server-app">
         .mdc-icon-button {
             display: inline-block;
             position: relative;
@@ -2834,14 +2687,7 @@
             opacity: 1
         }
     </style>
-    <meta name="description" content="scope of application, tickets, fares, taxes, fees, booking, personal data rules">
-    <meta property="og:title" content="General conditions of carriage, legal information | Air France">
-    <meta property="og:description"
-        content="scope of application, tickets, fares, taxes, fees, booking, personal data rules">
-    <meta property="og:site_name" content="Air France">
-    <link rel="canonical" href="https://wwws.airfrance.fr/en/information/legal/edito-cg-airfrance">
-    <meta property="og:url" content="https://wwws.airfrance.fr/en/information/legal/edito-cg-airfrance">
-    <style ng-app-id="server-app">
+Deleted Tag: <style ng-app-id="server-app">
         .bwc-breadcrumb[_nghost-server-app-c2889844370] {
             font-size: 1.125rem;
             line-height: 1.3333333333;
@@ -2894,13 +2740,13 @@
             list-style-type: none;
         }
     </style>
-    <style ng-app-id="server-app">
+Deleted Tag: <style ng-app-id="server-app">
         [_nghost-server-app-c4036654880] .bw-information-accordion-toggle[_ngcontent-server-app-c4036654880] {
             padding: 8px 16px;
             text-align: right;
         }
     </style>
-    <style ng-app-id="server-app">
+Deleted Tag: <style ng-app-id="server-app">
         .mat-expansion-panel {
             --mat-expansion-container-shape: 4px;
             box-sizing: content-box;
@@ -2997,7 +2843,7 @@
             margin-right: 8px
         }
     </style>
-    <style ng-app-id="server-app">
+Deleted Tag: <style ng-app-id="server-app">
         .mat-expansion-panel-header {
             display: flex;
             flex-direction: row;
@@ -3138,11 +2984,7 @@
             border-top-right-radius: 0
         }
     </style>
-    <script nonce="">
-        bazadebezolkohpepadr = "510002853"
-    </script>
-    <script type="text/javascript" src="https://wwws.airfrance.fr/akam/13/1e66047f" nonce="" defer=""></script>
-    <style>
+Deleted Tag: <style>
         .bw-cookie-banner {
             display: flex;
             position: fixed;
@@ -3604,8 +3446,8 @@
             transform: rotate(270deg)
         }
     </style>
-    <style type="text/css"></style>
-    <style>
+Deleted Tag: <style type="text/css"></style>
+Deleted Tag: <style>
         .mat-drawer-container {
             position: relative;
             z-index: 1;
@@ -3785,7 +3627,7 @@
             position: fixed
         }
     </style>
-    <style>
+Deleted Tag: <style>
         [_nghost-server-app-c915333575] {
             display: block;
             will-change: height;
@@ -3795,7 +3637,7 @@
             flex-shrink: 0
         }
     </style>
-    <style>
+Deleted Tag: <style>
         .mat-toolbar {
             background: var(--mat-toolbar-container-background-color);
             color: var(--mat-toolbar-container-text-color)
@@ -3877,7 +3719,7 @@
             }
         }
     </style>
-    <style>
+Deleted Tag: <style>
         [_nghost-server-app-c1494823503] {
             display: inline-block
         }
@@ -3886,7 +3728,7 @@
             display: inline-block
         }
     </style>
-    <style>
+Deleted Tag: <style>
         mat-icon,
         mat-icon.mat-primary,
         mat-icon.mat-accent,
@@ -3930,107 +3772,102 @@
             margin: auto
         }
     </style>
-    <script src="https://cdn.optimizely.com/public/4268742351/s/afbw.js"></script>
-</head>
+Deleted Tag: <script defer="" src="https://js-cdn.dynatrace.com/jstag/168990811ca/bf19952pmx/7c7dae02c5380f0b_complete.js">
+    </script>
+Deleted Tag: <script async="" src="//tdn.r42tag.com/lib/1205-v1.js"></script>
+Deleted Tag: <script defer="" src="https://rda00747.jscrambler.com/cc/1588655105.js"></script>
+Deleted Tag: <script>
+        var bwTimestampLoadStart = Date.now();
 
-<body class="bw-af bwc" style="overflow: hidden;">
+        // Inform relay that we are using our own cookie banner
+        window.uses_own_tracking_banner = true;
+    </script>
+Deleted Tag: <script>
+        (function (i, s) {
+            var a = s.createElement("script");
+            var m = document.getElementsByTagName("script")[0];
+            a.defer = 1;
+            a.src = "https://rda00747.jscrambler.com/cc/1588655105.js";
+            m.parentNode.insertBefore(a, m);
+        })(window, document);
+    </script>
+Deleted Tag: <script defer="" type="text/javascript">
+        // Relay42
+        (function (a, d, e, b, f, c, s) {
+            a[b] =
+                a[b] ||
+                function () {
+                    a[b].q.push(arguments);
+                };
+            a[b].q = [];
+            c = d.createElement(e);
+            c.async = 1;
+            c.src = '//tdn.r42tag.com/lib/' + f + '.js';
+            s = d.getElementsByTagName(e)[0];
 
-    <bw-app ng-version="16.2.12" class="bw-ubc-information" ng-server-context="ssr">
-        <bwc-page-template cdkmonitorsubtreefocus="">
-            <mat-sidenav-container ngskiphydration=""
-                class="mat-drawer-container mat-sidenav-container bwc-page-template__container">
-                <div class="mat-drawer-backdrop ng-star-inserted"></div>
-                <!---->
-                <div class="cdk-visually-hidden cdk-focus-trap-anchor" aria-hidden="true"></div>
-                <mat-sidenav tabindex="-1" ngskiphydration=""
-                    class="mat-drawer mat-sidenav bwc-page-template__sidenav ng-tns-c3816625663-0 ng-trigger ng-trigger-transform mat-drawer-over mat-sidenav-fixed ng-star-inserted"
-                    style="top: 0px; bottom: 0px; box-shadow: none; visibility: hidden;">
-                    <div cdkscrollable="" class="mat-drawer-inner-container ng-tns-c3816625663-0">
-                        <nav class="ng-tns-c3816625663-0">
-                            <!---->
-                            <div class="bwc-page-template__sidenav__divider"></div>
-                            <div class="bwc-page-template__sidenav__enabler ng-star-inserted" style=""><button
-                                    type="button" aria-haspopup="true"><span
-                                        class="bwc-page-template__sidenav__enabler__button-flag-wrapper">
-                                        <bwc-icon color="primary" name="language"
-                                            class="bwc-icon--language ng-star-inserted">
-                                            <mat-icon role="img" class="mat-icon notranslate mat-primary"
-                                                aria-hidden="true" data-mat-icon-type="svg"
-                                                data-mat-icon-name="language-af"><svg xmlns="http://www.w3.org/2000/svg"
-                                                    width="100%" height="100%" viewBox="0 0 16 16" fit=""
-                                                    preserveAspectRatio="xMidYMid meet" focusable="false">
-                                                    <path
-                                                        d="M13.43 3.376a6.813 6.813 0 0 0-.06-.354l-.205-1.068.716.817a7.947 7.947 0 0 1 1.79 3.524l.09.41-.415-.053A22.11 22.11 0 0 1 13.7 6.38l-.262-.052.026-.266c.097-.972.085-1.875-.033-2.685zm-2.964 7.954a37.265 37.265 0 0 0-2.486-1.05l-.27-.101 1.427-3.998.274.092c.868.29 1.74.547 2.597.767l.274.07-.059.276a14.273 14.273 0 0 1-1.372 3.813l-.131.247-.254-.117zM5.38 4.673A37.33 37.33 0 0 0 7.9 5.735l.272.103-1.428 3.997-.274-.092a37.63 37.63 0 0 0-2.613-.774l-.272-.07.055-.274c.137-.676.32-1.334.542-1.96.223-.622.496-1.248.812-1.86l.13-.25zm.464-1.293A9.868 9.868 0 0 1 7.29 1.694C8.09.967 8.903.534 9.645.445l.474-.057-1.602 4.486-.282-.107a36.679 36.679 0 0 1-2.271-.95l-.319-.148.2-.289zm.27 7.323.286.095-1.604 4.492-.33-.332c-.846-.851-1.232-2.561-1.06-4.691l.029-.35.34.088a37 37 0 0 1 2.34.698zm5.252 2.214c.516.273 1 .551 1.44.828l.355.223-.33.26a8.006 8.006 0 0 1-3.627 1.598l-1.077.177.84-.696c.725-.6 1.403-1.372 2.016-2.292l.148-.222zm-1.375-.299c-1.203 1.737-2.571 2.814-3.756 2.954l-.473.056 1.602-4.485.281.107c.756.287 1.505.6 2.226.932l.32.147-.2.29zm-.225-7.305-.285-.095L11.079.744l.331.355c.506.544.854 1.383 1.007 2.426.1.673.116 1.42.05 2.22l-.028.351-.34-.089a36.411 36.411 0 0 1-2.332-.694zM4.491 3.092a21.993 21.993 0 0 1-1.443-.83l-.354-.222.33-.26a7.955 7.955 0 0 1 1.51-.94A7.979 7.979 0 0 1 6.642.177L7.711 0 6.88.695a8.505 8.505 0 0 0-.278.243c-.607.551-1.187 1.243-1.728 2.056l-.147.222zM4.21 4.1l-.134.258a16.153 16.153 0 0 0-1.443 4.024l-.061.285-.285-.056a21.932 21.932 0 0 0-2.022-.318L0 8.265v-.266c0-.909.155-1.804.46-2.662a7.957 7.957 0 0 1 1.334-2.35l.169-.205.222.146c.51.334 1.104.683 1.766 1.035l.258.137zM2.386 9.945c-.11 1.1-.075 2.125.105 3.045l.209 1.072-.72-.821A8.003 8.003 0 0 1 .19 9.712l-.091-.41.415.053a22.13 22.13 0 0 1 1.637.272l.261.052zm13.21-2.23.264.027v.266a7.94 7.94 0 0 1-.466 2.662 7.902 7.902 0 0 1-1.33 2.352l-.168.206-.222-.146a22.335 22.335 0 0 0-1.768-1.037l-.257-.136.133-.26c.33-.64.618-1.3.855-1.963.234-.655.429-1.349.58-2.062l.06-.285.287.057c.74.148 1.422.255 2.031.319z">
-                                                    </path>
-                                                </svg></mat-icon>
-                                        </bwc-icon>
-                                        <!---->
-                                        <!----><span class="bwc-o-body"> - </span>
-                                    </span></button></div>
-                            <!---->
-                        </nav>
-                    </div>
-                </mat-sidenav>
-                <div class="cdk-visually-hidden cdk-focus-trap-anchor" aria-hidden="true"></div>
-                <!---->
-                <mat-sidenav-content ngskiphydration="" class="mat-drawer-content mat-sidenav-content ng-star-inserted">
-                    <div class="bwc-page-template__content">
-                        <bwc-print-header>
-                            <mat-toolbar class="mat-toolbar mat-toolbar-single-row">
-                                <bwc-logo class="bwc-print-brand-logo" _nghost-server-app-c1494823503=""><img
-                                        _ngcontent-server-app-c1494823503="" class="bwc-logo bwc-logo--brand-logo"
-                                        src="https://www.static-af.com/assets/components/32.1.0/af/logo/brand-logo.svg"
-                                        alt="" style="width: 100%;"></bwc-logo>
-                            </mat-toolbar>
-                            <!---->
-                            <!---->
-                        </bwc-print-header>
-                        <bwc-sticky-header class="bwc-page-template__content__sticky-header" style="position: fixed;">
-                            <div style="position: absolute; left: -10px; top: -10px; right: 0; bottom: 0; overflow: hidden; z-index: -1; visibility: hidden;"
-                                class="ng-star-inserted">
-                                <div
-                                    style="position: absolute; left: 0px; top: 0px; transition: all 0s ease 0s; width: 100000px; height: 100000px;">
-                                </div>
-                            </div>
-                            <div style="position: absolute; left: -10px; top: -10px; right: 0; bottom: 0; overflow: hidden; z-index: -1; visibility: hidden;"
-                                class="ng-star-inserted">
-                                <div
-                                    style="position: absolute; left: 0; top: 0; transition: 0s; width: 200%; height: 200%;">
-                                </div>
-                            </div>
-                            <!---->
-                            <!---->
-                            <header>
-                                <!---->
-                                <!---->
-                                <!---->
-                                <!---->
-                                <!---->
-                            </header>
-                            <!---->
-                            <!---->
-                        </bwc-sticky-header>
-                        <main role="main" class="bwc-page-template__content__main-view">
-                            <bwc-sticky-spacer tabindex="-1" _nghost-server-app-c915333575=""></bwc-sticky-spacer>
-                            <div main-view="">
-                                <router-outlet></router-outlet>
-                                <!---->
-                            </div>
-                        </main>
-                        <footer role="contentinfo">
-                            <!---->
-                            <!---->
-                        </footer>
-                        <bwc-sticky-spacer _nghost-server-app-c915333575=""></bwc-sticky-spacer>
-                        <!---->
-                    </div>
-                </mat-sidenav-content>
-                <!---->
-            </mat-sidenav-container>
-        </bwc-page-template>
-    </bw-app>
+            function createCustomEvent(event, params) {
+                var p = params || {
+                    bubbles: false,
+                    cancelable: false,
+                    detail: undefined
+                };
 
-    <script>
+                if (typeof window.CustomEvent === 'function') {
+                    return new CustomEvent(event, p);
+                }
+
+                var evt = document.createEvent('CustomEvent');
+                evt.initCustomEvent(event, params.bubbles, params.cancelable, params.detail);
+                return evt;
+            }
+
+            c.addEventListener('load', function () {
+                var _ge = createCustomEvent('gtm_loaded', {
+                    bubbles: true
+                });
+                d.dispatchEvent(_ge);
+            });
+
+            s.parentNode.insertBefore(c, s);
+        })(window, document, 'script', '_st', '1205-v1');
+    </script>
+Deleted Tag: <script async="">
+        addEventListener('OptimizelySnippetLoaded', function () {
+            window['optimizely'] = window['optimizely'] || [];
+            window['optimizely'].push(
+                // Segmenting visitors brand | https://docs.developers.optimizely.com/web/docs/user
+                {
+                    type: 'user',
+                    attributes: {
+                        '18163354898': 'af'
+                    }
+                }
+            );
+        });
+    </script>
+Deleted Tag: <script defer="" src="https://cdn.optimizely.com/datafiles/U5ip7dvEQh4CtQGK8dUdrJ.json/tag.js"></script>
+Deleted Tag: <script defer="" src="https://www.static-af.com/assets/cookie-banner/cookie-banner.js" type="text/javascript">
+    </script>
+Deleted Tag: <script type="application/ld+json">
+        {
+            "@context": "https://schema.org/",
+            "@type": "WebSite",
+            "name": "Air France France",
+            "url": "https://wwws.airfrance.fr",
+            "creator": {
+                "@type": "Organization",
+                "name": "Air France France",
+                "alternateName": "Air France",
+                "url": "https://wwws.airfrance.fr"
+            }
+        }
+    </script>
+Deleted Tag: <script nonce="">
+        bazadebezolkohpepadr = "510002853"
+    </script>
+Deleted Tag: <script defer="" nonce="" src="https://wwws.airfrance.fr/akam/13/1e66047f" type="text/javascript"></script>
+Deleted Tag: <script src="https://cdn.optimizely.com/public/4268742351/s/afbw.js"></script>
+Deleted Tag: <script>
         addEventListener('BluewebNavigationEnd', function () {
             window['optimizely'] = window['optimizely'] || [];
             window['optimizely'].push(
@@ -4041,9 +3878,7 @@
             );
         });
     </script>
-
-
-    <script>
+Deleted Tag: <script>
         (function (i, s) {
             var a = s.createElement("script");
             var m = document.getElementsByTagName("script")[0];
@@ -4053,9 +3888,7 @@
             m.parentNode.insertBefore(a, m);
         })(window, document);
     </script>
-
-
-    <script>
+Deleted Tag: <script>
         var bwStaticGlobal = {
             "code": "af",
             "brand": "af",
@@ -4153,12 +3986,10 @@
             "guidedDisruptionFlowActivated": false
         }
     </script>
-    <script src="/assets/runtime.d96f43eed259c0e4.js" type="module"></script>
-    <script src="/assets/polyfills.40b5180b5ae81fe1.js" type="module"></script>
-    <script src="/assets/main.752d6316d0d99019.js" type="module"></script>
-
-
-    <script id="server-app-state" type="application/json">
+Deleted Tag: <script src="/assets/runtime.d96f43eed259c0e4.js" type="module"></script>
+Deleted Tag: <script src="/assets/polyfills.40b5180b5ae81fe1.js" type="module"></script>
+Deleted Tag: <script src="/assets/main.752d6316d0d99019.js" type="module"></script>
+Deleted Tag: <script id="server-app-state" type="application/json">
         {
             "BW_LOADED_CSS": ["BwCss-information", "BwCss-seatmap", "BwCss-contact-us"],
             "apollo.state": {
@@ -9093,306 +8924,56 @@
                 }
             }
         }
-    </script><noscript><img
-            src="https://wwws.airfrance.fr/akam/13/pixel_1e66047f?a=dD1iZDdiMGU5NmIzOTgyM2YzNTgyZTVkN2JhM2NmYmM1YWVmZjJmMzM5JmpzPW9mZg=="
-            style="visibility: hidden; position: absolute; left: -999px; top: -999px;" /></noscript>
-    <script type="text/javascript" nonce="" src="/C92hUM/gOS5Q/OScqY/-g/f1fiSJttJN/IDZSAQ/Sj1ufm9/KbxA"></script><img
-        src="https://beacon.klm.com/beacon/baminsights.!cf?ApplicationId=BW&amp;Scope=PAGE&amp;URL=https%3A%2F%2Fwwws.airfrance.fr%2Fen%2Finformation%2Flegal%2Fedito-cg-airfrance&amp;CorrelationId=9ba93749-6df9-40ab-baae-634953c07b43&amp;Activity=performanceMeasurement&amp;Duration=1361&amp;bamInfo[ubcName]=information&amp;bamInfo[brand]=af&amp;bamInfo[country]=FR&amp;bamInfo[language]=en-US&amp;bamInfo[requestUri][hostname]=wwws.airfrance.fr&amp;bamInfo[requestUri][pathname]=%2Finformation%2Flegal%2Fedito-cg-airfrance&amp;bamInfo[requestUri][originalPathname]=%2Fen%2Finformation%2Flegal%2Fedito-cg-airfrance&amp;bamInfo[hasBlockerExtension]=false&amp;bamInfo[environment]=le&amp;bamInfo[type]=loadfile&amp;bamInfo[measurement]=bundle&amp;bamInfo[device]=desktop"
-        aria-hidden="true" style="position: absolute; top: -100px;"><img
-        src="https://beacon.klm.com/beacon/baminsights.!cf?ApplicationId=BW&amp;Scope=PAGE&amp;URL=https%3A%2F%2Fwwws.airfrance.fr%2Fen%2Finformation%2Flegal%2Fedito-cg-airfrance&amp;CorrelationId=9ba93749-6df9-40ab-baae-634953c07b43&amp;Activity=performanceMeasurement&amp;Duration=1907.5999999940395&amp;bamInfo[ubcName]=information&amp;bamInfo[brand]=af&amp;bamInfo[country]=FR&amp;bamInfo[language]=en-US&amp;bamInfo[requestUri][hostname]=wwws.airfrance.fr&amp;bamInfo[requestUri][pathname]=%2Finformation%2Flegal%2Fedito-cg-airfrance&amp;bamInfo[requestUri][originalPathname]=%2Fen%2Finformation%2Flegal%2Fedito-cg-airfrance&amp;bamInfo[hasBlockerExtension]=false&amp;bamInfo[environment]=le&amp;bamInfo[type]=timeToFirstByte&amp;bamInfo[measurement]=%2Finformation%2Flegal%2Fedito-cg-airfrance&amp;bamInfo[device]=desktop"
-        aria-hidden="true" style="position: absolute; top: -100px;">
-    <div id="bw-cookie-banner" class="bw-cookie-banner-af">
-        <div class="bw-cookie-banner">
-            <div id="bw-cookie-banner-container" class="bw-cookie-banner__container" role="dialog"
-                aria-labelledby="bw-cookie-banner-container" aria-modal="true">
-                <div class="bw-cookie-banner__main">
-                    <div class="bw-cookie-banner__flex">
-                        <div class="bw-cookie-banner__header bw-cookie-banner__card">
-                            <h2>Air France uses cookies</h2>
-                        </div>
-                        <div class="bw-cookie-banner__content bw-cookie-banner__card">
-                            <div class="bw-cookie-banner--main-view">
-                                <p>Air France uses functional and analytical cookies to make sure our website works
-                                    properly and to
-                                    offer you the best possible user experience. By using this website, functional and
-                                    analytical cookies
-                                    will be installed on your browser.</p>
-                                <p>With your consent, we also use marketing cookies to analyze our marketing performance
-                                    and personalize
-                                    our offers. By using these cookies, Air France and third parties can track your
-                                    behavior online to
-                                    make our content and advertisements more relevant to your interests.</p>
-                                <p>By clicking on "Accept," you consent to the placing of all marketing cookies. If you
-                                    click on
-                                    "Reject," we will not place any marketing cookies. You can change your cookie
-                                    preferences or withdraw
-                                    your consent at any given time.</p>
-                            </div>
-                            <div class="bw-cookie-banner__main-view-buttons"><button
-                                    id="change_cookie_settings_btn-link"
-                                    class="bw-cookie-banner__button bw-cookie-banner__button-link" type="button"
-                                    onclick="BWCookieBanner.toggleSettings()">Change cookie settings</button><a
-                                    class="bw-cookie-banner__button bw-cookie-banner__button-link" type="button"
-                                    target="_blank"
-                                    href="https://wwws.airfrance.fr/exchange/deeplink?country=fr&amp;language=en&amp;target=/information/legal/edito-cookies">Read
-                                    Air France's cookie policy</a><a
-                                    class="bw-cookie-banner__button bw-cookie-banner__button-link" type="button"
-                                    target="_blank"
-                                    href="https://img.static-af.com/m/2c5d03e39a1d1969/original/List-of-Air-France-s-cookies-and-partners.pdf">Check
-                                    the full list of cookies used on our website</a></div>
-                        </div>
-                        <div class="bw-cookie-banner__button-wrapper bw-cookie-banner__card"><button
-                                class="bw-cookie-banner__button bw-cookie-banner__button-basic bw-cookie-banner__first-button"
-                                type="button" onclick="BWCookieBanner.declineCookies()">Reject</button><button
-                                id="accept_cookies_btn" class="bw-cookie-banner__button bw-cookie-banner__button-accent"
-                                type="button" onclick="BWCookieBanner.acceptAllCookies()">Accept</button></div>
-                    </div>
-                </div>
-                <div class="bw-cookie-banner__change-settings">
-                    <div class="bw-cookie-banner__flex">
-                        <div
-                            class="bw-cookie-banner__header bw-cookie-banner__card bw-cookie-banner__header--change-settings">
-                            <button id="bw-cookie-banner__back"
-                                class="bw-cookie-banner__back bw-cookie-banner__icon bw-cookie-banner__arrow-left"
-                                type="button" onclick="BWCookieBanner.toggleSettings()"><svg height="100%" width="100%"
-                                    viewBox="0 0 16 10" xmlns="http://www.w3.org/2000/svg"
-                                    preserveAspectRatio="xMidYMid meet" focusable="false">
-                                    <path
-                                        d="m.942 7.526a1.513 1.513 0 0 0 0 2.05c.534.565 1.4.565 1.933 0l5.167-5.476 5.166 5.476c.535.565 1.4.565 1.933 0 .267-.284.4-.655.4-1.025a1.49 1.49 0 0 0 -.4-1.025l-7.099-7.526z"
-                                        fill-rule="evenodd"></path>
-                                </svg></button>
-                            <h2>Cookie settings</h2>
-                        </div>
-                        <div class="bw-cookie-banner__content bw-cookie-banner__card">
-                            <form id="bw-cookie-settings-form" class="bw-cookie-form" role="radiogroup"
-                                onclick="BWCookieBanner.selectRadioButtonOption()"><label
-                                    class="bw-cookie-form__radio-label bw-cookie-form__radio-checked"
-                                    for="bw-cookie-form-radio-functional_analytical"><span
-                                        class="bw-cookie-form__radio-container"><input
-                                            id="bw-cookie-form-radio-functional_analytical" type="radio"
-                                            name="bw-cookie-setting-options"
-                                            value="{&quot;1&quot;:true,&quot;2&quot;:false,&quot;3&quot;:false}"
-                                            checked="true"><span class="bw-cookie-form__radio-outer-circle"></span><span
-                                            class="bw-cookie-form__radio-inner-circle"></span><span
-                                            class="bw-cookie-form__radio-ripple"></span></span><span
-                                        class="bw-cookie-form__radio-option">
-                                        <div class="bw-cookie-form__radio-option--title">
-                                            <p class="bw-cookie-form__radio-option--title-text">Functional and
-                                                analytical cookies</p><button
-                                                class="bw-cookie-form__radio-option--toggle-arrow" type="button"
-                                                id="bw-cookie-settings-form.toggle.functional_analytical"
-                                                onclick="BWCookieBanner.toggleExpandableBlock(event);"><svg
-                                                    height="100%" width="100%" viewBox="0 0 16 10"
-                                                    xmlns="http://www.w3.org/2000/svg"
-                                                    preserveAspectRatio="xMidYMid meet" focusable="false">
-                                                    <path
-                                                        d="m.942 7.526a1.513 1.513 0 0 0 0 2.05c.534.565 1.4.565 1.933 0l5.167-5.476 5.166 5.476c.535.565 1.4.565 1.933 0 .267-.284.4-.655.4-1.025a1.49 1.49 0 0 0 -.4-1.025l-7.099-7.526z"
-                                                        fill-rule="evenodd"></path>
-                                                </svg></button>
-                                        </div>
-                                        <div class="bw-cookie-form__radio-option--content bw-cookie-form__radio-option--hidden"
-                                            id="bw-cookie-settings-form.content.functional_analytical">
-                                            <p>By selecting this option, you give us permission to use only functional
-                                                and analytical cookies.
-                                            </p>
-                                            <p>Functional and analytical cookies</p>
-                                            <ul>
-                                                <li>Are necessary for our site to properly function</li>
-                                                <li>Enable you to securely book a flight and access your account</li>
-                                                <li>Are used to remember your language preferences and settings</li>
-                                                <li>Allow you to share your feedback</li>
-                                                <li>Help us detect bugs and improve our site</li>
-                                                <li>Collect information on how visitors use our site</li>
-                                                <li>Are used for A/B testing</li>
-                                            </ul>
-                                        </div>
-                                    </span></label>
-                                <div class="bw-cookie-banner__divider-line"></div><label
-                                    class="bw-cookie-form__radio-label"
-                                    for="bw-cookie-form-radio-marketing_performance"><span
-                                        class="bw-cookie-form__radio-container"><input
-                                            id="bw-cookie-form-radio-marketing_performance" type="radio"
-                                            name="bw-cookie-setting-options"
-                                            value="{&quot;1&quot;:true,&quot;2&quot;:true,&quot;3&quot;:false}"><span
-                                            class="bw-cookie-form__radio-outer-circle"></span><span
-                                            class="bw-cookie-form__radio-inner-circle"></span><span
-                                            class="bw-cookie-form__radio-ripple"></span></span><span
-                                        class="bw-cookie-form__radio-option">
-                                        <div class="bw-cookie-form__radio-option--title">
-                                            <p class="bw-cookie-form__radio-option--title-text">Marketing cookies for
-                                                performance</p><button
-                                                class="bw-cookie-form__radio-option--toggle-arrow" type="button"
-                                                id="bw-cookie-settings-form.toggle.marketing_performance"
-                                                onclick="BWCookieBanner.toggleExpandableBlock(event);"><svg
-                                                    height="100%" width="100%" viewBox="0 0 16 10"
-                                                    xmlns="http://www.w3.org/2000/svg"
-                                                    preserveAspectRatio="xMidYMid meet" focusable="false">
-                                                    <path
-                                                        d="m.942 7.526a1.513 1.513 0 0 0 0 2.05c.534.565 1.4.565 1.933 0l5.167-5.476 5.166 5.476c.535.565 1.4.565 1.933 0 .267-.284.4-.655.4-1.025a1.49 1.49 0 0 0 -.4-1.025l-7.099-7.526z"
-                                                        fill-rule="evenodd"></path>
-                                                </svg></button>
-                                        </div>
-                                        <div class="bw-cookie-form__radio-option--content bw-cookie-form__radio-option--hidden"
-                                            id="bw-cookie-settings-form.content.marketing_performance">
-                                            <p>By selecting this option, you give us permission to use functional and
-                                                analytical cookies as
-                                                described above, as well as cookies to measure our marketing
-                                                performance.</p>
-                                            <p>By selecting this option, you are authorizing us to use functional and
-                                                analytical cookies as
-                                                described above, as well as cookies to measure our marketing
-                                                performance. These cookies:</p>
-                                            <ul>
-                                                <li>Are used to measure the effectiveness of our marketing campaigns
-                                                </li>
-                                                <li>Are used to compare the performance of our marketing campaigns</li>
-                                                <li>Are never used to send you targeted ads</li>
-                                            </ul>
-                                        </div>
-                                    </span></label>
-                                <div class="bw-cookie-banner__divider-line"></div><label
-                                    class="bw-cookie-form__radio-label"
-                                    for="bw-cookie-form-radio-marketing_performance_advertisement"><span
-                                        class="bw-cookie-form__radio-container"><input
-                                            id="bw-cookie-form-radio-marketing_performance_advertisement" type="radio"
-                                            name="bw-cookie-setting-options"
-                                            value="{&quot;1&quot;:true,&quot;2&quot;:true,&quot;3&quot;:true}"><span
-                                            class="bw-cookie-form__radio-outer-circle"></span><span
-                                            class="bw-cookie-form__radio-inner-circle"></span><span
-                                            class="bw-cookie-form__radio-ripple"></span></span><span
-                                        class="bw-cookie-form__radio-option">
-                                        <div class="bw-cookie-form__radio-option--title">
-                                            <p class="bw-cookie-form__radio-option--title-text">Marketing cookies for
-                                                performance,
-                                                advertisements, and social media</p><button
-                                                class="bw-cookie-form__radio-option--toggle-arrow" type="button"
-                                                id="bw-cookie-settings-form.toggle.marketing_performance_advertisement"
-                                                onclick="BWCookieBanner.toggleExpandableBlock(event);"><svg
-                                                    height="100%" width="100%" viewBox="0 0 16 10"
-                                                    xmlns="http://www.w3.org/2000/svg"
-                                                    preserveAspectRatio="xMidYMid meet" focusable="false">
-                                                    <path
-                                                        d="m.942 7.526a1.513 1.513 0 0 0 0 2.05c.534.565 1.4.565 1.933 0l5.167-5.476 5.166 5.476c.535.565 1.4.565 1.933 0 .267-.284.4-.655.4-1.025a1.49 1.49 0 0 0 -.4-1.025l-7.099-7.526z"
-                                                        fill-rule="evenodd"></path>
-                                                </svg></button>
-                                        </div>
-                                        <div class="bw-cookie-form__radio-option--content bw-cookie-form__radio-option--hidden"
-                                            id="bw-cookie-settings-form.content.marketing_performance_advertisement">
-                                            <p>By selecting this option, you give us permission to use functional and
-                                                analytical cookies as
-                                                described above, as well as cookies to measure our marketing
-                                                performance, and cookies for
-                                                advertisements and social media.</p>
-                                            <p>By selecting this option, you authorize us to use the functional and
-                                                analytical cookies as
-                                                described above, as well as cookies to measure our marketing performance
-                                                and cookies for
-                                                advertisements and social media. These cookies:</p>
-                                            <ul>
-                                                <li>Are used to collect information about your visit, clicks on our
-                                                    website, and third-party
-                                                    websites and apps</li>
-                                                <li>Are used to show you relevant, personalized advertisements or offers
-                                                    on our website and
-                                                    outside our website</li>
-                                                <li>Measure the effectiveness of our advertising campaigns by tracking
-                                                    the number of clicks</li>
-                                                <li>Limit the number of times you see an advertisement</li>
-                                                <li>Allow you to like or share content on social media platforms such as
-                                                    Facebook and Twitter.
-                                                    These social networks can then use your cookies at their leisure.
-                                                </li>
-                                                <li>Can be used by social media platforms such as Facebook and Twitter
-                                                    for their own purposes
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </span></label>
-                            </form>
-                        </div>
-                        <div class="bw-cookie-banner__button-wrapper bw-cookie-banner__card"><button
-                                class="bw-cookie-banner__button bw-cookie-banner__button-basic bw-cookie-banner__first-button"
-                                type="button" onclick="BWCookieBanner.saveChangeSettings()">Accept selected
-                                cookies</button><button id="accept_all_cookies_btn"
-                                class="bw-cookie-banner__button bw-cookie-banner__button-accent" type="button"
-                                onclick="BWCookieBanner.acceptAllCookies()">Accept all cookies</button></div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div><img
-        src="https://beacon.klm.com/beacon/baminsights.!cf?ApplicationId=BW&amp;Scope=PAGE&amp;URL=https%3A%2F%2Fwwws.airfrance.fr%2Fen&amp;CorrelationId=9ba93749-6df9-40ab-baae-634953c07b43&amp;Activity=translationError&amp;bamInfo[ubcName]=home&amp;bamInfo[brand]=af&amp;bamInfo[country]=FR&amp;bamInfo[language]=en-US&amp;bamInfo[requestUri][hostname]=wwws.airfrance.fr&amp;bamInfo[requestUri][pathname]=%2F&amp;bamInfo[requestUri][originalPathname]=%2Fen&amp;bamInfo[hasBlockerExtension]=false&amp;bamInfo[environment]=le&amp;bamInfo[labelKey]=conversionRates&amp;bamInfo[crsLocale]=en-US"
-        aria-hidden="true" style="position: absolute; top: -100px;"><img
-        src="https://beacon.klm.com/beacon/baminsights.!cf?ApplicationId=BW&amp;Scope=PAGE&amp;URL=https%3A%2F%2Fwwws.airfrance.fr%2Fen&amp;CorrelationId=9ba93749-6df9-40ab-baae-634953c07b43&amp;Activity=translationError&amp;bamInfo[ubcName]=home&amp;bamInfo[brand]=af&amp;bamInfo[country]=FR&amp;bamInfo[language]=en-US&amp;bamInfo[requestUri][hostname]=wwws.airfrance.fr&amp;bamInfo[requestUri][pathname]=%2F&amp;bamInfo[requestUri][originalPathname]=%2Fen&amp;bamInfo[hasBlockerExtension]=false&amp;bamInfo[environment]=le&amp;bamInfo[labelKey]=common.header.country_language_selector.country&amp;bamInfo[crsLocale]=en-US"
-        aria-hidden="true" style="position: absolute; top: -100px;"><img
-        src="https://beacon.klm.com/beacon/baminsights.!cf?ApplicationId=BW&amp;Scope=PAGE&amp;URL=https%3A%2F%2Fwwws.airfrance.fr%2Fen&amp;CorrelationId=9ba93749-6df9-40ab-baae-634953c07b43&amp;Activity=translationError&amp;bamInfo[ubcName]=home&amp;bamInfo[brand]=af&amp;bamInfo[country]=FR&amp;bamInfo[language]=en-US&amp;bamInfo[requestUri][hostname]=wwws.airfrance.fr&amp;bamInfo[requestUri][pathname]=%2F&amp;bamInfo[requestUri][originalPathname]=%2Fen&amp;bamInfo[hasBlockerExtension]=false&amp;bamInfo[environment]=le&amp;bamInfo[labelKey]=common.header.country_language_selector.language&amp;bamInfo[crsLocale]=en-US"
-        aria-hidden="true" style="position: absolute; top: -100px;"><img
-        src="https://beacon.klm.com/beacon/baminsights.!cf?ApplicationId=BW&amp;Scope=PAGE&amp;URL=https%3A%2F%2Fwwws.airfrance.fr%2Fen&amp;CorrelationId=9ba93749-6df9-40ab-baae-634953c07b43&amp;Activity=translationError&amp;bamInfo[ubcName]=home&amp;bamInfo[brand]=af&amp;bamInfo[country]=FR&amp;bamInfo[language]=en-US&amp;bamInfo[requestUri][hostname]=wwws.airfrance.fr&amp;bamInfo[requestUri][pathname]=%2F&amp;bamInfo[requestUri][originalPathname]=%2Fen&amp;bamInfo[hasBlockerExtension]=false&amp;bamInfo[environment]=le&amp;bamInfo[labelKey]=common.header.country_language_selector.a11y.selected&amp;bamInfo[crsLocale]=en-US"
-        aria-hidden="true" style="position: absolute; top: -100px;"><img
-        src="https://beacon.klm.com/beacon/baminsights.!cf?ApplicationId=BW&amp;Scope=PAGE&amp;URL=https%3A%2F%2Fwwws.airfrance.fr%2Fen&amp;CorrelationId=9ba93749-6df9-40ab-baae-634953c07b43&amp;Activity=translationError&amp;bamInfo[ubcName]=home&amp;bamInfo[brand]=af&amp;bamInfo[country]=FR&amp;bamInfo[language]=en-US&amp;bamInfo[requestUri][hostname]=wwws.airfrance.fr&amp;bamInfo[requestUri][pathname]=%2F&amp;bamInfo[requestUri][originalPathname]=%2Fen&amp;bamInfo[hasBlockerExtension]=false&amp;bamInfo[environment]=le&amp;bamInfo[labelKey]=common.btn_close&amp;bamInfo[crsLocale]=en-US"
-        aria-hidden="true" style="position: absolute; top: -100px;"><img
-        src="https://beacon.klm.com/beacon/baminsights.!cf?ApplicationId=BW&amp;Scope=PAGE&amp;URL=https%3A%2F%2Fwwws.airfrance.fr%2Fen&amp;CorrelationId=9ba93749-6df9-40ab-baae-634953c07b43&amp;Activity=translationError&amp;bamInfo[ubcName]=home&amp;bamInfo[brand]=af&amp;bamInfo[country]=FR&amp;bamInfo[language]=en-US&amp;bamInfo[requestUri][hostname]=wwws.airfrance.fr&amp;bamInfo[requestUri][pathname]=%2F&amp;bamInfo[requestUri][originalPathname]=%2Fen&amp;bamInfo[hasBlockerExtension]=false&amp;bamInfo[environment]=le&amp;bamInfo[labelKey]=common.generic.header.label_login&amp;bamInfo[crsLocale]=en-US"
-        aria-hidden="true" style="position: absolute; top: -100px;"><img
-        src="https://beacon.klm.com/beacon/baminsights.!cf?ApplicationId=BW&amp;Scope=PAGE&amp;URL=https%3A%2F%2Fwwws.airfrance.fr%2Fen&amp;CorrelationId=9ba93749-6df9-40ab-baae-634953c07b43&amp;Activity=translationError&amp;bamInfo[ubcName]=home&amp;bamInfo[brand]=af&amp;bamInfo[country]=FR&amp;bamInfo[language]=en-US&amp;bamInfo[requestUri][hostname]=wwws.airfrance.fr&amp;bamInfo[requestUri][pathname]=%2F&amp;bamInfo[requestUri][originalPathname]=%2Fen&amp;bamInfo[hasBlockerExtension]=false&amp;bamInfo[environment]=le&amp;bamInfo[labelKey]=common.generic.header.label_enrol&amp;bamInfo[crsLocale]=en-US"
-        aria-hidden="true" style="position: absolute; top: -100px;"><img
-        src="https://beacon.klm.com/beacon/baminsights.!cf?ApplicationId=BW&amp;Scope=PAGE&amp;URL=https%3A%2F%2Fwwws.airfrance.fr%2Fen&amp;CorrelationId=9ba93749-6df9-40ab-baae-634953c07b43&amp;Activity=translationError&amp;bamInfo[ubcName]=home&amp;bamInfo[brand]=af&amp;bamInfo[country]=FR&amp;bamInfo[language]=en-US&amp;bamInfo[requestUri][hostname]=wwws.airfrance.fr&amp;bamInfo[requestUri][pathname]=%2F&amp;bamInfo[requestUri][originalPathname]=%2Fen&amp;bamInfo[hasBlockerExtension]=false&amp;bamInfo[environment]=le&amp;bamInfo[labelKey]=common.generic.header.a11y.login&amp;bamInfo[crsLocale]=en-US"
-        aria-hidden="true" style="position: absolute; top: -100px;"><img
-        src="https://beacon.klm.com/beacon/baminsights.!cf?ApplicationId=BW&amp;Scope=PAGE&amp;URL=https%3A%2F%2Fwwws.airfrance.fr%2Fen&amp;CorrelationId=9ba93749-6df9-40ab-baae-634953c07b43&amp;Activity=translationError&amp;bamInfo[ubcName]=home&amp;bamInfo[brand]=af&amp;bamInfo[country]=FR&amp;bamInfo[language]=en-US&amp;bamInfo[requestUri][hostname]=wwws.airfrance.fr&amp;bamInfo[requestUri][pathname]=%2F&amp;bamInfo[requestUri][originalPathname]=%2Fen&amp;bamInfo[hasBlockerExtension]=false&amp;bamInfo[environment]=le&amp;bamInfo[labelKey]=common.generic.header.a11y.enrol&amp;bamInfo[crsLocale]=en-US"
-        aria-hidden="true" style="position: absolute; top: -100px;"><img
-        src="https://beacon.klm.com/beacon/baminsights.!cf?ApplicationId=BW&amp;Scope=PAGE&amp;URL=https%3A%2F%2Fwwws.airfrance.fr%2Fen&amp;CorrelationId=9ba93749-6df9-40ab-baae-634953c07b43&amp;Activity=translationError&amp;bamInfo[ubcName]=home&amp;bamInfo[brand]=af&amp;bamInfo[country]=FR&amp;bamInfo[language]=en-US&amp;bamInfo[requestUri][hostname]=wwws.airfrance.fr&amp;bamInfo[requestUri][pathname]=%2F&amp;bamInfo[requestUri][originalPathname]=%2Fen&amp;bamInfo[hasBlockerExtension]=false&amp;bamInfo[environment]=le&amp;bamInfo[labelKey]=common.generic.header.a11y.country_language_selector&amp;bamInfo[crsLocale]=en-US"
-        aria-hidden="true" style="position: absolute; top: -100px;"><img
-        src="https://beacon.klm.com/beacon/baminsights.!cf?ApplicationId=BW&amp;Scope=PAGE&amp;URL=https%3A%2F%2Fwwws.airfrance.fr%2Fen&amp;CorrelationId=9ba93749-6df9-40ab-baae-634953c07b43&amp;Activity=translationError&amp;bamInfo[ubcName]=home&amp;bamInfo[brand]=af&amp;bamInfo[country]=FR&amp;bamInfo[language]=en-US&amp;bamInfo[requestUri][hostname]=wwws.airfrance.fr&amp;bamInfo[requestUri][pathname]=%2F&amp;bamInfo[requestUri][originalPathname]=%2Fen&amp;bamInfo[hasBlockerExtension]=false&amp;bamInfo[environment]=le&amp;bamInfo[labelKey]=common.generic.header.a11y.hamburger_menu&amp;bamInfo[crsLocale]=en-US"
-        aria-hidden="true" style="position: absolute; top: -100px;"><img
-        src="https://beacon.klm.com/beacon/baminsights.!cf?ApplicationId=BW&amp;Scope=PAGE&amp;URL=https%3A%2F%2Fwwws.airfrance.fr%2Fen&amp;CorrelationId=9ba93749-6df9-40ab-baae-634953c07b43&amp;Activity=translationError&amp;bamInfo[ubcName]=home&amp;bamInfo[brand]=af&amp;bamInfo[country]=FR&amp;bamInfo[language]=en-US&amp;bamInfo[requestUri][hostname]=wwws.airfrance.fr&amp;bamInfo[requestUri][pathname]=%2F&amp;bamInfo[requestUri][originalPathname]=%2Fen&amp;bamInfo[hasBlockerExtension]=false&amp;bamInfo[environment]=le&amp;bamInfo[labelKey]=common.redirection.title&amp;bamInfo[crsLocale]=en-US"
-        aria-hidden="true" style="position: absolute; top: -100px;"><img
-        src="https://beacon.klm.com/beacon/baminsights.!cf?ApplicationId=BW&amp;Scope=PAGE&amp;URL=https%3A%2F%2Fwwws.airfrance.fr%2Fen&amp;CorrelationId=9ba93749-6df9-40ab-baae-634953c07b43&amp;Activity=translationError&amp;bamInfo[ubcName]=home&amp;bamInfo[brand]=af&amp;bamInfo[country]=FR&amp;bamInfo[language]=en-US&amp;bamInfo[requestUri][hostname]=wwws.airfrance.fr&amp;bamInfo[requestUri][pathname]=%2F&amp;bamInfo[requestUri][originalPathname]=%2Fen&amp;bamInfo[hasBlockerExtension]=false&amp;bamInfo[environment]=le&amp;bamInfo[labelKey]=common.redirection.subtitle&amp;bamInfo[crsLocale]=en-US"
-        aria-hidden="true" style="position: absolute; top: -100px;"><img
-        src="https://beacon.klm.com/beacon/baminsights.!cf?ApplicationId=BW&amp;Scope=PAGE&amp;URL=https%3A%2F%2Fwwws.airfrance.fr%2Fen&amp;CorrelationId=9ba93749-6df9-40ab-baae-634953c07b43&amp;Activity=translationError&amp;bamInfo[ubcName]=home&amp;bamInfo[brand]=af&amp;bamInfo[country]=FR&amp;bamInfo[language]=en-US&amp;bamInfo[requestUri][hostname]=wwws.airfrance.fr&amp;bamInfo[requestUri][pathname]=%2F&amp;bamInfo[requestUri][originalPathname]=%2Fen&amp;bamInfo[hasBlockerExtension]=false&amp;bamInfo[environment]=le&amp;bamInfo[labelKey]=common.generic.header.content_search.a11y.search&amp;bamInfo[crsLocale]=en-US"
-        aria-hidden="true" style="position: absolute; top: -100px;"><img
-        src="https://beacon.klm.com/beacon/baminsights.!cf?ApplicationId=BW&amp;Scope=PAGE&amp;URL=https%3A%2F%2Fwwws.airfrance.fr%2Fen&amp;CorrelationId=9ba93749-6df9-40ab-baae-634953c07b43&amp;bamInfo[ubcName]=home&amp;bamInfo[brand]=af&amp;bamInfo[country]=FR&amp;bamInfo[language]=en-US&amp;bamInfo[requestUri][hostname]=wwws.airfrance.fr&amp;bamInfo[requestUri][pathname]=%2F&amp;bamInfo[requestUri][originalPathname]=%2Fen&amp;bamInfo[hasBlockerExtension]=false&amp;bamInfo[environment]=le&amp;bamInfo[stackTrace][message]=ChunkLoadError%3A%20(error)%2092202.1ee5b89af1b94bdd.js&amp;bamInfo[stackTrace][stack]=Error%3A%20Uncaught%20(in%20promise)%3A%20ChunkLoadError%3A%20Loading%20chunk%2092202%20failed.%0A(error%3A%20https%3A%2F%2F%7Bdomain%7D%2Fassets%2F92202.1ee5b89af1b94bdd.js)%0AChunkLoadError%3A%20Loading%20chunk%2092202%20failed.%0A(error%3A%20https%3A%2F%2F%7Bdomain%7D%2Fassets%2F92202.1ee5b89af1b94bdd.js)%0A%20%20%20%20at%20f.f.j%20(https%3A%2F%2F%7Bdomain%7D%2Fassets%2Fruntime.d96f43eed259c0e4.js%3A1%3A37275)&amp;Activity=stacktrace"
-        aria-hidden="true" style="position: absolute; top: -100px;"><iframe
-        src="https://a4268742351.cdn.optimizely.com/client_storage/a4268742351.html" hidden="" tabindex="-1"
-        title="Optimizely Internal Frame" height="0" width="0" style="display: none;"></iframe>
-</body>
-
-</html>
-
-<a class="bwc-card-link bw-information-section-card__link ng-star-inserted" aria-describedby="false"
-    aria-haspopup="false" aria-label="La société Air France" href="/en/information/legal/edito-preambule"
-    target="_self">
-    <mat-card class="mat-mdc-card mdc-card ng-star-inserted">
-        <!---->
-        <mat-card-content class="mat-mdc-card-content">
-            <!---->
-            <div class="bw-information-section-card__content">
-                <div class="bw-information-section-card__title">
-                    <bw-information-title class="ng-star-inserted">
-                        <!----><span class="bw-information-section-card__card-title bwc-o-title">
-                            <rjf-title class="bw-rjf-title ng-star-inserted"><span>About Air France
-                                    <!----></span></rjf-title>
-                            <!---->
-                        </span></bw-information-title>
-                    <!---->
-                    <!---->
-                </div>
-                <bw-information-section-template class="bw-information-section">
-                    <div>
-                        <div class="bw-information-section__content-container">
-                            <rjf-paragraph class="bw-rjf-paragraph ng-star-inserted">
-                                <p class="bwc-o-body">General information on Air France in your country
-                                    <!---->
-                                </p>
-                            </rjf-paragraph>
-                            <!---->
-                        </div>
-                        <!---->
-                        <!---->
-                    </div>
-                </bw-information-section-template>
-            </div>
-        </mat-card-content>
-        <!---->
-    </mat-card>
-    <!---->
-    <!---->
-</a>
+    </script>
+Deleted Tag: <script nonce="" src="/C92hUM/gOS5Q/OScqY/-g/f1fiSJttJN/IDZSAQ/Sj1ufm9/KbxA" type="text/javascript"></script>
+Deleted Tag: <meta charset="utf-8"/>
+Deleted Tag: <meta content="width=device-width, initial-scale=1" name="viewport"/>
+Deleted Tag: <meta content="yes" name="mobile-web-app-capable"/>
+Deleted Tag: <meta content="#051039" name="theme-color"/>
+Deleted Tag: <meta content="yes" name="apple-mobile-web-app-capable"/>
+Deleted Tag: <meta content="default" name="apple-mobile-web-app-status-bar-style"/>
+Deleted Tag: <meta content="af" name="cookie-banner-brand"/>
+Deleted Tag: <meta content="en-US" name="cookie-banner-language"/>
+Deleted Tag: <meta content="FR" name="cookie-banner-country"/>
+Deleted Tag: <meta content="scope of application, tickets, fares, taxes, fees, booking, personal data rules" name="description"/>
+Deleted Tag: <meta content="General conditions of carriage, legal information | Air France" property="og:title"/>
+Deleted Tag: <meta content="scope of application, tickets, fares, taxes, fees, booking, personal data rules" property="og:description"/>
+Deleted Tag: <meta content="Air France" property="og:site_name"/>
+Deleted Tag: <meta content="https://wwws.airfrance.fr/en/information/legal/edito-cg-airfrance" property="og:url"/>
+Deleted Tag: <path d="M13.43 3.376a6.813 6.813 0 0 0-.06-.354l-.205-1.068.716.817a7.947 7.947 0 0 1 1.79 3.524l.09.41-.415-.053A22.11 22.11 0 0 1 13.7 6.38l-.262-.052.026-.266c.097-.972.085-1.875-.033-2.685zm-2.964 7.954a37.265 37.265 0 0 0-2.486-1.05l-.27-.101 1.427-3.998.274.092c.868.29 1.74.547 2.597.767l.274.07-.059.276a14.273 14.273 0 0 1-1.372 3.813l-.131.247-.254-.117zM5.38 4.673A37.33 37.33 0 0 0 7.9 5.735l.272.103-1.428 3.997-.274-.092a37.63 37.63 0 0 0-2.613-.774l-.272-.07.055-.274c.137-.676.32-1.334.542-1.96.223-.622.496-1.248.812-1.86l.13-.25zm.464-1.293A9.868 9.868 0 0 1 7.29 1.694C8.09.967 8.903.534 9.645.445l.474-.057-1.602 4.486-.282-.107a36.679 36.679 0 0 1-2.271-.95l-.319-.148.2-.289zm.27 7.323.286.095-1.604 4.492-.33-.332c-.846-.851-1.232-2.561-1.06-4.691l.029-.35.34.088a37 37 0 0 1 2.34.698zm5.252 2.214c.516.273 1 .551 1.44.828l.355.223-.33.26a8.006 8.006 0 0 1-3.627 1.598l-1.077.177.84-.696c.725-.6 1.403-1.372 2.016-2.292l.148-.222zm-1.375-.299c-1.203 1.737-2.571 2.814-3.756 2.954l-.473.056 1.602-4.485.281.107c.756.287 1.505.6 2.226.932l.32.147-.2.29zm-.225-7.305-.285-.095L11.079.744l.331.355c.506.544.854 1.383 1.007 2.426.1.673.116 1.42.05 2.22l-.028.351-.34-.089a36.411 36.411 0 0 1-2.332-.694zM4.491 3.092a21.993 21.993 0 0 1-1.443-.83l-.354-.222.33-.26a7.955 7.955 0 0 1 1.51-.94A7.979 7.979 0 0 1 6.642.177L7.711 0 6.88.695a8.505 8.505 0 0 0-.278.243c-.607.551-1.187 1.243-1.728 2.056l-.147.222zM4.21 4.1l-.134.258a16.153 16.153 0 0 0-1.443 4.024l-.061.285-.285-.056a21.932 21.932 0 0 0-2.022-.318L0 8.265v-.266c0-.909.155-1.804.46-2.662a7.957 7.957 0 0 1 1.334-2.35l.169-.205.222.146c.51.334 1.104.683 1.766 1.035l.258.137zM2.386 9.945c-.11 1.1-.075 2.125.105 3.045l.209 1.072-.72-.821A8.003 8.003 0 0 1 .19 9.712l-.091-.41.415.053a22.13 22.13 0 0 1 1.637.272l.261.052zm13.21-2.23.264.027v.266a7.94 7.94 0 0 1-.466 2.662 7.902 7.902 0 0 1-1.33 2.352l-.168.206-.222-.146a22.335 22.335 0 0 0-1.768-1.037l-.257-.136.133-.26c.33-.64.618-1.3.855-1.963.234-.655.429-1.349.58-2.062l.06-.285.287.057c.74.148 1.422.255 2.031.319z">
+                                                    </path>
+Deleted Tag: <path d="m.942 7.526a1.513 1.513 0 0 0 0 2.05c.534.565 1.4.565 1.933 0l5.167-5.476 5.166 5.476c.535.565 1.4.565 1.933 0 .267-.284.4-.655.4-1.025a1.49 1.49 0 0 0 -.4-1.025l-7.099-7.526z" fill-rule="evenodd"></path>
+Deleted Tag: <path d="m.942 7.526a1.513 1.513 0 0 0 0 2.05c.534.565 1.4.565 1.933 0l5.167-5.476 5.166 5.476c.535.565 1.4.565 1.933 0 .267-.284.4-.655.4-1.025a1.49 1.49 0 0 0 -.4-1.025l-7.099-7.526z" fill-rule="evenodd"></path>
+Deleted Tag: <path d="m.942 7.526a1.513 1.513 0 0 0 0 2.05c.534.565 1.4.565 1.933 0l5.167-5.476 5.166 5.476c.535.565 1.4.565 1.933 0 .267-.284.4-.655.4-1.025a1.49 1.49 0 0 0 -.4-1.025l-7.099-7.526z" fill-rule="evenodd"></path>
+Deleted Tag: <path d="m.942 7.526a1.513 1.513 0 0 0 0 2.05c.534.565 1.4.565 1.933 0l5.167-5.476 5.166 5.476c.535.565 1.4.565 1.933 0 .267-.284.4-.655.4-1.025a1.49 1.49 0 0 0 -.4-1.025l-7.099-7.526z" fill-rule="evenodd"></path>
+Deleted Tag: <img _ngcontent-server-app-c1494823503="" alt="" class="bwc-logo bwc-logo--brand-logo" src="https://www.static-af.com/assets/components/32.1.0/af/logo/brand-logo.svg" style="width: 100%;"/>
+Deleted Tag: <img src="https://wwws.airfrance.fr/akam/13/pixel_1e66047f?a=dD1iZDdiMGU5NmIzOTgyM2YzNTgyZTVkN2JhM2NmYmM1YWVmZjJmMzM5JmpzPW9mZg==" style="visibility: hidden; position: absolute; left: -999px; top: -999px;"/>
+Deleted Tag: <img aria-hidden="true" src="https://beacon.klm.com/beacon/baminsights.!cf?ApplicationId=BW&amp;Scope=PAGE&amp;URL=https%3A%2F%2Fwwws.airfrance.fr%2Fen%2Finformation%2Flegal%2Fedito-cg-airfrance&amp;CorrelationId=9ba93749-6df9-40ab-baae-634953c07b43&amp;Activity=performanceMeasurement&amp;Duration=1361&amp;bamInfo[ubcName]=information&amp;bamInfo[brand]=af&amp;bamInfo[country]=FR&amp;bamInfo[language]=en-US&amp;bamInfo[requestUri][hostname]=wwws.airfrance.fr&amp;bamInfo[requestUri][pathname]=%2Finformation%2Flegal%2Fedito-cg-airfrance&amp;bamInfo[requestUri][originalPathname]=%2Fen%2Finformation%2Flegal%2Fedito-cg-airfrance&amp;bamInfo[hasBlockerExtension]=false&amp;bamInfo[environment]=le&amp;bamInfo[type]=loadfile&amp;bamInfo[measurement]=bundle&amp;bamInfo[device]=desktop" style="position: absolute; top: -100px;"/>
+Deleted Tag: <img aria-hidden="true" src="https://beacon.klm.com/beacon/baminsights.!cf?ApplicationId=BW&amp;Scope=PAGE&amp;URL=https%3A%2F%2Fwwws.airfrance.fr%2Fen%2Finformation%2Flegal%2Fedito-cg-airfrance&amp;CorrelationId=9ba93749-6df9-40ab-baae-634953c07b43&amp;Activity=performanceMeasurement&amp;Duration=1907.5999999940395&amp;bamInfo[ubcName]=information&amp;bamInfo[brand]=af&amp;bamInfo[country]=FR&amp;bamInfo[language]=en-US&amp;bamInfo[requestUri][hostname]=wwws.airfrance.fr&amp;bamInfo[requestUri][pathname]=%2Finformation%2Flegal%2Fedito-cg-airfrance&amp;bamInfo[requestUri][originalPathname]=%2Fen%2Finformation%2Flegal%2Fedito-cg-airfrance&amp;bamInfo[hasBlockerExtension]=false&amp;bamInfo[environment]=le&amp;bamInfo[type]=timeToFirstByte&amp;bamInfo[measurement]=%2Finformation%2Flegal%2Fedito-cg-airfrance&amp;bamInfo[device]=desktop" style="position: absolute; top: -100px;"/>
+Deleted Tag: <img aria-hidden="true" src="https://beacon.klm.com/beacon/baminsights.!cf?ApplicationId=BW&amp;Scope=PAGE&amp;URL=https%3A%2F%2Fwwws.airfrance.fr%2Fen&amp;CorrelationId=9ba93749-6df9-40ab-baae-634953c07b43&amp;Activity=translationError&amp;bamInfo[ubcName]=home&amp;bamInfo[brand]=af&amp;bamInfo[country]=FR&amp;bamInfo[language]=en-US&amp;bamInfo[requestUri][hostname]=wwws.airfrance.fr&amp;bamInfo[requestUri][pathname]=%2F&amp;bamInfo[requestUri][originalPathname]=%2Fen&amp;bamInfo[hasBlockerExtension]=false&amp;bamInfo[environment]=le&amp;bamInfo[labelKey]=conversionRates&amp;bamInfo[crsLocale]=en-US" style="position: absolute; top: -100px;"/>
+Deleted Tag: <img aria-hidden="true" src="https://beacon.klm.com/beacon/baminsights.!cf?ApplicationId=BW&amp;Scope=PAGE&amp;URL=https%3A%2F%2Fwwws.airfrance.fr%2Fen&amp;CorrelationId=9ba93749-6df9-40ab-baae-634953c07b43&amp;Activity=translationError&amp;bamInfo[ubcName]=home&amp;bamInfo[brand]=af&amp;bamInfo[country]=FR&amp;bamInfo[language]=en-US&amp;bamInfo[requestUri][hostname]=wwws.airfrance.fr&amp;bamInfo[requestUri][pathname]=%2F&amp;bamInfo[requestUri][originalPathname]=%2Fen&amp;bamInfo[hasBlockerExtension]=false&amp;bamInfo[environment]=le&amp;bamInfo[labelKey]=common.header.country_language_selector.country&amp;bamInfo[crsLocale]=en-US" style="position: absolute; top: -100px;"/>
+Deleted Tag: <img aria-hidden="true" src="https://beacon.klm.com/beacon/baminsights.!cf?ApplicationId=BW&amp;Scope=PAGE&amp;URL=https%3A%2F%2Fwwws.airfrance.fr%2Fen&amp;CorrelationId=9ba93749-6df9-40ab-baae-634953c07b43&amp;Activity=translationError&amp;bamInfo[ubcName]=home&amp;bamInfo[brand]=af&amp;bamInfo[country]=FR&amp;bamInfo[language]=en-US&amp;bamInfo[requestUri][hostname]=wwws.airfrance.fr&amp;bamInfo[requestUri][pathname]=%2F&amp;bamInfo[requestUri][originalPathname]=%2Fen&amp;bamInfo[hasBlockerExtension]=false&amp;bamInfo[environment]=le&amp;bamInfo[labelKey]=common.header.country_language_selector.language&amp;bamInfo[crsLocale]=en-US" style="position: absolute; top: -100px;"/>
+Deleted Tag: <img aria-hidden="true" src="https://beacon.klm.com/beacon/baminsights.!cf?ApplicationId=BW&amp;Scope=PAGE&amp;URL=https%3A%2F%2Fwwws.airfrance.fr%2Fen&amp;CorrelationId=9ba93749-6df9-40ab-baae-634953c07b43&amp;Activity=translationError&amp;bamInfo[ubcName]=home&amp;bamInfo[brand]=af&amp;bamInfo[country]=FR&amp;bamInfo[language]=en-US&amp;bamInfo[requestUri][hostname]=wwws.airfrance.fr&amp;bamInfo[requestUri][pathname]=%2F&amp;bamInfo[requestUri][originalPathname]=%2Fen&amp;bamInfo[hasBlockerExtension]=false&amp;bamInfo[environment]=le&amp;bamInfo[labelKey]=common.header.country_language_selector.a11y.selected&amp;bamInfo[crsLocale]=en-US" style="position: absolute; top: -100px;"/>
+Deleted Tag: <img aria-hidden="true" src="https://beacon.klm.com/beacon/baminsights.!cf?ApplicationId=BW&amp;Scope=PAGE&amp;URL=https%3A%2F%2Fwwws.airfrance.fr%2Fen&amp;CorrelationId=9ba93749-6df9-40ab-baae-634953c07b43&amp;Activity=translationError&amp;bamInfo[ubcName]=home&amp;bamInfo[brand]=af&amp;bamInfo[country]=FR&amp;bamInfo[language]=en-US&amp;bamInfo[requestUri][hostname]=wwws.airfrance.fr&amp;bamInfo[requestUri][pathname]=%2F&amp;bamInfo[requestUri][originalPathname]=%2Fen&amp;bamInfo[hasBlockerExtension]=false&amp;bamInfo[environment]=le&amp;bamInfo[labelKey]=common.btn_close&amp;bamInfo[crsLocale]=en-US" style="position: absolute; top: -100px;"/>
+Deleted Tag: <img aria-hidden="true" src="https://beacon.klm.com/beacon/baminsights.!cf?ApplicationId=BW&amp;Scope=PAGE&amp;URL=https%3A%2F%2Fwwws.airfrance.fr%2Fen&amp;CorrelationId=9ba93749-6df9-40ab-baae-634953c07b43&amp;Activity=translationError&amp;bamInfo[ubcName]=home&amp;bamInfo[brand]=af&amp;bamInfo[country]=FR&amp;bamInfo[language]=en-US&amp;bamInfo[requestUri][hostname]=wwws.airfrance.fr&amp;bamInfo[requestUri][pathname]=%2F&amp;bamInfo[requestUri][originalPathname]=%2Fen&amp;bamInfo[hasBlockerExtension]=false&amp;bamInfo[environment]=le&amp;bamInfo[labelKey]=common.generic.header.label_login&amp;bamInfo[crsLocale]=en-US" style="position: absolute; top: -100px;"/>
+Deleted Tag: <img aria-hidden="true" src="https://beacon.klm.com/beacon/baminsights.!cf?ApplicationId=BW&amp;Scope=PAGE&amp;URL=https%3A%2F%2Fwwws.airfrance.fr%2Fen&amp;CorrelationId=9ba93749-6df9-40ab-baae-634953c07b43&amp;Activity=translationError&amp;bamInfo[ubcName]=home&amp;bamInfo[brand]=af&amp;bamInfo[country]=FR&amp;bamInfo[language]=en-US&amp;bamInfo[requestUri][hostname]=wwws.airfrance.fr&amp;bamInfo[requestUri][pathname]=%2F&amp;bamInfo[requestUri][originalPathname]=%2Fen&amp;bamInfo[hasBlockerExtension]=false&amp;bamInfo[environment]=le&amp;bamInfo[labelKey]=common.generic.header.label_enrol&amp;bamInfo[crsLocale]=en-US" style="position: absolute; top: -100px;"/>
+Deleted Tag: <img aria-hidden="true" src="https://beacon.klm.com/beacon/baminsights.!cf?ApplicationId=BW&amp;Scope=PAGE&amp;URL=https%3A%2F%2Fwwws.airfrance.fr%2Fen&amp;CorrelationId=9ba93749-6df9-40ab-baae-634953c07b43&amp;Activity=translationError&amp;bamInfo[ubcName]=home&amp;bamInfo[brand]=af&amp;bamInfo[country]=FR&amp;bamInfo[language]=en-US&amp;bamInfo[requestUri][hostname]=wwws.airfrance.fr&amp;bamInfo[requestUri][pathname]=%2F&amp;bamInfo[requestUri][originalPathname]=%2Fen&amp;bamInfo[hasBlockerExtension]=false&amp;bamInfo[environment]=le&amp;bamInfo[labelKey]=common.generic.header.a11y.login&amp;bamInfo[crsLocale]=en-US" style="position: absolute; top: -100px;"/>
+Deleted Tag: <img aria-hidden="true" src="https://beacon.klm.com/beacon/baminsights.!cf?ApplicationId=BW&amp;Scope=PAGE&amp;URL=https%3A%2F%2Fwwws.airfrance.fr%2Fen&amp;CorrelationId=9ba93749-6df9-40ab-baae-634953c07b43&amp;Activity=translationError&amp;bamInfo[ubcName]=home&amp;bamInfo[brand]=af&amp;bamInfo[country]=FR&amp;bamInfo[language]=en-US&amp;bamInfo[requestUri][hostname]=wwws.airfrance.fr&amp;bamInfo[requestUri][pathname]=%2F&amp;bamInfo[requestUri][originalPathname]=%2Fen&amp;bamInfo[hasBlockerExtension]=false&amp;bamInfo[environment]=le&amp;bamInfo[labelKey]=common.generic.header.a11y.enrol&amp;bamInfo[crsLocale]=en-US" style="position: absolute; top: -100px;"/>
+Deleted Tag: <img aria-hidden="true" src="https://beacon.klm.com/beacon/baminsights.!cf?ApplicationId=BW&amp;Scope=PAGE&amp;URL=https%3A%2F%2Fwwws.airfrance.fr%2Fen&amp;CorrelationId=9ba93749-6df9-40ab-baae-634953c07b43&amp;Activity=translationError&amp;bamInfo[ubcName]=home&amp;bamInfo[brand]=af&amp;bamInfo[country]=FR&amp;bamInfo[language]=en-US&amp;bamInfo[requestUri][hostname]=wwws.airfrance.fr&amp;bamInfo[requestUri][pathname]=%2F&amp;bamInfo[requestUri][originalPathname]=%2Fen&amp;bamInfo[hasBlockerExtension]=false&amp;bamInfo[environment]=le&amp;bamInfo[labelKey]=common.generic.header.a11y.country_language_selector&amp;bamInfo[crsLocale]=en-US" style="position: absolute; top: -100px;"/>
+Deleted Tag: <img aria-hidden="true" src="https://beacon.klm.com/beacon/baminsights.!cf?ApplicationId=BW&amp;Scope=PAGE&amp;URL=https%3A%2F%2Fwwws.airfrance.fr%2Fen&amp;CorrelationId=9ba93749-6df9-40ab-baae-634953c07b43&amp;Activity=translationError&amp;bamInfo[ubcName]=home&amp;bamInfo[brand]=af&amp;bamInfo[country]=FR&amp;bamInfo[language]=en-US&amp;bamInfo[requestUri][hostname]=wwws.airfrance.fr&amp;bamInfo[requestUri][pathname]=%2F&amp;bamInfo[requestUri][originalPathname]=%2Fen&amp;bamInfo[hasBlockerExtension]=false&amp;bamInfo[environment]=le&amp;bamInfo[labelKey]=common.generic.header.a11y.hamburger_menu&amp;bamInfo[crsLocale]=en-US" style="position: absolute; top: -100px;"/>
+Deleted Tag: <img aria-hidden="true" src="https://beacon.klm.com/beacon/baminsights.!cf?ApplicationId=BW&amp;Scope=PAGE&amp;URL=https%3A%2F%2Fwwws.airfrance.fr%2Fen&amp;CorrelationId=9ba93749-6df9-40ab-baae-634953c07b43&amp;Activity=translationError&amp;bamInfo[ubcName]=home&amp;bamInfo[brand]=af&amp;bamInfo[country]=FR&amp;bamInfo[language]=en-US&amp;bamInfo[requestUri][hostname]=wwws.airfrance.fr&amp;bamInfo[requestUri][pathname]=%2F&amp;bamInfo[requestUri][originalPathname]=%2Fen&amp;bamInfo[hasBlockerExtension]=false&amp;bamInfo[environment]=le&amp;bamInfo[labelKey]=common.redirection.title&amp;bamInfo[crsLocale]=en-US" style="position: absolute; top: -100px;"/>
+Deleted Tag: <img aria-hidden="true" src="https://beacon.klm.com/beacon/baminsights.!cf?ApplicationId=BW&amp;Scope=PAGE&amp;URL=https%3A%2F%2Fwwws.airfrance.fr%2Fen&amp;CorrelationId=9ba93749-6df9-40ab-baae-634953c07b43&amp;Activity=translationError&amp;bamInfo[ubcName]=home&amp;bamInfo[brand]=af&amp;bamInfo[country]=FR&amp;bamInfo[language]=en-US&amp;bamInfo[requestUri][hostname]=wwws.airfrance.fr&amp;bamInfo[requestUri][pathname]=%2F&amp;bamInfo[requestUri][originalPathname]=%2Fen&amp;bamInfo[hasBlockerExtension]=false&amp;bamInfo[environment]=le&amp;bamInfo[labelKey]=common.redirection.subtitle&amp;bamInfo[crsLocale]=en-US" style="position: absolute; top: -100px;"/>
+Deleted Tag: <img aria-hidden="true" src="https://beacon.klm.com/beacon/baminsights.!cf?ApplicationId=BW&amp;Scope=PAGE&amp;URL=https%3A%2F%2Fwwws.airfrance.fr%2Fen&amp;CorrelationId=9ba93749-6df9-40ab-baae-634953c07b43&amp;Activity=translationError&amp;bamInfo[ubcName]=home&amp;bamInfo[brand]=af&amp;bamInfo[country]=FR&amp;bamInfo[language]=en-US&amp;bamInfo[requestUri][hostname]=wwws.airfrance.fr&amp;bamInfo[requestUri][pathname]=%2F&amp;bamInfo[requestUri][originalPathname]=%2Fen&amp;bamInfo[hasBlockerExtension]=false&amp;bamInfo[environment]=le&amp;bamInfo[labelKey]=common.generic.header.content_search.a11y.search&amp;bamInfo[crsLocale]=en-US" style="position: absolute; top: -100px;"/>
+Deleted Tag: <img aria-hidden="true" src="https://beacon.klm.com/beacon/baminsights.!cf?ApplicationId=BW&amp;Scope=PAGE&amp;URL=https%3A%2F%2Fwwws.airfrance.fr%2Fen&amp;CorrelationId=9ba93749-6df9-40ab-baae-634953c07b43&amp;bamInfo[ubcName]=home&amp;bamInfo[brand]=af&amp;bamInfo[country]=FR&amp;bamInfo[language]=en-US&amp;bamInfo[requestUri][hostname]=wwws.airfrance.fr&amp;bamInfo[requestUri][pathname]=%2F&amp;bamInfo[requestUri][originalPathname]=%2Fen&amp;bamInfo[hasBlockerExtension]=false&amp;bamInfo[environment]=le&amp;bamInfo[stackTrace][message]=ChunkLoadError%3A%20(error)%2092202.1ee5b89af1b94bdd.js&amp;bamInfo[stackTrace][stack]=Error%3A%20Uncaught%20(in%20promise)%3A%20ChunkLoadError%3A%20Loading%20chunk%2092202%20failed.%0A(error%3A%20https%3A%2F%2F%7Bdomain%7D%2Fassets%2F92202.1ee5b89af1b94bdd.js)%0AChunkLoadError%3A%20Loading%20chunk%2092202%20failed.%0A(error%3A%20https%3A%2F%2F%7Bdomain%7D%2Fassets%2F92202.1ee5b89af1b94bdd.js)%0A%20%20%20%20at%20f.f.j%20(https%3A%2F%2F%7Bdomain%7D%2Fassets%2Fruntime.d96f43eed259c0e4.js%3A1%3A37275)&amp;Activity=stacktrace" style="position: absolute; top: -100px;"/>
+Deleted Tag: <noscript></noscript>
+Deleted Tag: <iframe height="0" hidden="" src="https://a4268742351.cdn.optimizely.com/client_storage/a4268742351.html" style="display: none;" tabindex="-1" title="Optimizely Internal Frame" width="0"></iframe>
+Deleted Link: 
+Deleted Link: 
+Deleted Link: 
+Deleted Link: 
+Deleted Link: 
+Deleted Link: 
+Deleted Link: 
+Deleted Link: 
+Deleted Link: 
+Deleted Link: 
