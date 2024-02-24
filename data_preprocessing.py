@@ -168,110 +168,100 @@ def prepend_base_url_to_links(input_file_path, output_file_path, base_url):
             output_file.write(line)
 
 
-def main(html_files, links):
+def main(links):
     """
     Main function to process HTML content and save the main content and deleted content to separate files.
 
     Parameters:
-    - html_files: A list of HTML file paths to process.
-    - links: A list of lists containing company names and website URLs.
+    - links: A list of lists containing company names, website URLs, and paths to HTML files.
     """
     cleaned_html_files = []
     output_file_paths_folder = 'cleaned_html_files'
-    output_file_paths = [os.path.join(output_file_paths_folder, os.path.basename(file_path).replace(
-        '.html', '_cleaned.txt')) for file_path in html_files]
-
     deleted_content_file_paths_folder = 'deleted_html_file_content'
-    deleted_content_file_paths = [os.path.join(deleted_content_file_paths_folder, os.path.basename(file_path).replace(
-        '.html', '_deleted.txt')) for file_path in html_files]
 
-    for i, html_file in enumerate(html_files):
-        clean_and_process_html_code(
-            html_file, output_file_paths[i], deleted_content_file_paths[i], ['link', 'style', 'script', 'meta', 'path', 'img', 'logo', 'noscript', 'iframe'], ['sup', 'sub'], 'p')
-        cleaned_html_files.append(output_file_paths[i])
+    # Directories are created outside the loop to ensure they exist before processing files
+    os.makedirs(output_file_paths_folder, exist_ok=True)
+    os.makedirs(deleted_content_file_paths_folder, exist_ok=True)
 
     tos_dict = {}
 
-    for i, link_info in enumerate(links):
-        company_name = link_info[0]
-        website_url = link_info[1]
-        html_file = html_files[i]
-        cleaned_file_path = cleaned_html_files[i]
+    for link_info in links:
+        company_name, website_url, html_file = link_info
+        output_file_path = os.path.join(output_file_paths_folder, os.path.basename(
+            html_file).replace('.html', '_cleaned.txt'))
+        deleted_content_file_path = os.path.join(deleted_content_file_paths_folder, os.path.basename(
+            html_file).replace('.html', '_deleted.txt'))
+
+        clean_and_process_html_code(
+            html_file, output_file_path, deleted_content_file_path,
+            tags_to_remove=['link', 'style', 'script', 'meta',
+                            'path', 'img', 'logo', 'noscript', 'iframe'],
+            tags_to_change=['sup', 'sub'],
+            new_tag='p')
+
+        cleaned_html_files.append(output_file_path)
+
+        # Construct the TOS dictionary entry for each company
         tos_dict[company_name] = {
             "website_url": website_url,
             "html_file": html_file,
-            "cleaned_file_path": cleaned_file_path
+            "cleaned_file_path": output_file_path,
+            # Extract and include the base URL directly here
+            "base_url": extract_base_url(website_url)
         }
 
-    # Now, update each dictionary entry with its base URL
-    for company_name, details in tos_dict.items():
-        # Use the function to extract the base URL for the current company's website URL
-        base_url = extract_base_url(details['website_url'])
-        # Update the dictionary with the new 'base_url' key for the company
-        details['base_url'] = base_url
-
-    # Prepend base URL to links in cleaned HTML files
+    # Prepend base URL to links in cleaned HTML files and update TOS dictionary with extracted content and links
     for company_name, details in tos_dict.items():
         input_file_path = details['cleaned_file_path']
         output_file_path = f'cleaned_html_files_with_base_url/{company_name}_TOS_cleaned_with_base_url.txt'
         base_url = details['base_url']
-        print(input_file_path)
-        print(output_file_path)
-        print(base_url)
+
         prepend_base_url_to_links(input_file_path, output_file_path, base_url)
 
-    for company_name, details in tos_dict.items():
-        extracted_links_from_cleaned_base_url_file = extract_links_from_cleaned_html_file(
-            f'cleaned_html_files_with_base_url/{company_name}_TOS_cleaned_with_base_url.txt')
-        details['extracted_links'] = extracted_links_from_cleaned_base_url_file
+        extracted_links = extract_links_from_cleaned_html_file(
+            output_file_path)
+        extracted_text = extract_text_from_cleaned_html_file(output_file_path)
 
-    for company_name, details in tos_dict.items():
-        extracted_text_from_cleaned_base_url_file = extract_text_from_cleaned_html_file(
-            f'cleaned_html_files_with_base_url/{company_name}_TOS_cleaned_with_base_url.txt')
-        details['extracted_text'] = extracted_text_from_cleaned_base_url_file
+        # Update TOS dictionary with extracted links and text
+        details['extracted_links'] = extracted_links
         # Merge all of the extracted text into a single string
-        details['extracted_text'] = ' '.join(details['extracted_text'])
+        details['extracted_text'] = ' '.join(extracted_text)
 
     return tos_dict
 
 
-sorted_html_files = [
-    'html_files/Facebook_TOS.html',
-    'html_files/American Express_TOS.html',
-    'html_files/Visa_TOS.html',
-    'html_files/MasterCard_TOS.html',
-    'html_files/Discover_TOS.html',
-    'html_files/Chase_TOS.html',
-    'html_files/Delta Airlines_TOS.html',
-    'html_files/American Airlines_TOS.html',
-    'html_files/United Airlines_TOS.html',
-    'html_files/Southwest Airlines_TOS.html',
-    'html_files/Lufthansa_TOS.html',
-    'html_files/British Airways_TOS.html',
-    'html_files/Air France_TOS.html',
-    'html_files/Emirates_TOS.html'
-]
-
-
 links = [
-    ["Facebook", "https://www.facebook.com/legal/terms"],
-    ["American Express", "https://www.americanexpress.com/us/legal-disclosures/website-rules-and-regulations.html"],
-    ["Visa", "https://usa.visa.com/legal/global-privacy-notice.html"],
-    ["MasterCard", "https://www.mastercard.us/en-us/about-mastercard/what-we-do/terms-of-use.html"],
-    ["Discover", "https://www.discover.com/student-loans/help/interestonly?gcmpgn=1218_ZZ_srch_gsan_txt_2&srchQ=terms%20and%20conditions&srchC=internet_cm_fe"],
-    ["Chase", "https://www.chase.com/digital/resources/terms-of-use"],
-    ["Delta Airlines", "https://www.delta.com/content/mobile/trip-extras/terms-and-conditions.html"],
-    ["American Airlines",
-        "https://www.aa.com/i18n/customer-service/support/conditions-of-carriage.jsp"],
-    ["United Airlines", "https://www.united.com/ual/en/us/fly/contract-of-carriage.html"],
-    ["Southwest Airlines", "https://www.southwest.com/about-southwest/terms-and-conditions/"],
-    ["Lufthansa", "https://www.lufthansa.com/us/en/terms-of-use"],
-    ["British Airways", "https://www.britishairways.com/en-us/information/legal/british-airways/general-conditions-of-carriage"],
-    ["Air France", "https://wwws.airfrance.us/information/legal"],
-    ["Emirates", "https://www.emirates.com/us/english/legal/terms-and-conditions/"]
+    ["Facebook", "https://www.facebook.com/legal/terms",
+        'html_files/Facebook_TOS.html'],
+    ["American Express", "https://www.americanexpress.com/us/legal-disclosures/website-rules-and-regulations.html",
+        'html_files/American Express_TOS.html'],
+    ["Visa", "https://usa.visa.com/legal/global-privacy-notice.html",
+        'html_files/Visa_TOS.html'],
+    ["MasterCard", "https://www.mastercard.us/en-us/about-mastercard/what-we-do/terms-of-use.html",
+        'html_files/MasterCard_TOS.html'],
+    ["Discover", "https://www.discover.com/student-loans/help/interestonly?gcmpgn=1218_ZZ_srch_gsan_txt_2&srchQ=terms%20and%20conditions&srchC=internet_cm_fe", 'html_files/Discover_TOS.html'],
+    ["Chase", "https://www.chase.com/digital/resources/terms-of-use",
+        'html_files/Chase_TOS.html'],
+    ["Delta Airlines", "https://www.delta.com/content/mobile/trip-extras/terms-and-conditions.html",
+        'html_files/Delta Airlines_TOS.html'],
+    ["American Airlines", "https://www.aa.com/i18n/customer-service/support/conditions-of-carriage.jsp",
+        'html_files/American Airlines_TOS.html'],
+    ["United Airlines", "https://www.united.com/ual/en/us/fly/contract-of-carriage.html",
+        'html_files/United Airlines_TOS.html'],
+    ["Southwest Airlines", "https://www.southwest.com/about-southwest/terms-and-conditions/",
+        'html_files/Southwest Airlines_TOS.html'],
+    ["Lufthansa", "https://www.lufthansa.com/us/en/terms-of-use",
+        'html_files/Lufthansa_TOS.html'],
+    ["British Airways", "https://www.britishairways.com/en-us/information/legal/british-airways/general-conditions-of-carriage",
+        'html_files/British Airways_TOS.html'],
+    ["Air France", "https://wwws.airfrance.us/information/legal",
+        'html_files/Air France_TOS.html'],
+    ["Emirates", "https://www.emirates.com/us/english/legal/terms-and-conditions/",
+        'html_files/Emirates_TOS.html']
 ]
 
-tos_dict = main(sorted_html_files, links)
+tos_dict = main(links)
+
 
 tos_dict['Facebook']['extracted_links']
 
@@ -282,4 +272,5 @@ for link in tos_dict['American Airlines']['extracted_text']:
 
 tos_dict['American Airlines']['extracted_text']
 
-tos_dict['American Airlines']
+tos_dict['American Airlines']['extracted_links']
+tos_dict['American Airlines']['extracted_text']
