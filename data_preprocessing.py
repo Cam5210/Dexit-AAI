@@ -52,7 +52,7 @@ def process_html_content(html_content, tags_to_remove, tags_to_change, new_tag):
             try:
                 href = element.get('href')
                 if href and not href.startswith('#'):
-                    content.append(href)
+                    content.append(f"[Link  {href}]")
                 else:
                     deleted_content.append(
                         'Deleted Link: ' + (str(href) if href else ''))
