@@ -168,6 +168,24 @@ def prepend_base_url_to_links(input_file_path, output_file_path, base_url):
             output_file.write(line)
 
 
+def remove_text_and_link_tags_from_html_file(input_file_path):
+    """
+    Remove all text and link tags from an HTML file and save the result to a new file.
+
+    Parameters:
+    - input_file_path: Path to the input HTML file.
+    """
+    # Ensure the output directory exists
+    output_dir = os.path.dirname(input_file_path)
+    os.makedirs(output_dir, exist_ok=True)
+
+    with open(input_file_path, 'r', encoding='utf-8') as input_file, \
+            open(input_file_path + '_no_text_or_link_tags.html', 'w', encoding='utf-8') as output_file:
+        for line in input_file:
+            line.replace("Text: ", "")
+            line.replace("Link: ", "")
+
+
 def main(links):
     """
     Main function to process HTML content and save the main content and deleted content to separate files.
