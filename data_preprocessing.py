@@ -11,44 +11,6 @@ def extract_base_url(url):
     return base_url
 
 
-def extract_links_from_cleaned_html_file(cleaned_html_file_path):
-    """
-    Extract all links from a cleaned HTML file that have "Text: " in the following line.
-
-    Parameters:
-    - cleaned_html_file_path: Path to the cleaned HTML file.
-    Returns:
-    - A list of links extracted from the cleaned HTML file.
-    """
-    links = []
-    with open(cleaned_html_file_path, 'r', encoding='utf-8') as file:
-        for line in file:
-            if line.startswith("Link: "):
-                links.append(line[6:])
-    return links
-
-
-def extract_text_from_cleaned_html_file(cleaned_html_file_path):
-    """
-    Extract all text from a cleaned HTML file that have "Text: " in the following line.
-
-    Parameters:
-    - cleaned_html_file_path: Path to the cleaned HTML file.
-    Returns:
-    - A list of text extracted from the cleaned HTML file.
-    """
-    text = []
-    with open(cleaned_html_file_path, 'r', encoding='utf-8') as file:
-        for line in file:
-            if line.startswith("Text: "):
-                text.append(line[6:] + " ")
-    return text
-
-
-extract_text_from_cleaned_html_file(
-    'cleaned_html_files_with_base_url/American Airlines_TOS_cleaned_with_base_url.txt')
-
-
 def process_html_content(html_content, tags_to_remove, tags_to_change, new_tag):
     """
     Process HTML content to remove specified tags, change certain tags to a new tag,
@@ -90,7 +52,7 @@ def process_html_content(html_content, tags_to_remove, tags_to_change, new_tag):
             try:
                 href = element.get('href')
                 if href and not href.startswith('#'):
-                    content.append('Link: ' + href)
+                    content.append(href)
                 else:
                     deleted_content.append(
                         'Deleted Link: ' + (str(href) if href else ''))
@@ -99,7 +61,7 @@ def process_html_content(html_content, tags_to_remove, tags_to_change, new_tag):
         elif element.name is None:
             text = element.strip()
             if text:
-                content.append('Text: ' + text)
+                content.append(text)
 
     # Prepare final content strings
     final_content = '\n'.join([item for item in content if item.strip()])
@@ -168,24 +130,6 @@ def prepend_base_url_to_links(input_file_path, output_file_path, base_url):
             output_file.write(line)
 
 
-def remove_text_and_link_tags_from_html_file(input_file_path):
-    """
-    Remove all text and link tags from an HTML file and save the result to a new file.
-
-    Parameters:
-    - input_file_path: Path to the input HTML file.
-    """
-    # Ensure the output directory exists
-    output_dir = os.path.dirname(input_file_path)
-    os.makedirs(output_dir, exist_ok=True)
-
-    with open(input_file_path, 'r', encoding='utf-8') as input_file, \
-            open(input_file_path + '_no_text_or_link_tags.html', 'w', encoding='utf-8') as output_file:
-        for line in input_file:
-            line.replace("Text: ", "")
-            line.replace("Link: ", "")
-
-
 def main(links):
     """
     Main function to process HTML content and save the main content and deleted content to separate files.
@@ -226,6 +170,7 @@ def main(links):
             "cleaned_file_path": output_file_path,
             # Extract and include the base URL directly here
             "base_url": extract_base_url(website_url)
+
         }
 
     # Prepend base URL to links in cleaned HTML files and update TOS dictionary with extracted content and links
@@ -235,15 +180,6 @@ def main(links):
         base_url = details['base_url']
 
         prepend_base_url_to_links(input_file_path, output_file_path, base_url)
-
-        extracted_links = extract_links_from_cleaned_html_file(
-            output_file_path)
-        extracted_text = extract_text_from_cleaned_html_file(output_file_path)
-
-        # Update TOS dictionary with extracted links and text
-        details['extracted_links'] = extracted_links
-        # Merge all of the extracted text into a single string
-        details['extracted_text'] = ' '.join(extracted_text)
 
     return tos_dict
 
@@ -281,14 +217,4 @@ links = [
 tos_dict = main(links)
 
 
-tos_dict['Facebook']['extracted_links']
-
-
-for link in tos_dict['American Airlines']['extracted_text']:
-    print(link)
-
-
-tos_dict['American Airlines']['extracted_text']
-
-tos_dict['American Airlines']['extracted_links']
-tos_dict['American Airlines']['extracted_text']
+tos_dict
